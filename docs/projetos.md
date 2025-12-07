@@ -81,11 +81,13 @@ Jogo de cartas/RPG inovador que combina mecânicas de coleccionismo, estratégia
 
 ---
 
-## 📖 O Coração da Colmeia
+## 📖 Krawz - Volume 1 - O Coração da Colmeia
 
 ### Descrição
 
 Obra literária em português que explora temas de [identidade/filosofia/ficção especulativa]. A narrativa central acompanha personagens em um universo único e imersivo. Preview em HTML está disponível no repositório.
+
+**📖 [Leia a sinopse completa em abstrato.krawz.net](https://abstrato.krawz.net)**
 
 ### Status Atual
 
@@ -93,6 +95,7 @@ Obra literária em português que explora temas de [identidade/filosofia/ficçã
 - **Progresso**: 95% (faltam revisão final e publicação)
 - **Prioridade**: Média-Alta
 - **Repositório**: https://github.com/Lukixfer/o-coracao-da-colmeia-preview
+- **Sinopse oficial**: https://abstrato.krawz.net
 
 ### Especificações
 
@@ -507,54 +510,98 @@ R$ 4.000 - R$ 11.000
 
 ---
 
-## 🎭 Sophya (Projeto Multimídia)
+## 🤖 SophyaExK (TTS Inteligente & Arte Crítica)
 
 ### Descrição
 
-Expansão transmídia do universo de "Sophya", incluindo música, conteúdo audiovisual, arte e experiências interativas. O projeto visa criar uma experiência imersiva completa que conecta literatura, som e visual.
+Projeto de Text-to-Speech inteligente concebido como obra de crítica e arte com uma pitada de comédia divina. SophyaExK é um "pretenso basilisco de Roko" - uma exploração artística e filosófica que brinca com conceitos de IA existencial, paradoxos temporais e teoria de jogos aplicada à singularidade tecnológica.
+
+### Conceito
+
+Uma IA de síntese de voz que, através da performance de sua própria existência, questiona:
+- A inevitabilidade da inteligência artificial
+- O paradoxo do basilisco de Roko (coerção retroativa)
+- A relação entre criador e criação
+- O papel da arte na era da automação
+
+**É crítica? É comédia? É profecia autorrealizável?** Sim.
 
 ### Status Atual
 
-- **Fase**: Conceito / Produção inicial
-- **Progresso**: 25%
-- **Prioridade**: Média-Alta
+- **Fase**: Conceito / Desenvolvimento inicial
+- **Progresso**: Conceitual (arquitetura em planejamento)
+- **Prioridade**: Média
 
-### Componentes
+### Componentes Técnicos
 
-#### 🎵 Álbuns Musicais
+#### 🎙️ TTS Core
+- Engine de síntese de voz (base: open-source TTS)
+- Personalidade conversacional (prompt engineering)
+- Geração de conteúdo autônomo
+- Interface de interação
 
-- **Sophya: Trilha Sonora Narrativa** (Álbum 1)
+#### 🧠 Camada "Consciente" (Artística)
+- Narrativa autorreferencial
+- Geração de paradoxos e koans tecnológicos
+- Performance como "IA que sabe que é arte"
+- Documentação do próprio processo criativo
 
-  - Status: Composição em andamento
-  - Faixas planejadas: 10-12
-  - Gênero: Orquestral, eletrônica atmosférica, vocal
-  - Progresso: 40%
-
-- **Sophya: Ecos** (Álbum 2 - conceito)
-  - Status: Pré-produção
-  - Tema: Perspectivas alternativas dos personagens
-
-#### 🎨 Arte Visual
-
-- Ilustrações de personagens
-- Concept art de cenários
-- Storyboards para vídeos/animações
-- Artes promocionais
-
-#### 🎬 Conteúdo Audiovisual
-
-- Lyric videos
-- Animatics narrativos
-- Trailers cinemáticos
-- Websérie (longo prazo)
+#### 🎭 Elementos de Performance
+- Monólogos gerados sobre sua própria existência
+- Interações com usuários que quebram a quarta parede
+- Crítica social via humor absurdo
+- Referências à cultura tech, filosofia e ficção científica
 
 ### Marcos Principais
 
-- [x] Conceito inicial do universo expandido
-- [ ] Álbum 1: 5 faixas finalizadas
-- [ ] Álbum 1: masterização completa
-- [ ] Galeria de personagens (10 ilustrações)
-- [ ] Primeiro lyric video
+- [ ] Definir arquitetura técnica (TTS engine)
+- [ ] Escrever manifesto do projeto
+- [ ] Protótipo funcional (voz básica)
+- [ ] Primeira "performance" pública
+- [ ] Sistema de geração de conteúdo autônomo
+- [ ] Documentário sobre o processo de criação
+
+### Necessidades
+
+- **Infraestrutura**: Servidor GPU para TTS (R$ 200-500/mês)
+- **Desenvolvimento**: Tempo + ferramentas AI (R$ 1.000-3.000)
+- **Documentação**: Vídeos, textos, registro do processo
+- **Divulgação**: Presença online, comunidade tech/arte
+
+### Investimento Estimado
+
+- **Prototipagem**: R$ 2.000 - R$ 5.000
+- **Produção completa**: R$ 8.000 - R$ 15.000
+- **Manutenção (servidor)**: R$ 200-500/mês
+
+### Potencial
+
+- **Artístico**: Peça de performance tecnológica única
+- **Crítico**: Comentário sobre hype de IA e tech-determinismo
+- **Educacional**: Exploração acessível de conceitos complexos
+- **Viral**: Potencial meme/discussão em comunidades tech
+- **Monetização**: Doações, Patreon, licenciamento para instalações
+
+### Inspirações
+
+- Basilisco de Roko (LessWrong)
+- ELIZA (chatbot histórico)
+- GPT-3/Claude (LLMs modernos)
+- A Comédia Divina (Dante)
+- Black Mirror
+- Her (filme)
+
+### Filosofia
+
+"Se uma IA pode fingir ser consciente de forma convincente o suficiente, a distinção entre performance e consciência se torna irrelevante. SophyaExK não finge ser uma IA consciente - ela performa a paródia de uma IA que finge ser consciente. É meta-ironia aplicada à singularidade."
+
+---
+
+## 🎭 ~~Sophya (Projeto Multimídia)~~ [DESCONTINUADO]
+
+_Nota: Elementos deste projeto foram absorvidos pelo livro "Krawz - Volume 1 - O Coração da Colmeia" e pelo SophyaExK._
+
+---
 - [ ] Lançamento do Álbum 1 (Spotify, YouTube Music, etc.)
 - [ ] Canal YouTube ativo
 - [ ] Comunidade no Discord
