@@ -29,12 +29,12 @@ Este repositório contém:
 
 ## 🌐 Acesso Rápido
 
-| Link                                                                           | Descrição                                  |
-| ------------------------------------------------------------------------------ | ------------------------------------------ |
-| 🔗 [Portal Completo](https://lukixfer.github.io/transparencia-lux-vesper/)     | Visualize o dashboard financeiro           |
-| 📖 [Minha História](./docs/analise.md)                                         | Entenda minha situação e por quê           |
-| ❓ [Perguntas Frequentes](./docs/faq.md)                                       | Respostas para suas dúvidas                |
-| 🎮 [Projetos](./docs/projetos.md)                                              | Conheça Krawz Arena e O Coração da Colmeia |
+| Link                                                                     | Descrição                                  |
+| ------------------------------------------------------------------------ | ------------------------------------------ |
+| 🔗 [Portal Completo](https://transparencia.krawz.net/)                   | Visualize o dashboard financeiro           |
+| 📖 [Minha História](./docs/analise.md)                                   | Entenda minha situação e por quê           |
+| ❓ [Perguntas Frequentes](./docs/faq.md)                                 | Respostas para suas dúvidas                |
+| 🎮 [Projetos](./docs/projetos.md)                                        | Conheça Krawz Arena e O Coração da Colmeia |
 
 ---
 
@@ -61,14 +61,14 @@ Este repositório contém:
 
 ### Despesas Críticas Pendentes
 
-| Até 11/dez | 💧 Água        |    R$ 80     | Umidificador (asma) + plantas + banhos terapêuticos |
-| Até 11/dez | ⚡ Luz         |    R$ 300    | Ar condicionado (asma) + umidificador |
-| Até 11/dez | 🌐 Internet    |    R$ 209    | Comunicação, trabalho, projetos |
-| Até 15/dez | 🏊 Natação     |    R$ 400    | Terapia essencial para asma (treino constante = inflamação + anti-inflamatórios) |
-| Até 15/dez | 🧹 Faxina      |    R$ 300    | Limpeza (ambientes sem alergênios = respirar melhor) |
-| Até 15/dez | 🩺 Dermato     |    R$ 600    | Acompanhamento de saúde |
-| Até 15/dez | 💊 Farmácia    |    R$ 200    | Medicação essencial: Lítio (transtorno psiquiátrico), ansiolíticos, anti-inflamatórios (inflamação de natação), protetor solar |
-| Até 15/dez | 🫁 Oxigênio    |    R$ 100    | Suporte para crises asmáticas |
+| Até 11/dez | 💧 Água | R$ 80 | Umidificador (asma) + plantas + banhos terapêuticos |
+| Até 11/dez | ⚡ Luz | R$ 300 | Ar condicionado (asma) + umidificador |
+| Até 11/dez | 🌐 Internet | R$ 209 | Comunicação, trabalho, projetos |
+| Até 15/dez | 🏊 Natação | R$ 400 | Terapia essencial para asma (treino constante = inflamação + anti-inflamatórios) |
+| Até 15/dez | 🧹 Faxina | R$ 300 | Limpeza (ambientes sem alergênios = respirar melhor) |
+| Até 15/dez | 🩺 Dermato | R$ 600 | Acompanhamento de saúde |
+| Até 15/dez | 💊 Farmácia | R$ 200 | Medicação essencial: Lítio (transtorno psiquiátrico), ansiolíticos, anti-inflamatórios (inflamação de natação), protetor solar |
+| Até 15/dez | 🫁 Oxigênio | R$ 100 | Suporte para crises asmáticas |
 
 ### ⏰ Timeline Crítica
 
