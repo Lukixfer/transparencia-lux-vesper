@@ -5,8 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="upgrade-insecure-requests"
+      content="upgrade-insecure-requests; script-src 'self' 'unsafe-inline'"
     />
+    <!-- Bloqueia beacon do Cloudflare que causa aviso de segurança -->
+    <script>
+      if (window.location.protocol === 'https:') {
+        Object.defineProperty(window, '__cfBeacon', {
+          set: function() {},
+          get: function() { return undefined; }
+        });
+      }
+    </script>
     <title>{{ page.title | default: site.title }}</title>
     <meta
       name="description"
