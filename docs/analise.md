@@ -138,6 +138,12 @@ Vamos desmontar:
 - Faxina: R$ 300 (R$ 250 diarista + R$ 50 produtos de limpeza = higiene essencial)
 - **Total: o que todo mundo paga de moradia básica**
 
+**Impostos e Obrigações Legais: R$ 80/mês (MEI)**
+
+- MEI: R$ 80/mês (obrigatório para ser autônomo legal, formalização)
+- Receita Federal: declaração anual (imposto de renda)
+- **Total: custo de existir legalmente como criador independente**
+
 **Saúde: R$ 1.600/mês**
 
 - Natação: R$ 400 (prescrição médica, não hobby)

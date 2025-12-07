@@ -25,7 +25,8 @@
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa:.............. R$ 10,00    ║
 ║  📉 Despesas pendentes:............ -R$ 2.489    ║
-║  ⚠️  DÉFICIT:...................... -R$ 2.479    ║
+║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
+║  ⚠️  DÉFICIT TOTAL:................ -R$ 6.537    ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -77,7 +78,15 @@
 | 🩺 Dermatologia |   R$ 600   | Acompanhamento saúde              |
 | **SUBTOTAL**    | **R$ 900** |                                   |
 
-### 💰 TOTAL GERAL: R$ 2.489
+### 💳 DÍVIDAS ACUMULADAS
+
+| Item            |   Valor    | Por quê                           |
+| --------------- | :--------: | --------------------------------- |
+| 💳 PicPay       |  R$ 1.100  | Cartão de crédito (necessário)    |
+| 📊 MEI + Multa  |    R$ 900  | Atraso de contribuições + juros   |
+| **SUBTOTAL**    | **R$ 2.000** | Débitos fiscais/financeiros      |
+
+### 💰 TOTAL DEZEMBRO: R$ 2.489 + Dívidas R$ 2.000 = R$ 4.489 total
 
 ---
 
@@ -111,6 +120,8 @@
 | **R$ 1.000** | 💳 Cartão + crédito | Até 15/12 | Respira uma semana |
 | **R$ 1.589** | Essenciais completo | Até 15/12 | Passa com segurança |
 | **R$ 2.489** | Mês inteiro | Até 25/12 | Autonomia janeiro |
+| **R$ 3.389** | + MEI atrasado | Até 25/12 | Fica em dia com governo |
+| **R$ 4.489** | TUDO (dívidas + mês) | Até 25/12 | Zera tudo dezembro |
 
 ---
 
