@@ -188,10 +188,10 @@ Se vocês me ajudarem agora:
 - ✅ Múltiplas fontes de renda
 - ✅ Reduzo dependência de ajuda
 
-### Longo Prazo (12+ meses)
+### Longo Prazo (18-24 meses)
 
 - ✅ Projetos gerando renda sustentável
-- ✅ Autonomia financeira alcançada
+- ✅ Autonomia financeira completa em até 2 anos
 - ✅ Capacidade de retribuir/ajudar outros
 - ✅ Tranquilidade com saúde
 

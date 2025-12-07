@@ -237,9 +237,9 @@ Quer ver os números brutos? Fazer sua própria análise?
 - Beta de Krawz Arena
 - Primeiras receitas próprias
 
-### Longo Prazo (1-2 anos)
+### Longo Prazo (18-24 meses)
 
-- Autonomia financeira total
+- Autonomia financeira completa em até 2 anos
 - Pagar de volta quem me ajudou (se quiserem)
 - Ajudar outras pessoas na mesma situação
 
