@@ -61,17 +61,14 @@ Este repositório contém:
 
 ### Despesas Críticas Pendentes
 
-| Data       | Item           |    Valor     | Justificativa |
-| ---------- | -------------- | :----------: | ------------- |
 | Até 11/dez | 💧 Água        |    R$ 80     | Umidificador (asma) + plantas + banhos terapêuticos |
 | Até 11/dez | ⚡ Luz         |    R$ 300    | Ar condicionado (asma) + umidificador |
 | Até 11/dez | 🌐 Internet    |    R$ 209    | Comunicação, trabalho, projetos |
+| Até 15/dez | 🏊 Natação     |    R$ 400    | Terapia essencial para asma (treino constante = inflamação + anti-inflamatórios) |
 | Até 15/dez | 🧹 Faxina      |    R$ 300    | Limpeza (ambientes sem alergênios = respirar melhor) |
 | Até 15/dez | 🩺 Dermato     |    R$ 600    | Acompanhamento de saúde |
-| Até 15/dez | 💊 Farmácia    |    R$ 200    | Medicação essencial (Lítio, ansiolíticos) |
+| Até 15/dez | 💊 Farmácia    |    R$ 200    | Medicação essencial: Lítio (transtorno psiquiátrico), ansiolíticos, anti-inflamatórios (inflamação de natação), protetor solar |
 | Até 15/dez | 🫁 Oxigênio    |    R$ 100    | Suporte para crises asmáticas |
-| Contínuo   | 🍽️ Alimentação |   ~R$ 700    | Sobrevivência básica |
-| **TOTAL**  |                | **R$ 3.089** | |
 
 ### ⏰ Timeline Crítica
 
