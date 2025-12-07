@@ -10,18 +10,9 @@
 
 **Hoje: R$ 100,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 6 litros de água mineral restantes**
 
-> ⚠️ **Por que água mineral é NECESSÁRIA, não luxo:**
+> ⚠️ **Por que preciso de água mineral:**
 > 
-> A fornecedora de água de Belo Horizonte **não classifica a água de torneira como potável** para:
-> - ❌ Consumo humano direto (beber)
-> - ❌ Preparação de alimentos (cozinhar, lavar)
-> - ❌ Alimentação de animais (meu cachorro)
-> - ❌ Regar plantas (nem as plantas aguentam)
-> 
-> **Problemas técnicos confirmados:** Dureza extrema, cloro elevado, possíveis contaminantes  
-> **Risco de saúde:** Com asma, mucoviscidose e problemas gastrointestinais, água ruim = crise asmática + infecção respiratória + intoxicação alimentar
-> 
-> **Água mineral é essencial para sobreviver, não é gasto supérfluo.**
+> Tenho asma e mucoviscidose, e a água tratada daqui me faz passar mal (cloro forte e histórico de reações). Para beber, cozinhar e tomar remédios, só consigo usar **água mineral** sem risco de crise respiratória ou intestinal. Não é luxo, é saúde básica.
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
