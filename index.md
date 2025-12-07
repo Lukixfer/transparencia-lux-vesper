@@ -6,12 +6,12 @@
 
 <div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA MINERAL + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
+### ⏰ ALERTA CRÍTICO: ÁGUA MINERAL REABASTECIDA + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
 
-**Hoje: R$ 100,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 6 litros de água mineral restantes**
+**Hoje: R$ 90,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 9 litros de água mineral (reabastecida)**
 
 > ⚠️ **Por que preciso de água mineral:**
-> 
+>
 > Tenho asma e mucoviscidose, e a água tratada daqui me faz passar mal (cloro forte e histórico de reações). Para beber, cozinhar e tomar remédios, só consigo usar **água mineral** sem risco de crise respiratória ou intestinal. Não é luxo, é saúde básica.
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚨 SITUAÇÃO CRÍTICA - 7 DE DEZEMBRO DE 2025
+## 🚨 SITUAÇÃO CRÍTICA - 7 DE DEZEMBRO DE 2025 (ATUALIZADO)
 
 ### 💰 Realidade Financeira AGORA
 
@@ -30,21 +30,21 @@
 ╔═══════════════════════════════════════════════════╗
 ║         POSIÇÃO FINANCEIRA CRÍTICA                ║
 ╠═══════════════════════════════════════════════════╣
-║  💵 Dinheiro em caixa (hoje):....... R$ 100,00   ║
+║  💵 Dinheiro em caixa (hoje):....... R$ 90,00    ║
 ║  💵 Pendente amanhã (8/12):......... R$ 1.000    ║
-║  💧 Água mineral restante:.......... 6 litros    ║
+║  💧 Água mineral restante:.......... 9 litros    ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
 ║  📉 Despesas pendentes:............ -R$ 2.534    ║
 ║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
-║  ⚠️  DÉFICIT (após crédito):........ -R$ 5.992    ║
+║  ⚠️  DÉFICIT (após crédito):........ -R$ 6.002    ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
 ### 🏥 Estoques Vitais
 
-- **💧 Água mineral:** 6 litros (⏰ **2 dias restantes - CRÍTICO**)
-- **🍽️ Comida:** Leite, ovos, arroz, feijão, fubá, bananas (⏰ **7 dias**)
+- **💧 Água mineral:** 9 litros (⏰ **3 dias** - reabastecida!)
+- **🍽️ Comida:** Quibe + o que tinha (⏰ **7 dias**)
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
 
@@ -66,23 +66,23 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item                |   Valor    | Por quê                                                         |
-| ------------------- | :--------: | --------------------------------------------------------------- |
+| Item                |   Valor    | Por quê                                                                               |
+| ------------------- | :--------: | ------------------------------------------------------------------------------------- |
 | 💧 Água mineral     |   R$ 80    | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas |
-| ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento) |
-| 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                          |
-| 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                             |
-| **SUBTOTAL**        | **R$ 634** | **Serviços + medicação crítica**                                |
+| ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       |
+| 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                                                |
+| 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                                                   |
+| **SUBTOTAL**        | **R$ 634** | **Serviços + medicação crítica**                                                      |
 
 ### 🟠 ATÉ 11-15/DEZEMBRO (PRIORIDADE ALTA)
 
-| Item           |    Valor     | Por quê                                                      |
-| -------------- | :----------: | ------------------------------------------------------------ |
-| ❄️ Geladeira   | R$ 150-500   | Frost free quebrada (congelador entupido) - Chamar técnico   |
-| 💊 Farmácia    |    R$ 200    | Lítio, ansiolíticos, outros essenciais                       |
-| 🫁 Oxigênio    |    R$ 100    | Suporte crises asmáticas                                    |
-| 🍽️ Alimentação |    R$ 700    | Sobrevivência até fim do mês                                |
-| **SUBTOTAL**   | **R$ 1.650** | **(Geladeira depende de orçamento do técnico no dia 11)**   |
+| Item           |    Valor     | Por quê                                                    |
+| -------------- | :----------: | ---------------------------------------------------------- |
+| ❄️ Geladeira   |  R$ 150-500  | Frost free quebrada (congelador entupido) - Chamar técnico |
+| 💊 Farmácia    |    R$ 200    | Lítio, ansiolíticos, outros essenciais                     |
+| 🫁 Oxigênio    |    R$ 100    | Suporte crises asmáticas                                   |
+| 🍽️ Alimentação |    R$ 700    | Sobrevivência até fim do mês                               |
+| **SUBTOTAL**   | **R$ 1.650** | **(Geladeira depende de orçamento do técnico no dia 11)**  |
 
 ### 🟢 ATÉ 25/DEZEMBRO (Pode Esperar)
 
@@ -390,12 +390,25 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ---
 
+## 📊 HISTÓRICO DE CONTRIBUIÇÕES
+
+| Data  | Quem | Valor | O Que Foi | Situação |
+|-------|------|-------|----------|----------|
+| 7/12 | Família | R$ 100 | Reserva para emergência | ✅ Em caixa |
+| 8/12 | Família | R$ 1.000 | Pagamento cartão | 📅 Chegando amanhã |
+| 7/12 | Mason (ex-padrastro) | R$ 10 | Quibe + 3L água | ✅ Consumido |
+| **TOTAL** | | **R$ 1.110** | | |
+
+> **Nota:** Toda contribuição é registrada aqui com transparência total. Você não está no escuro sobre para onde o dinheiro vai.
+
+---
+
 <div align="center">
 
-## 🆘 SITUAÇÃO CRÍTICA
+## 🆘 SITUAÇÃO CRÍTICA (ATUALIZADO)
 
-**Tenho R$ 10 em caixa**  
-**4 dias de água**  
+**Tenho R$ 90 em caixa**  
+**3 dias de água (reabastecida)**  
 **7 dias de comida**  
 **Preciso de R$ 2.534 até dia 25**
 

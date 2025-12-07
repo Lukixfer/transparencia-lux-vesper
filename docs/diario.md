@@ -28,22 +28,26 @@ Passei o dia inteiro configurando:
 ### 💰 Situação Financeira (Atualizado 7/12 - Noite)
 
 **Contribuições recebidas:**
+
 - **R$ 100** (7/12) - Família
+- **R$ 10** (7/12 noite) - Mason (ex-padrastro) → Quibe + 3L água mineral
 - **R$ 1.000** (chegando 8/12) - Família
 
 **Fluxo:**
+
 - Hoje (7/12): R$ 100 em reserva (não gasto)
 - Amanhã (8/12): +R$ 1.000 → pagar cartão de crédito
 - Dia 11/12+: Crédito disponível após quitar dívida
 
 **Contas a pagar (vencimento 11/12):**
+
 - Água mineral: R$ 80 (fornecedor confirma que água de torneira não é potável para alimentos, animais ou plantas)
 - Luz: R$ 300
 - Internet: R$ 209
 - Bupropiona: R$ 45
 - **Total: R$ 634**
 
-**Estoques:** 6L água mineral (2 dias), 7 dias comida, 30 dias medicação
+**Estoques:** 9L água mineral (3 dias), 7 dias comida, 30 dias medicação
 
 ---
 
