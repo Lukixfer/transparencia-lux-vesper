@@ -1,0 +1,42 @@
+Data,Categoria,Descricao,Valor,Tipo,CentroDeCusto,Status,Observacoes
+11,Despesas Fixas - Casa,Agua,80.00,Despesa,Casa,Pendente,Recorrente mensal; vencimento dia 11
+11,Despesas Fixas - Casa,Luz,300.00,Despesa,Casa,Pendente,Recorrente mensal; vencimento dia 11
+11,Despesas Fixas - Casa,Internet Fixa,110.00,Despesa,Casa,Pendente,Recorrente mensal; vencimento dia 11
+11,Despesas Fixas - Casa,Internet Movel,99.00,Despesa,Casa,Pendente,Recorrente mensal; vencimento dia 11
+11,Despesas Fixas - Casa,Faxina mensal,300.00,Despesa,Casa,Pendente,Recorrente mensal; vencimento dia 11 (250 faxineira + 50 produtos)
+05,Despesas Medicas,Natacao,400.00,Despesa,Saude,Pago,Dezembro 2025 - Pago; Recorrente mensal; 5o dia util
+05,Despesas Medicas,Tratamento dermatologico,600.00,Despesa,Saude,Pendente,Recorrente mensal; 5o dia util
+05,Despesas Medicas,Farmacia,300.00,Despesa,Saude,Pago,Dezembro 2025 - Pago R$300; Ainda faltam R$200; Litio; ansiolíticos; analgésicos; anti-inflamatórios; protetor solar
+05,Despesas Medicas,Oxigenio,100.00,Despesa,Saude,Pendente,Recorrente mensal; 5o dia util
+15,Desenvolvimento Pessoal,Assinatura do Github,,Despesa,Pessoal,Opcional,OPCIONAL - somente se sobrar recursos; ajustar valor
+15,Desenvolvimento Pessoal,Assinatura do Copilot,,Despesa,Pessoal,Opcional,OPCIONAL - somente se sobrar recursos; ajustar valor
+15,Desenvolvimento Pessoal,Assinatura do Gemini,,Despesa,Pessoal,Opcional,OPCIONAL - somente se sobrar recursos; ajustar valor
+15,Desenvolvimento Pessoal,Registro de Obras Autorais,,Despesa,Pessoal,Opcional,OPCIONAL - eventual; somente se sobrar recursos
+15,Desenvolvimento Pessoal,Divulgacao do Livro e dos Albuns,,Despesa,Pessoal,Opcional,OPCIONAL - campanhas somente se sobrar recursos
+01,Alimentacao,Marmitex diario,22.00,Despesa,Casa,Pago,Dezembro 2025 - Gasto R$290 até agora; multiplicar pelos dias do mes
+01,Alimentacao,Agua 3L diaria,8.00,Despesa,Casa,Pendente,Valor diário; multiplicar pelos dias do mes
+01,Alimentacao,Frutas; Leite e Ingredientes diários,20.00,Despesa,Casa,Pendente,Valor diário; multiplicar pelos dias do mes
+01,Receita,Subsidio Familiar,-1000.00,Receita,Familia,Pago,Contribuição familiar mensal
+,,,,,,,
+,SITUACAO FINANCEIRA ATUAL,,,,,,,
+,Conta,Descricao,Saldo,Tipo,Categoria,Status,Observacoes
+,PicPay,Saldo disponivel,10.00,Ativo,Financeiro,Atual,Saldo atual em dinheiro (Entrada R$1000 subsídio - R$400 natação - R$300 farmácia - R$290 alimentação)
+,PicPay,Cartao de credito,-1100.00,Passivo,Financeiro,Pendente,Divida cartao
+,PicPay,Emprestimo Aviva,-355.00,Passivo,Financeiro,Pendente,Emprestimo para ir na Aviva
+,Will Bank,Saldo disponivel,0.00,Ativo,Financeiro,Atual,Conta corrente
+,Will Bank,Cartao de credito,-700.00,Passivo,Financeiro,Pendente,Divida cartao
+,Nu Bank,Saldo disponivel,0.00,Ativo,Financeiro,Atual,Conta corrente
+,Nu Bank,Cartao de credito,-103.00,Passivo,Financeiro,Pendente,Divida cartao
+,Receita Federal,MEI + Declaracao Anual,-900.00,Passivo,Fiscal,Pendente,Divida com Receita Federal
+,,,,,,,
+,ESTOQUES VITAIS ATUAIS,,,,,,,
+,Recurso,Quantidade,Dias Restantes,Status,Categoria,Prioridade,Observacoes
+,Agua potavel,12 litros,4,Crítico,Alimentacao,CRÍTICA,12 litros; consumo ~3L/dia
+,Comida (geral),Variada,7,Crítico,Alimentacao,CRÍTICA,"Leite; ovos; arroz; feijão; fubá; bananas"
+,Medicacao (Litio + outros),Quantidade ok,30,Crítico,Saude,CRÍTICA,Medicamentos essenciais - próxima compra farmácia
+,,,,,,,
+,PRIORIDADE MÁXIMA,,,,,,,
+,Item,Valor,Vencimento,Motivo,Ação,Status,Observacoes
+,Cartao PicPay,1100.00,Até 15/dez,Pagar divida + crédito para sobreviver,Necessário,Crítico,Usar crédito do cartão para pagar contas e se alimentar
+,Contas da Casa,589.00,Até 11/dez,Agua + Luz + Internet,Necessário,Crítico,Água (80) + Luz (300) + Internet (209)
+,Alimentacao até 15/dez,~700.00,Contínuo,Completar estoques + marmitex,Necessário,Crítico,Depois dia 7 estoques viram críticos
