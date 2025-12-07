@@ -170,6 +170,12 @@ Entenda quem sou, por quê preciso dessa ajuda, e qual é meu plano.
 - **Status**: ✨ Pronto para publicação
 - **Repositório**: https://github.com/Lukixfer/o-coracao-da-colmeia-preview
 
+### 🎵 **Música Gospel (Lukix Música)**
+
+- **Tipo**: Canal de YouTube com músicas gospel autorais
+- **Status**: 🎤 Ativo
+- **Link**: https://www.youtube.com/@lukixmusica
+
 📖 **[Ver detalhes completos](./docs/projetos.md)**
 
 ---

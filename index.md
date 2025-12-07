@@ -110,7 +110,7 @@ Nome: Lucas Lopes Dornas
 
 **Lucas Lopes Dornas** (Lux Vesper)
 
-- 🫁 **Asma crônica** - preciso de umidificador, natação, ventiladores
+- 🫁 **Asma crônica** - preciso de umidificador, natação
 - 🧠 **Transtornos psiquiátricos** - Lítio, ansiolíticos, acompanhamento
 - 🎨 **Criador** - desenvolvedor, escritor, compositor
 - 💪 **Lutador** - não posso trabalho 8-5, mas crio projetos reais
@@ -135,6 +135,12 @@ Nome: Lucas Lopes Dornas
 - **Status:** ✨ 95% pronto para publicação
 - **Link:** [Preview no GitHub](https://github.com/Lukixfer/o-coracao-da-colmeia-preview)
 
+### 🎵 Música Gospel (Lukix Música)
+
+- **O quê:** Canal de YouTube com músicas gospel autorais
+- **Status:** 🎤 Ativo
+- **Link:** [YouTube @lukixmusica](https://www.youtube.com/@lukixmusica)
+
 **📚 [Ver detalhes completos dos projetos](./docs/projetos.md)**
 
 ---
@@ -151,7 +157,7 @@ Nome: Lucas Lopes Dornas
 → [Leia aqui](./docs/faq.md#-os-dados-são-reais) - 100% transparência, CSV aberto
 
 **"Por que R$ 300 de luz?"**
-→ Umidificador 24/7 + ventiladores para não ter crise de asma
+→ Umidificador 24/7 para não ter crise de asma
 
 **📚 [Ver todas as perguntas](./docs/faq.md)**
 
