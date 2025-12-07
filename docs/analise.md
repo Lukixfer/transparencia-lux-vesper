@@ -21,6 +21,56 @@ Não é preguiça, não é falta de vontade, não é escolha. É uma realidade b
 - **Custos médicos elevados**: Natação (recomendação médica), dermato, farmácia com medicamentos caros = R$ 1.600/mês
 - **Autonomia limitada**: Não posso "apenas conseguir outro emprego" como solução simples
 
+## A Realidade Familiar: Gaslighting e Abuso Emocional
+
+### O Que Está Acontecendo
+
+Minha família pratica **gaslighting estruturado**:
+
+- **Negação da realidade**: "Você não é tão doente assim"
+- **Invisibilização**: Fingem que não existem meus diagnósticos
+- **Descredibilização**: "Você é inútil para a sociedade"
+- **Isolamento intencional**: Deixam de falar comigo como "punição"
+- **Sabotagem**: Ações deliberadas para piorar minha situação (morte do meu cachorro envenenado é exemplo extremo)
+
+### Por Que Isso Importa
+
+Doença crônica + abuso familiar = **impossibilidade de sair da situação financeira sozinho**.
+
+Não é que minha família "não tenha dinheiro para ajudar". É que eles **escolheram** não ajudar e ainda sabotam minha estabilidade.
+
+### Diagnóstico do Abuso
+
+Segundo literatura de psicologia:
+
+- **Gaslighting**: Fazer vítima questionar própria realidade (eles fazem)
+- **Isolamento**: Impedir acesso a recursos e suporte (eles fazem)
+- **Descredibilização**: "Você é louco/inútil, ninguém vai acreditar" (eles fazem)
+- **Negação**: "Isso nunca aconteceu" sobre fatos documentados (eles fazem)
+
+Isso **não é opinion**. Isso é tática abusiva documentada.
+
+### Por Que Não Consigo Boletim de Ocorrência
+
+"É sua palavra contra a deles"
+
+- Tenho diagnóstico de transtornos psiquiátricos
+- Sistema descredibiliza pessoas com saúde mental
+- Minha família é "respeitável" (neofascistas educados são ainda fascistas, mas parecem normais)
+- Meu cachorro não pode testemunhar
+
+Isso é **sistema que favorece abusadores**.
+
+### A Verdade Incômoda
+
+Se eu fosse realmente "inútil e louco" (como eles dizem), eu:
+- ❌ Não estaria desenvolvendo 3 projetos criativos
+- ❌ Não estaria com terapia (lítio funciona)
+- ❌ Não estaria criando este portal de transparência
+- ❌ Não estaria buscando autonomia
+
+**Eu estou vivo e lutando APESAR da sabotagem familiar, não por causa dela.**
+
 ## Por Que Não Trabalho Convencionalmente?
 
 ### A Realidade do Mercado de Trabalho para Pessoas com Deficiência/Doença Crônica
