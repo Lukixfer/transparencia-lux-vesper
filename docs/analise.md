@@ -167,9 +167,8 @@ Vamos desmontar:
 
 **Sem medicamentos:**
 
-- Risco de automutilação/suicídio
 - Impossibilidade total de trabalhar
-- Crises psicóticas em casos graves
+- Episódios graves de depressão e ansiedade
 - Não é questão de "pensar positivo"
 
 ## A Promessa
