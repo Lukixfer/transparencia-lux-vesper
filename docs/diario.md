@@ -74,7 +74,11 @@ Passei o dia inteiro configurando:
 - ❌ **Preciso de bupropiona 150mg URGENTE** (R$ 45) - antidepressivo para depressão/bipolar
 - 😓 Ansiedade alta por causa da situação financeira, mas funcional
 
-**Crises:** Nenhuma esta semana (graças ao umidificador e natação)
+**Crises:**
+
+- ❌ Sibilo noturno frequente (asma) mesmo com umidificador
+- ❌ Mucoviscidose o tempo todo
+- ❌ Episódios de "esforço de recrutamento" para abrir o pulmão
 
 ### 💭 Reflexões da Semana
 
