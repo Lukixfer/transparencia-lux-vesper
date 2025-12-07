@@ -61,17 +61,17 @@ Este repositório contém:
 
 ### Despesas Críticas Pendentes
 
-| Data       | Item           |    Valor     | Criticidade   |
+| Data       | Item           |    Valor     | Justificativa |
 | ---------- | -------------- | :----------: | ------------- |
-| Até 11/dez | 💧 Água        |    R$ 80     | 🔴 CRÍTICA    |
-| Até 11/dez | ⚡ Luz         |    R$ 300    | 🔴 CRÍTICA    |
-| Até 11/dez | 🌐 Internet    |    R$ 209    | 🔴 CRÍTICA    |
-| Até 15/dez | 🧹 Faxina      |    R$ 300    | Essencial     |
-| Até 15/dez | 🩺 Dermato     |    R$ 600    | Saúde         |
-| Até 15/dez | 💊 Farmácia    |    R$ 200    | Medicação     |
-| Até 15/dez | 🫁 Oxigênio    |    R$ 100    | Saúde         |
-| Contínuo   | 🍽️ Alimentação |   ~R$ 700    | Sobrevivência |
-| **TOTAL**  |                | **R$ 3.089** |               |
+| Até 11/dez | 💧 Água        |    R$ 80     | Umidificador (asma) + plantas + banhos terapêuticos |
+| Até 11/dez | ⚡ Luz         |    R$ 300    | Ar condicionado (asma) + umidificador |
+| Até 11/dez | 🌐 Internet    |    R$ 209    | Comunicação, trabalho, projetos |
+| Até 15/dez | 🧹 Faxina      |    R$ 300    | Limpeza (ambientes sem alergênios = respirar melhor) |
+| Até 15/dez | 🩺 Dermato     |    R$ 600    | Acompanhamento de saúde |
+| Até 15/dez | 💊 Farmácia    |    R$ 200    | Medicação essencial (Lítio, ansiolíticos) |
+| Até 15/dez | 🫁 Oxigênio    |    R$ 100    | Suporte para crises asmáticas |
+| Contínuo   | 🍽️ Alimentação |   ~R$ 700    | Sobrevivência básica |
+| **TOTAL**  |                | **R$ 3.089** | |
 
 ### ⏰ Timeline Crítica
 
@@ -118,9 +118,9 @@ Este repositório contém:
 
 **O que cada valor faz AGORA:**
 
-- **R$ 80** = 💧 Salva a água (CRÍTICO - dia 11)
-- **R$ 300** = ⚡ Salva a luz (CRÍTICO - dia 11)
-- **R$ 209** = 🌐 Salva internet (CRÍTICO - dia 11)
+- **R$ 80** = 💧 Água (consumo elevado: umidificador + plantas + banhos terapêuticos quando em crise)
+- **R$ 300** = ⚡ Luz (ar condicionado + umidificador = respiração possível com asma crônica)
+- **R$ 209** = 🌐 Internet (comunicação, projetos, trabalho remoto)
 - **R$ 600** = 🩺 Dermatologia e saúde
 - **R$ 700** = 🍽️ Alimentação até final do mês
 - **R$ 1.000** = Respira um pouco
