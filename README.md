@@ -29,12 +29,12 @@ Este repositório contém:
 
 ## 🌐 Acesso Rápido
 
-| Link                                                                     | Descrição                                  |
-| ------------------------------------------------------------------------ | ------------------------------------------ |
-| 🔗 [Portal Completo](https://transparencia.krawz.net/)                   | Visualize o dashboard financeiro           |
-| 📖 [Minha História](./docs/analise.md)                                   | Entenda minha situação e por quê           |
-| ❓ [Perguntas Frequentes](./docs/faq.md)                                 | Respostas para suas dúvidas                |
-| 🎮 [Projetos](./docs/projetos.md)                                        | Conheça Krawz Arena e O Coração da Colmeia |
+| Link                                                   | Descrição                                  |
+| ------------------------------------------------------ | ------------------------------------------ |
+| 🔗 [Portal Completo](https://transparencia.krawz.net/) | Visualize o dashboard financeiro           |
+| 📖 [Minha História](./docs/analise.md)                 | Entenda minha situação e por quê           |
+| ❓ [Perguntas Frequentes](./docs/faq.md)               | Respostas para suas dúvidas                |
+| 🎮 [Projetos](./docs/projetos.md)                      | Conheça Krawz Arena e O Coração da Colmeia |
 
 ---
 
@@ -47,8 +47,8 @@ Este repositório contém:
 ║           POSIÇÃO FINANCEIRA IMEDIATA                   ║
 ╠═════════════════════════════════════════════════════════╣
 ║  💵 EM CAIXA (PicPay):..................... R$ 10,00   ║
-║  📉 DESPESAS PENDENTES (até dia 15):....... -R$ 3.089  ║
-║  ⚠️  DÉFICIT CRÍTICO:...................... -R$ 3.079  ║
+║  📉 DESPESAS PENDENTES (até dia 25):....... -R$ 2.489  ║
+║  ⚠️  DÉFICIT CRÍTICO:...................... -R$ 2.479  ║
 ╚═════════════════════════════════════════════════════════╝
 ```
 
@@ -62,13 +62,15 @@ Este repositório contém:
 ### Despesas Críticas Pendentes
 
 | Até 11/dez | 💧 Água | R$ 80 | Umidificador (asma) + plantas + banhos terapêuticos |
-| Até 11/dez | ⚡ Luz | R$ 300 | Ar condicionado (asma) + umidificador |
+| Até 11/dez | ⚡ Luz | R$ 300 | Umidificador 24/7 + ventiladores + equipamentos |
 | Até 11/dez | 🌐 Internet | R$ 209 | Comunicação, trabalho, projetos |
 | Até 15/dez | 🏊 Natação | R$ 400 | Terapia essencial para asma (treino constante = inflamação + anti-inflamatórios) |
-| Até 15/dez | 🧹 Faxina | R$ 300 | Limpeza (ambientes sem alergênios = respirar melhor) |
-| Até 15/dez | 🩺 Dermato | R$ 600 | Acompanhamento de saúde |
 | Até 15/dez | 💊 Farmácia | R$ 200 | Medicação essencial: Lítio (transtorno psiquiátrico), ansiolíticos, anti-inflamatórios (inflamação de natação), protetor solar |
 | Até 15/dez | 🫁 Oxigênio | R$ 100 | Suporte para crises asmáticas |
+| Contínuo | 🍽️ Alimentação | ~R$ 700 | Sobrevivência até fim do mês |
+| Até 25/dez | 🧹 Faxina | R$ 300 | Limpeza (ambientes sem alergênios = respirar melhor) |
+| Até 25/dez | 🩺 Dermato | R$ 600 | Acompanhamento de saúde |
+| **TOTAL** | | **R$ 2.889** | |
 
 ### ⏰ Timeline Crítica
 
@@ -79,8 +81,12 @@ Este repositório contém:
 
 **ATÉ 15/DEZ** (até uma semana)
 
-- Sem **R$ 3.089** → Impossível pagar medicação, alimentação, serviços
+- Sem **R$ 1.589** → Impossível pagar medicação, alimentação, natação
 - **Situação insustentável**
+
+**ATÉ 25/DEZ** (final do mês)
+
+- Sem **R$ 2.889** → Faxina e dermatologia adiadas, mas situação se agrava
 
 ---
 
@@ -109,14 +115,14 @@ Este repositório contém:
 ### 🆘 PEDIR AJUDA AGORA
 
 **Chave Pix:** Lukix.Player@gmail.com  
-**Nome:** Lux Vesper
+**Nome:** Lucas Lopes Dornas
 
-> ⚠️ **SITUAÇÃO URGENTE**: Tenho **R$ 10 em caixa** e preciso de **R$ 3.089 até dia 15** para não perder água, luz, internet e medicação essencial.
+> ⚠️ **SITUAÇÃO URGENTE**: Tenho **R$ 10 em caixa** e preciso de **R$ 2.489 até dia 25** para não perder água, luz, internet e medicação essencial.
 
 **O que cada valor faz AGORA:**
 
 - **R$ 80** = 💧 Água (consumo elevado: umidificador + plantas + banhos terapêuticos quando em crise)
-- **R$ 300** = ⚡ Luz (ar condicionado + umidificador = respiração possível com asma crônica)
+- **R$ 300** = ⚡ Luz (umidificador 24/7 + ventiladores + equipamentos = respiração possível com asma crônica)
 - **R$ 209** = 🌐 Internet (comunicação, projetos, trabalho remoto)
 - **R$ 600** = 🩺 Dermatologia e saúde
 - **R$ 700** = 🍽️ Alimentação até final do mês
