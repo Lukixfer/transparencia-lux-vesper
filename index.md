@@ -4,6 +4,17 @@
 
 ---
 
+<div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
+
+### ⏰ ALERTA CRÍTICO: 4 DIAS PARA CORTE DE ÁGUA/LUZ/INTERNET
+**Hoje: R$ 10 | Dia 11: R$ 589 URGENTE**
+### 🚨 PRECISO DE SUA AJUDA AGORA
+**PIX: Lukix.Player@gmail.com**
+
+</div>
+
+---
+
 ## 🚨 SITUAÇÃO CRÍTICA - 7 DE DEZEMBRO DE 2025
 
 ### 💰 Realidade Financeira AGORA
@@ -42,12 +53,12 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item         |   Valor    | Por quê                                                                                        |
-| ------------ | :--------: | ---------------------------------------------------------------------------------------------- |
-| 💧 Água      |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos                                            |
-| ⚡ Luz       |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                                |
-| 🌐 Internet  |   R$ 209   | Trabalho remoto, projetos, comunicação                                                         |
-| **SUBTOTAL** | **R$ 589** | **Serviços cortados se não pagar**                                                             |
+| Item         |   Valor    | Por quê                                                         |
+| ------------ | :--------: | --------------------------------------------------------------- |
+| 💧 Água      |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos             |
+| ⚡ Luz       |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento) |
+| 🌐 Internet  |   R$ 209   | Trabalho remoto, projetos, comunicação                          |
+| **SUBTOTAL** | **R$ 589** | **Serviços cortados se não pagar**                              |
 
 ### 🟡 ATÉ 15/DEZEMBRO
 
@@ -88,6 +99,37 @@
 
 ---
 
+## 💝 IMPACTO DO SEU APOIO
+
+| Valor | O Que Acontece | Prazo | Impacto |
+|-------|---|---|---|
+| **R$ 50** | 💧 Parte da água do mês | Imediato | +5 dias de água |
+| **R$ 80** | 💧 Água completa | Até 11/12 | Evita corte por 1 mês |
+| **R$ 100** | ⚡ Parte da luz | Até 11/12 | +10 dias de umidificador |
+| **R$ 300** | ⚡ Luz completa | Até 11/12 | Umidificador rodando tudo mês |
+| **R$ 589** | 💧 + ⚡ + 🌐 | **CRÍTICO 11/12** | **Salva 3 serviços essenciais** ✨ |
+| **R$ 1.000** | 💳 Cartão + crédito | Até 15/12 | Respira uma semana |
+| **R$ 1.589** | Essenciais completo | Até 15/12 | Passa com segurança |
+| **R$ 2.489** | Mês inteiro | Até 25/12 | Autonomia janeiro |
+
+---
+
+## ⏳ TIMELINE CRÍTICA - DECEMBER 2025
+
+```
+HOJE (7/12)          DIA 11/12           DIA 15/12          DIA 25/12
+─────────────────────────────────────────────────────────────────────
+R$ 10 em caixa       ⚠️ CORTE?           +Farmácia          +Dermato
+12L água             589 URGENTE         +Comida             +Faxina
+7 dias comida        ÁGUA/LUZ/NET        1.589 total         2.489 total
+
+[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
+0%                   24%                 64%                 100%
+                     CRÍTICO
+```
+
+---
+
 ## 💝 COMO AJUDAR AGORA
 
 ```
@@ -95,30 +137,30 @@ Chave Pix: Lukix.Player@gmail.com
 Nome: Lucas Lopes Dornas
 ```
 
-**O que cada valor faz:**
+**Escolha seu impacto:**
 
-- **R$ 80** = 💧 Água por 1 mês
-- **R$ 300** = ⚡ Luz (umidificador 24/7 + computador para estudar/trabalhar/me entreter)
-- **R$ 589** = Salva água + luz + internet (CRÍTICO dia 11)
-- **R$ 1.100** = Paga cartão + usa crédito para sobreviver
-- **R$ 1.589** = Passa até dia 15 (essenciais)
-- **R$ 2.489** = Passa o mês inteiro
+- **Mínimo (R$ 50-100):** Ajuda com água/luz por alguns dias
+- **Crítico (R$ 589):** Salva água + luz + internet até dia 11 ✨
+- **Essencial (R$ 1.589):** Passa até dia 15 com segurança
+- **Completo (R$ 2.489):** Fecha dezembro todo
+- **Qualquer valor:** Ajuda e é registrado no histórico
 
 ---
 
-## 📈 Comparativos Rápidos
+## 📈 Distribuição das Despesas
 
-- **Essenciais imediatas (até 11/12):** R$ 589 (~24% do total) para manter água/luz/internet
-- **Essenciais do mês (até 15/12):** R$ 1.589 (~64% do total) somando comida, farmácia e oxigênio
-- **Podem esperar até 25/12:** R$ 900 (~36% do total) faxina + dermatologia, só depois dos críticos
+**Hoje faltam:**
+- 🔴 **24% (R$ 589):** Água + Luz + Internet - **CRÍTICO até dia 11**
+- 🟠 **40% (R$ 1.000):** Farmácia + Comida + Oxigênio - até dia 15
+- 🟡 **36% (R$ 900):** Faxina + Dermatologia - podem esperar até 25
 
 **Cenários de autonomia**
 
 | Horizonte | O que destrava | Pré-requisitos |
-| --------- | -------------- | -------------- |
+| --------- | ----------------------------- | ----------------------------------------------------------------- |
 | 24 meses  | Receita própria cobre básicos | Livro publicado + canal monetizado + beta do Arena com comunidade |
-| 30 meses  | Margem de segurança | Livro rodando + músicas regulares + alpha/beta do Arena estável |
-| 36 meses  | Autonomia com folga | Diversificação plena (livro + jogo + canal) e reservas |
+| 30 meses  | Margem de segurança           | Livro rodando + músicas regulares + alpha/beta do Arena estável   |
+| 36 meses  | Autonomia com folga           | Diversificação plena (livro + jogo + canal) e reservas            |
 
 ---
 
