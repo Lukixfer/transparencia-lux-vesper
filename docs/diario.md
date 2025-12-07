@@ -88,12 +88,17 @@ Passei o dia inteiro configurando:
 - ✅ Natação paga (terapia para asma)
 - ✅ Umidificador 24/7 funcionando
 - ⚠️ Água mineral acabando (6L = 2 dias)
+- 🚨 **URGÊNCIA: Geladeira frost free quebrada** (congelador entupido de gelo, parte fria não esfria)
+  - Problema: drenagem entupida ou placa degeladeira queimada
+  - Estimativa de conserto: R$ 150-500
+  - Plano: Chamar técnico dia 11/12 (quando tiver crédito disponível)
+  - Risco: Sem geladeira no verão = intoxicação alimentar + medicamentos perdem eficácia
 
 **Mental:**
 
 - ✅ Lítio e ansiolíticos OK por 30 dias
 - ❌ **Preciso de bupropiona 150mg URGENTE** (R$ 45) - antidepressivo para depressão/bipolar
-- 😓 Ansiedade alta por causa da situação financeira, mas funcional
+- 😓 Ansiedade alta por causa da situação financeira e urgências domésticas, mas funcional
 
 **Crises:**
 

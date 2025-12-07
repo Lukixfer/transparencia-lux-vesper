@@ -6,9 +6,9 @@
 
 <div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + CONTAS VENCEM DIA 11
+### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
 
-**Hoje: R$ 0,00 em caixa | 6 litros de água restantes**
+**Hoje: R$ 0,00 em caixa | 6 litros de água restantes | Frost free travado (congelador entupido)**
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
@@ -29,9 +29,10 @@
 ║  💵 Dinheiro em caixa:.............. R$ 0,00     ║
 ║  💧 Água potável restante:.......... 6 litros    ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
+║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
 ║  📉 Despesas pendentes:............ -R$ 2.534    ║
 ║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
-║  ⚠️  DÉFICIT TOTAL:................ -R$ 6.592    ║
+║  ⚠️  DÉFICIT TOTAL:................ -R$ 7.092    ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -40,6 +41,7 @@
 - **💧 Água:** 6 litros (⏰ **2 dias restantes - CRÍTICO**)
 - **🍽️ Comida:** Leite, ovos, arroz, feijão, fubá, bananas (⏰ **7 dias**)
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
+- **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
 
 ---
 
@@ -67,14 +69,15 @@
 | 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                             |
 | **SUBTOTAL**        | **R$ 634** | **Serviços + medicação crítica**                                |
 
-### 🟡 ATÉ 15/DEZEMBRO
+### 🟠 ATÉ 11-15/DEZEMBRO (PRIORIDADE ALTA)
 
-| Item           |    Valor     | Por quê                                |
-| -------------- | :----------: | -------------------------------------- |
-| 💊 Farmácia    |    R$ 200    | Lítio, ansiolíticos, outros essenciais |
-| 🫁 Oxigênio    |    R$ 100    | Suporte crises asmáticas               |
-| 🍽️ Alimentação |    R$ 700    | Sobrevivência até fim do mês           |
-| **SUBTOTAL**   | **R$ 1.000** |                                        |
+| Item           |    Valor     | Por quê                                                      |
+| -------------- | :----------: | ------------------------------------------------------------ |
+| ❄️ Geladeira   | R$ 150-500   | Frost free quebrada (congelador entupido) - Chamar técnico   |
+| 💊 Farmácia    |    R$ 200    | Lítio, ansiolíticos, outros essenciais                       |
+| 🫁 Oxigênio    |    R$ 100    | Suporte crises asmáticas                                    |
+| 🍽️ Alimentação |    R$ 700    | Sobrevivência até fim do mês                                |
+| **SUBTOTAL**   | **R$ 1.650** | **(Geladeira depende de orçamento do técnico no dia 11)**   |
 
 ### 🟢 ATÉ 25/DEZEMBRO (Pode Esperar)
 
