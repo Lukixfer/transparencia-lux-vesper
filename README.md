@@ -29,12 +29,12 @@ Este repositório contém:
 
 ## 🌐 Acesso Rápido
 
-| Link                                                                         | Descrição                                  |
-| ---------------------------------------------------------------------------- | ------------------------------------------ |
-| 🔗 [Portal Completo](https://seuusuario.github.io/transparencia-lux-vesper/) | Visualize o dashboard financeiro           |
-| 📖 [Minha História](./docs/analise.md)                                       | Entenda minha situação e por quê           |
-| ❓ [Perguntas Frequentes](./docs/faq.md)                                     | Respostas para suas dúvidas                |
-| 🎮 [Projetos](./docs/projetos.md)                                            | Conheça Krawz Arena e O Coração da Colmeia |
+| Link                                                                           | Descrição                                  |
+| ------------------------------------------------------------------------------ | ------------------------------------------ |
+| 🔗 [Portal Completo](https://lukixfer.github.io/transparencia-lux-vesper/)     | Visualize o dashboard financeiro           |
+| 📖 [Minha História](./docs/analise.md)                                         | Entenda minha situação e por quê           |
+| ❓ [Perguntas Frequentes](./docs/faq.md)                                       | Respostas para suas dúvidas                |
+| 🎮 [Projetos](./docs/projetos.md)                                              | Conheça Krawz Arena e O Coração da Colmeia |
 
 ---
 
