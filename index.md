@@ -10,7 +10,18 @@
 
 **Hoje: R$ 100,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 6 litros de água mineral restantes**
 
-> ⚠️ **Nota importante:** Não consigo beber água de torneira (fornecedora confirma que não é potável para alimentos, animais ou plantas). Preciso de água mineral mesmo.
+> ⚠️ **Por que água mineral é NECESSÁRIA, não luxo:**
+> 
+> A fornecedora de água de Belo Horizonte **não classifica a água de torneira como potável** para:
+> - ❌ Consumo humano direto (beber)
+> - ❌ Preparação de alimentos (cozinhar, lavar)
+> - ❌ Alimentação de animais (meu cachorro)
+> - ❌ Regar plantas (nem as plantas aguentam)
+> 
+> **Problemas técnicos confirmados:** Dureza extrema, cloro elevado, possíveis contaminantes  
+> **Risco de saúde:** Com asma, mucoviscidose e problemas gastrointestinais, água ruim = crise asmática + infecção respiratória + intoxicação alimentar
+> 
+> **Água mineral é essencial para sobreviver, não é gasto supérfluo.**
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
