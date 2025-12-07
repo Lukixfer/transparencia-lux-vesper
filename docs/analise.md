@@ -154,6 +154,64 @@ Vamos desmontar:
 
 **Resultado**: Não há luxo. É mínimo viável.
 
+**Lazer/Entretenimento: R$ 300/mês** *(quando sair da crise)*
+
+- Cinema, séries, games: ~R$ 80 (streaming)
+- Passeios, café com amigos: ~R$ 100
+- Hobbies criativos (materiais): ~R$ 80
+- Eventos/shows ocasionais: ~R$ 40
+- **Total: 7% da renda, padrão de saúde mental**
+
+*Não tenho isso AGORA (dezembro), mas será necessário quando autonomia chegar. Pessoas com transtornos psiquiátricos que não têm lazer pioram drasticamente.*
+
+## Saúde Mental: Por Que Lazer Importa
+
+### A Realidade da Depressão e Ansiedade
+
+Transtornos psiquiátricos não são "tristeza que passa". São doenças cerebrais:
+
+- **Isolamento = Piora exponencial**
+  - Sem contato social: episódios mais graves
+  - Sem movimento/diversão: letargia aumenta
+  - Sem esperança: risco de auto-harm
+
+- **Lazer é medicamento tanto quanto lítio**
+  - Endorfina reduz ansiedade
+  - Conexão social melhora depressão
+  - Criatividade é processamento emocional
+
+- **Trabalhar 24/7 em crise é inviável**
+  - Esgotamento mental = crashes piores
+  - Precisão criativa cai se não descanso bem
+  - Riscos à saúde aumentam
+
+### O Custo REAL de Não Ter Lazer
+
+| Sem lazer | Risco | Custo |
+|-----------|-------|-------|
+| Isolamento | Episódios graves de depressão | Internação psiquiátrica (R$ 5K+) |
+| Sem movimento | Piora da asma + sedentarismo | Mais crises (R$ 200+ por crise) |
+| Esgotamento | Impossibilidade de trabalhar nos projetos | Atraso na renda própria |
+| Sem esperança | Pensamentos suicidas | Vida |
+
+### Por Que R$ 300/mês É Razoável (Quando Possível)
+
+- **Sem TV/cinema/sair:** desenvolvo agorafobia
+- **Sem hobbies criativos:** depressão aprofunda
+- **Sem café com amigos:** isolamento = crise
+- **R$ 300 = 7% da renda esperada** (padrão global de saúde mental)
+- **Valor necessário para funcionar**, não para "aproveitar a vida"
+
+### A Promessa Para Depois
+
+Quando autonomia chegar (24-36 meses):
+- ✅ Dedicar R$ 300/mês para lazer/saúde mental
+- ✅ Manter equilíbrio criatividade + vida social
+- ✅ Evitar crashes que prejudicam renda própria
+- ✅ Viver, não apenas sobreviver
+
+**Agora (dezembro)?** Infelizmente não posso. Mas quando puder, será essencial.
+
 ## Asma + Psiquiatria = Por Que Preciso de Ajuda
 
 ### Asma Não É Uma "Alergia Leve"
