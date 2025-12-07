@@ -4,11 +4,11 @@
 
 ---
 
-<div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
+<div align="center" style="background: #ff9800; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ⏰ ALERTA CRÍTICO: ÁGUA MINERAL REABASTECIDA + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
+### 📊 SITUAÇÃO ATUAL - 7 DE DEZEMBRO
 
-**Hoje: R$ 90,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 9 litros de água mineral (reabastecida)**
+**Caixa: R$ 100,00 (reservado PicPay) | +R$ 1.000 amanhã | Água: 9L (3 dias) | Contas vencem 11/12**
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -30,14 +30,14 @@
 ╔═══════════════════════════════════════════════════╗
 ║         POSIÇÃO FINANCEIRA CRÍTICA                ║
 ╠═══════════════════════════════════════════════════╣
-║  💵 Dinheiro em caixa (hoje):....... R$ 90,00    ║
+║  💵 Dinheiro em caixa (hoje):....... R$ 100,00   ║
 ║  💵 Pendente amanhã (8/12):......... R$ 1.000    ║
 ║  💧 Água mineral restante:.......... 9 litros    ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
 ║  📉 Despesas pendentes:............ -R$ 2.534    ║
 ║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
-║  ⚠️  DÉFICIT (após crédito):........ -R$ 6.002    ║
+║  ⚠️  DÉFICIT (após crédito):........ -R$ 5.992    ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -174,7 +174,7 @@
 
 **Sem isso:**
 
-- ❌ Água acaba em **2 dias** (6L restantes)
+- ❌ Água acaba em **3 dias** (9L restantes)
 - ❌ Contas vencem dia 11 → **multa + juros depois**
 - ❌ Sem bupropiona (depressão/bipolar sem tratamento)
 - ❌ Comida acaba em **7 dias**
@@ -392,12 +392,12 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 📊 HISTÓRICO DE CONTRIBUIÇÕES
 
-| Data  | Quem | Valor | O Que Foi | Situação |
-|-------|------|-------|----------|----------|
-| 7/12 | Família | R$ 100 | Reserva para emergência | ✅ Em caixa |
-| 8/12 | Família | R$ 1.000 | Pagamento cartão | 📅 Chegando amanhã |
-| 7/12 | Mason (ex-padrastro) | R$ 10 | Quibe + 3L água | ✅ Consumido |
-| **TOTAL** | | **R$ 1.110** | | |
+| Data      | Quem                 | Valor        | O Que Foi               | Situação           |
+| --------- | -------------------- | ------------ | ----------------------- | ------------------ |
+| 7/12      | Família              | R$ 100       | Reserva para emergência | ✅ Em caixa        |
+| 8/12      | Família              | R$ 1.000     | Pagamento cartão        | 📅 Chegando amanhã |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água         | ✅ Consumido       |
+| **TOTAL** |                      | **R$ 1.110** |                         |                    |
 
 > **Nota:** Toda contribuição é registrada aqui com transparência total. Você não está no escuro sobre para onde o dinheiro vai.
 

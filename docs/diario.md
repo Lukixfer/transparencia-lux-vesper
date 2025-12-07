@@ -35,8 +35,8 @@ Passei o dia inteiro configurando:
 
 **Fluxo:**
 
-- Hoje (7/12): R$ 100 em reserva (não gasto)
-- Amanhã (8/12): +R$ 1.000 → pagar cartão de crédito
+- Hoje (7/12): R$ 100 em caixa **reservado para fechar R$ 1.100 do PicPay**
+- Amanhã (8/12): +R$ 1.000 → quitar fatura do PicPay
 - Dia 11/12+: Crédito disponível após quitar dívida
 
 **Contas a pagar (vencimento 11/12):**
@@ -91,7 +91,7 @@ Passei o dia inteiro configurando:
 
 - ✅ Natação paga (terapia para asma)
 - ✅ Umidificador 24/7 funcionando
-- ⚠️ Água mineral acabando (6L = 2 dias)
+- ⚠️ Água mineral reabastecida (9L = 3 dias)
 - 🚨 **URGÊNCIA: Geladeira frost free quebrada** (congelador entupido de gelo, parte fria não esfria)
   - Problema: drenagem entupida ou placa degeladeira queimada
   - Estimativa de conserto: R$ 150-500
