@@ -28,6 +28,7 @@
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa:.............. R$ 0,00     ║
 ║  💧 Água potável restante:.......... 6 litros    ║
+║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  📉 Despesas pendentes:............ -R$ 2.534    ║
 ║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
 ║  ⚠️  DÉFICIT TOTAL:................ -R$ 6.592    ║
@@ -58,22 +59,22 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item         |   Valor    | Por quê                                                         |
-| ------------ | :--------: | --------------------------------------------------------------- |
-| 💧 Água      |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos             |
-| ⚡ Luz       |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento) |
-| 🌐 Internet  |   R$ 209   | Trabalho remoto, projetos, comunicação                          |
-| **SUBTOTAL** | **R$ 589** | **Serviços cortados se não pagar**                              |
+| Item                |   Valor    | Por quê                                                         |
+| ------------------- | :--------: | --------------------------------------------------------------- |
+| 💧 Água             |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos             |
+| ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento) |
+| 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                          |
+| 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                             |
+| **SUBTOTAL**        | **R$ 634** | **Serviços + medicação crítica**                                |
 
 ### 🟡 ATÉ 15/DEZEMBRO
 
-| Item                      |    Valor     | Por quê                                    |
-| ------------------------- | :----------: | ------------------------------------------ |
-| 💊 Bupropiona 150mg       |    R$ 45     | Antidepressivo (genérico)                  |
-| 💊 Farmácia (resto)       |    R$ 200    | Lítio, ansiolíticos, outros essenciais     |
-| 🫁 Oxigênio               |    R$ 100    | Suporte crises asmáticas                   |
-| 🍽️ Alimentação            |    R$ 700    | Sobrevivência até fim do mês               |
-| **SUBTOTAL**              | **R$ 1.045** |                                            |
+| Item                |    Valor     | Por quê                                |
+| ------------------- | :----------: | -------------------------------------- |
+| 💊 Farmácia         |    R$ 200    | Lítio, ansiolíticos, outros essenciais |
+| 🫁 Oxigênio         |    R$ 100    | Suporte crises asmáticas               |
+| 🍽️ Alimentação      |    R$ 700    | Sobrevivência até fim do mês           |
+| **SUBTOTAL**        | **R$ 1.000** |                                        |
 
 ### 🟢 ATÉ 25/DEZEMBRO (Pode Esperar)
 
@@ -95,18 +96,76 @@
 
 ---
 
+## 🚀 INVESTIMENTO NOS PROJETOS (Além da Sobrevivência)
+
+**Manter-me vivo não é o bastante.** Para alcançar autonomia financeira em 24-36 meses, os projetos criativos precisam de investimento:
+
+### 📖 O Coração da Colmeia (95% pronto)
+
+| Item                    |    Valor    | Impacto                                          |
+| ----------------------- | :---------: | ------------------------------------------------ |
+| Revisão profissional    | R$ 800      | Qualidade editorial                              |
+| Capa profissional       | R$ 500      | Primeira impressão, vendas                       |
+| ISBN + registro         | R$ 200      | Publicação oficial                               |
+| Publicação Amazon KDP   | R$ 0        | Distribuição global                              |
+| Divulgação inicial      | R$ 500      | Alcance primeiros leitores                       |
+| **TOTAL LIVRO**         | **R$ 2.000** | **Livro publicado = renda passiva mensal**       |
+
+### 🎵 Lukix Música (Canal ativo)
+
+| Item                       |    Valor    | Impacto                                       |
+| -------------------------- | :---------: | --------------------------------------------- |
+| Microfone condensador      | R$ 1.200    | Qualidade de áudio profissional               |
+| Interface de áudio         | R$ 800      | Gravações limpas                              |
+| Tratamento acústico básico | R$ 600      | Sem ruídos/reverb indesejado                  |
+| DAW + plugins              | R$ 800      | Produção e edição                             |
+| Divulgação YouTube Ads     | R$ 600      | Acelera monetização (1.000 subs)              |
+| **TOTAL MÚSICA**           | **R$ 4.000** | **Monetização + trilhas para Krawz Arena**    |
+
+### 🎮 Krawz Arena (Prototipagem)
+
+| Item                    |    Valor    | Impacto                                        |
+| ----------------------- | :---------: | ---------------------------------------------- |
+| GitHub Pro + Copilot    | R$ 300/ano  | Desenvolvimento acelerado                      |
+| Hospedagem cloud        | R$ 200/mês  | Servidor de teste                              |
+| Assets/arte conceitual  | R$ 2.000    | Primeiras cartas visuais                       |
+| Domínio + landing page  | R$ 300      | Presença online                                |
+| **TOTAL PROTÓTIPO**     | **R$ 5.000** | **Demo jogável = validação + comunidade**      |
+
+### 💡 Por que isso importa?
+
+**Sem os projetos = dependência eterna de doações**  
+**Com os projetos = autonomia em 24-36 meses**
+
+- 📖 **Livro publicado**: R$ 300-800/mês passivo (royalties)
+- 🎵 **Canal monetizado**: R$ 200-600/mês (anúncios + membros + Spotify)
+- 🎮 **Arena em beta**: R$ 500-2.000/mês (early access + testes pagos)
+
+**Total potencial em 18 meses: R$ 1.000-3.400/mês** → cobre 25-85% das despesas básicas
+
+📚 **[Ver detalhes completos dos projetos](./docs/projetos.md)**
+
+---
+
 ## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA
 
-> **Preciso de R$ 1.100 URGENTE** para:
+> **Preciso de R$ 634 URGENTE (dia 11)** para:
 >
-> 1. Pagar cartão PicPay
-> 2. Usar o crédito liberado para pagar água, luz e internet
-> 3. Comprar comida e água
-> 4. Continuar devendo e renegociar depois
+> 1. 💧 Pagar água (R$ 80)
+> 2. ⚡ Pagar luz (R$ 300)
+> 3. 🌐 Pagar internet (R$ 209)
+> 4. 💊 Comprar bupropiona 150mg (R$ 45) - **PARA ONTEM**
+
+**Depois disso (dia 15), preciso de mais R$ 1.000** para:
+
+- 💊 Farmácia (lítio, ansiolíticos): R$ 200
+- 🫁 Oxigênio (crises asmáticas): R$ 100
+- 🍽️ Alimentação (sobrevivência): R$ 700
 
 **Sem isso:**
 
 - ❌ Sem água/luz/internet em **4 dias**
+- ❌ Sem bupropiona (depressão/bipolar sem tratamento)
 - ❌ Sem comida em **7 dias**
 - ❌ Impossível trabalhar nos projetos
 - ❌ Sem comunicação com o mundo
@@ -121,9 +180,9 @@
 | **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês              |
 | **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador           |
 | **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês      |
-| **R$ 589**   | 💧 + ⚡ + 🌐            | **CRÍTICO 11/12** | **Salva 3 serviços essenciais** ✨ |
+| **R$ 634**   | 💧 + ⚡ + 🌐 + 💊       | **CRÍTICO 11/12** | **Serviços + bupropiona URGENTE** ✨ |
 | **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                 |
-| **R$ 1.634** | Essenciais completo     | Até 15/12         | Passa com segurança                |
+| **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                |
 | **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                  |
 | **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo            |
 | **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                 |
@@ -156,8 +215,8 @@ Nome: Lucas Lopes Dornas
 **Escolha seu impacto:**
 
 - **Mínimo (R$ 50-100):** Ajuda com água/luz por alguns dias
-- **Crítico (R$ 589):** Salva água + luz + internet até dia 11 ✨
-- **Essencial (R$ 1.634):** Passa até dia 15 com segurança (inclui bupropiona)
+- **Crítico (R$ 634):** Salva água + luz + internet + bupropiona até dia 11 ✨
+- **Essencial (R$ 1.679):** Passa até dia 15 com segurança (inclui farmácia + comida)
 - **Completo (R$ 2.534):** Fecha dezembro todo
 - **Qualquer valor:** Ajuda e é registrado no histórico
 
@@ -167,8 +226,8 @@ Nome: Lucas Lopes Dornas
 
 **Hoje faltam:**
 
-- 🔴 **24% (R$ 589):** Água + Luz + Internet - **CRÍTICO até dia 11**
-- 🟠 **40% (R$ 1.000):** Farmácia + Comida + Oxigênio - até dia 15
+- 🔴 **25% (R$ 634):** Água + Luz + Internet + Bupropiona - **CRÍTICO até dia 11**
+- 🟠 **39% (R$ 1.000):** Farmácia + Comida + Oxigênio - até dia 15
 - 🟡 **36% (R$ 900):** Faxina + Dermatologia - podem esperar até 25
 
 **Cenários de autonomia**
