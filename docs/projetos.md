@@ -360,34 +360,44 @@ Canal de YouTube dedicado a músicas gospel autorais e covers cristãos. Projeto
 
 ## 🤝 Benefícios para Apoiadores
 
-### Tier 1: Apoio Básico (qualquer valor)
+### Tier 1: Apoio Básico (R$ 10-50)
 
-- ✅ Nome no hall de agradecimentos
-- ✅ Acesso ao Discord
-- ✅ Updates mensais exclusivos
+- ✅ Nome no hall de agradecimentos público
+- ✅ Acesso ao Discord da comunidade
+- ✅ Updates mensais sobre os projetos
 
-### Tier 2: Apoio Regular (R$ 50+/mês)
+### Tier 2: Apoio Regular (R$ 50-150/mês)
 
 - ✅ Tudo do Tier 1
-- ✅ Acesso antecipado a news dos projetos
-- ✅ Arte conceitual exclusiva mensal
-- ✅ Votação em decisões criativas
+- ✅ Acesso antecipado a notícias dos projetos
+- ✅ Votação em decisões criativas menores
+- ✅ **Contato direto via WhatsApp** (grupo exclusivo)
 
-### Tier 3: Patrocinador (R$ 200+/mês)
+### Tier 3: Patrocinador (R$ 200-400/mês)
 
 - ✅ Tudo do Tier 2
-- ✅ Exemplar autografado de O Coração da Colmeia
-- ✅ Crédito especial nos projetos
-- ✅ Call mensal com Q&A
-- ✅ Acesso beta a Krawz Arena
+- ✅ Arte conceitual exclusiva mensal (wallpapers, sketches)
+- ✅ Crédito de agradecimento nos projetos
+- ✅ Call mensal com Q&A (voz/texto)
+- ✅ Acesso beta a Krawz Arena (quando disponível)
 
-### Tier 4: Mecenas (R$ 500+/mês ou R$ 5.000+)
+### Tier 4: Mecenas Artístico (R$ 500-1.000/mês)
 
 - ✅ Tudo do Tier 3
-- ✅ Co-produtor executivo (créditos)
-- ✅ Participação ativa em decisões estratégicas
-- ✅ Acesso repositórios privados
-- ✅ Consultoria criativa individual
+- ✅ **Arte digital exclusiva personalizada** (1x por trimestre)
+- ✅ Exemplar autografado físico de "Krawz - Volume 1"
+- ✅ Sessão de consultoria criativa individual (1h/mês)
+- ✅ Acesso a repositórios privados de desenvolvimento
+
+### Tier 5: Co-Criador (R$ 1.500+/mês ou R$ 10.000+ única vez)
+
+- ✅ Tudo do Tier 4
+- ✅ **Personagem inspirado em você no universo Krawz** (livro ou jogo)
+- ✅ **Arte tradicional exclusiva encomendada** (2x por ano)
+- ✅ Co-produtor executivo (créditos oficiais)
+- ✅ Participação ativa em decisões estratégicas dos projetos
+- ✅ Linha direta de contato (WhatsApp pessoal)
+- ✅ Percentual simbólico de royalties (a negociar)
 
 ---
 
@@ -401,7 +411,8 @@ Para oportunidades de:
 - Marketing/Divulgação
 - Licenciamento e crossovers
 
-**Email**: Lukix.Player@gmail.com
+**Email**: Lukix.Player@gmail.com  
+**WhatsApp**: (mediante verificação de parceria séria)
 
 ---
 
