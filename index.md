@@ -6,7 +6,7 @@
 
 <div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + 4 DIAS PARA CORTE DE LUZ/INTERNET
+### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + CONTAS VENCEM DIA 11
 
 **Hoje: R$ 0,00 em caixa | 6 litros de água restantes**
 
@@ -45,13 +45,13 @@
 
 ## 📊 Gastos Já Realizados (Dezembro)
 
-| Item                              |   Valor    |   Status   |
-| --------------------------------- | :--------: | :--------: |
-| 🏊 Natação (terapia asma)         |   R$ 400   |  ✅ Pago   |
-| 💊 Farmácia (lítio, ansiolíticos) |   R$ 300   |  ✅ Pago   |
-| 🍽️ Alimentação                    |   R$ 290   |  ✅ Pago   |
-| **Total gasto**                   | **R$ 990** |            |
-| **Saldo restante**                | **R$ 0**   | 🔴 ZERO    |
+| Item                              |    Valor     | Status  |
+| --------------------------------- | :----------: | :-----: |
+| 🏊 Natação (terapia asma)         |    R$ 400    | ✅ Pago |
+| 💊 Farmácia (lítio, ansiolíticos) |    R$ 300    | ✅ Pago |
+| 🍽️ Alimentação                    |    R$ 300    | ✅ Pago |
+| **Total gasto**                   | **R$ 1.000** |         |
+| **Saldo restante**                |   **R$ 0**   | 🔴 ZERO |
 
 ---
 
@@ -69,12 +69,12 @@
 
 ### 🟡 ATÉ 15/DEZEMBRO
 
-| Item                |    Valor     | Por quê                                |
-| ------------------- | :----------: | -------------------------------------- |
-| 💊 Farmácia         |    R$ 200    | Lítio, ansiolíticos, outros essenciais |
-| 🫁 Oxigênio         |    R$ 100    | Suporte crises asmáticas               |
-| 🍽️ Alimentação      |    R$ 700    | Sobrevivência até fim do mês           |
-| **SUBTOTAL**        | **R$ 1.000** |                                        |
+| Item           |    Valor     | Por quê                                |
+| -------------- | :----------: | -------------------------------------- |
+| 💊 Farmácia    |    R$ 200    | Lítio, ansiolíticos, outros essenciais |
+| 🫁 Oxigênio    |    R$ 100    | Suporte crises asmáticas               |
+| 🍽️ Alimentação |    R$ 700    | Sobrevivência até fim do mês           |
+| **SUBTOTAL**   | **R$ 1.000** |                                        |
 
 ### 🟢 ATÉ 25/DEZEMBRO (Pode Esperar)
 
@@ -102,35 +102,35 @@
 
 ### 📖 O Coração da Colmeia (95% pronto)
 
-| Item                    |    Valor    | Impacto                                          |
-| ----------------------- | :---------: | ------------------------------------------------ |
-| Revisão profissional    | R$ 800      | Qualidade editorial                              |
-| Capa profissional       | R$ 500      | Primeira impressão, vendas                       |
-| ISBN + registro         | R$ 200      | Publicação oficial                               |
-| Publicação Amazon KDP   | R$ 0        | Distribuição global                              |
-| Divulgação inicial      | R$ 500      | Alcance primeiros leitores                       |
-| **TOTAL LIVRO**         | **R$ 2.000** | **Livro publicado = renda passiva mensal**       |
+| Item                  |    Valor     | Impacto                                    |
+| --------------------- | :----------: | ------------------------------------------ |
+| Revisão profissional  |    R$ 800    | Qualidade editorial                        |
+| Capa profissional     |    R$ 500    | Primeira impressão, vendas                 |
+| ISBN + registro       |    R$ 200    | Publicação oficial                         |
+| Publicação Amazon KDP |     R$ 0     | Distribuição global                        |
+| Divulgação inicial    |    R$ 500    | Alcance primeiros leitores                 |
+| **TOTAL LIVRO**       | **R$ 2.000** | **Livro publicado = renda passiva mensal** |
 
 ### 🎵 Lukix Música (Canal ativo)
 
-| Item                       |    Valor    | Impacto                                       |
-| -------------------------- | :---------: | --------------------------------------------- |
-| Microfone condensador      | R$ 1.200    | Qualidade de áudio profissional               |
-| Interface de áudio         | R$ 800      | Gravações limpas                              |
-| Tratamento acústico básico | R$ 600      | Sem ruídos/reverb indesejado                  |
-| DAW + plugins              | R$ 800      | Produção e edição                             |
-| Divulgação YouTube Ads     | R$ 600      | Acelera monetização (1.000 subs)              |
-| **TOTAL MÚSICA**           | **R$ 4.000** | **Monetização + trilhas para Krawz Arena**    |
+| Item                       |    Valor     | Impacto                                    |
+| -------------------------- | :----------: | ------------------------------------------ |
+| Microfone condensador      |   R$ 1.200   | Qualidade de áudio profissional            |
+| Interface de áudio         |    R$ 800    | Gravações limpas                           |
+| Tratamento acústico básico |    R$ 600    | Sem ruídos/reverb indesejado               |
+| DAW + plugins              |    R$ 800    | Produção e edição                          |
+| Divulgação YouTube Ads     |    R$ 600    | Acelera monetização (1.000 subs)           |
+| **TOTAL MÚSICA**           | **R$ 4.000** | **Monetização + trilhas para Krawz Arena** |
 
 ### 🎮 Krawz Arena (Prototipagem)
 
-| Item                    |    Valor    | Impacto                                        |
-| ----------------------- | :---------: | ---------------------------------------------- |
-| GitHub Pro + Copilot    | R$ 300/ano  | Desenvolvimento acelerado                      |
-| Hospedagem cloud        | R$ 200/mês  | Servidor de teste                              |
-| Assets/arte conceitual  | R$ 2.000    | Primeiras cartas visuais                       |
-| Domínio + landing page  | R$ 300      | Presença online                                |
-| **TOTAL PROTÓTIPO**     | **R$ 5.000** | **Demo jogável = validação + comunidade**      |
+| Item                   |    Valor     | Impacto                                   |
+| ---------------------- | :----------: | ----------------------------------------- |
+| GitHub Pro + Copilot   |  R$ 300/ano  | Desenvolvimento acelerado                 |
+| Hospedagem cloud       |  R$ 200/mês  | Servidor de teste                         |
+| Assets/arte conceitual |   R$ 2.000   | Primeiras cartas visuais                  |
+| Domínio + landing page |    R$ 300    | Presença online                           |
+| **TOTAL PROTÓTIPO**    | **R$ 5.000** | **Demo jogável = validação + comunidade** |
 
 ### 💡 Por que isso importa?
 
@@ -149,12 +149,12 @@
 
 ## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA
 
-> **Preciso de R$ 634 URGENTE (dia 11)** para:
+> **Preciso de R$ 634 URGENTE (até dia 11)** para:
 >
-> 1. 💧 Pagar água (R$ 80)
-> 2. ⚡ Pagar luz (R$ 300)
-> 3. 🌐 Pagar internet (R$ 209)
-> 4. 💊 Comprar bupropiona 150mg (R$ 45) - **PARA ONTEM**
+> 1. 💧 Pagar água (R$ 80) - **vence dia 11**
+> 2. ⚡ Pagar luz (R$ 300) - **vence dia 11**
+> 3. 🌐 Pagar internet (R$ 209) - **vence dia 11**
+> 4. 💊 Comprar bupropiona 150mg (R$ 45) - **URGENTE**
 
 **Depois disso (dia 15), preciso de mais R$ 1.000** para:
 
@@ -164,28 +164,28 @@
 
 **Sem isso:**
 
-- ❌ Sem água/luz/internet em **4 dias**
+- ❌ Água acaba em **2 dias** (6L restantes)
+- ❌ Contas vencem dia 11 → **multa + juros depois**
 - ❌ Sem bupropiona (depressão/bipolar sem tratamento)
-- ❌ Sem comida em **7 dias**
+- ❌ Comida acaba em **7 dias**
 - ❌ Impossível trabalhar nos projetos
-- ❌ Sem comunicação com o mundo
 
 ---
 
 ## 💝 IMPACTO DO SEU APOIO
 
-| Valor        | O Que Acontece          | Prazo             | Impacto                            |
-| ------------ | ----------------------- | ----------------- | ---------------------------------- |
-| **R$ 50**    | 💧 Parte da água do mês | Imediato          | +5 dias de água                    |
-| **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês              |
-| **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador           |
-| **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês      |
+| Valor        | O Que Acontece          | Prazo             | Impacto                              |
+| ------------ | ----------------------- | ----------------- | ------------------------------------ |
+| **R$ 50**    | 💧 Parte da água do mês | Imediato          | +5 dias de água                      |
+| **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês                |
+| **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador             |
+| **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês        |
 | **R$ 634**   | 💧 + ⚡ + 🌐 + 💊       | **CRÍTICO 11/12** | **Serviços + bupropiona URGENTE** ✨ |
-| **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                 |
-| **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                |
-| **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                  |
-| **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo            |
-| **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                 |
+| **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                   |
+| **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                  |
+| **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                    |
+| **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo              |
+| **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                   |
 
 ---
 
@@ -194,13 +194,13 @@
 ```
 HOJE (7/12)          DIA 9/12            DIA 11/12           DIA 15/12
 ─────────────────────────────────────────────────────────────────────
-R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ CORTE LUZ/NET    +Farmácia
-6L água              POTÁVEL             589 URGENTE         +Comida
-7 dias comida        CRÍTICO             ÁGUA/LUZ/NET        1.589 total
+R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ VENCIMENTO       +Farmácia
+6L água              POTÁVEL             LUZ/NET/ÁGUA        +Comida
+7 dias comida        CRÍTICO             R$ 634 URGENTE      1.679 total
 
 [████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
-0%                   ÁGUA ACABA          24%                 64%
-                     DIA 9
+0%                   ÁGUA ACABA          25% (vence)         66%
+                     DIA 9               MULTA/JUROS DEPOIS
 ```
 
 ---
