@@ -106,6 +106,22 @@ Nome: Lucas Lopes Dornas
 
 ---
 
+## 📈 Comparativos Rápidos
+
+- **Essenciais imediatas (até 11/12):** R$ 589 (~24% do total) para manter água/luz/internet
+- **Essenciais do mês (até 15/12):** R$ 1.589 (~64% do total) somando comida, farmácia e oxigênio
+- **Podem esperar até 25/12:** R$ 900 (~36% do total) faxina + dermatologia, só depois dos críticos
+
+**Cenários de autonomia**
+
+| Horizonte | O que destrava | Pré-requisitos |
+| --------- | -------------- | -------------- |
+| 24 meses  | Receita própria cobre básicos | Livro publicado + canal monetizado + beta do Arena com comunidade |
+| 30 meses  | Margem de segurança | Livro rodando + músicas regulares + alpha/beta do Arena estável |
+| 36 meses  | Autonomia com folga | Diversificação plena (livro + jogo + canal) e reservas |
+
+---
+
 ## 👤 Quem Sou
 
 **Lucas Lopes Dornas** (Lux Vesper)
