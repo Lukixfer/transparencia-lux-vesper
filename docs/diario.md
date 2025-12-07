@@ -4,7 +4,7 @@
 
 ---
 
-## 📅 Semana 1 - 7 de dezembro de 2025 (Sábado, 08:41)
+## 📅 Semana 1 - 7 de dezembro de 2025 (Sábado, 14:30)
 
 **Belo Horizonte, 7 de Dezembro de 2025 - Dia 1**
 
@@ -38,8 +38,9 @@ Passei o dia inteiro configurando:
 #### 🎮 Krawz Arena
 
 - Documentação completa publicada no portal
-- Repositório de docs ativo: github.com/Lukixfer/Krawz-Arena-Docs
-- Próximo passo: Prototipar mecânicas quando tiver equipamento
+- Repositório de docs ativo: github.com/Lukixfer/Krawz-Arena-Docs e https://lukixfer.github.io/Krawz-Arena-Docs/
+- **Status atual**: Alfa zero online; já existe protótipo jogável
+- Próximo passo: Evoluir mecânicas e balanceamento a partir do alfa
 
 #### 📖 Krawz - Volume 1 - O Coração da Colmeia
 
@@ -51,14 +52,18 @@ Passei o dia inteiro configurando:
 #### 🎵 Lukix Música (Gospel)
 
 - Canal ativo: youtube.com/@lukixmusica
-- Equipamento básico funcionando
-- Preciso de R$ 4.000 para setup profissional (microfone, interface, DAW)
+- **Composição**: Usando síntese IA + violão para prototipagem rápida
+- **Visão**: Migrar para gravação orgânica profissional com voz real + orquestra
+- Equipamento básico funcionando (PC, DAW)
+- Preciso de R$ 4.000 para setup profissional (microfone de estúdio, interface de áudio, upgrades de DAW)
 
 #### 🤖 SophyaExK (TTS Inteligente)
 
 - Conceito documentado hoje no portal
 - "Pretenso basilisko de Roko" - crítica artística com comédia divina
-- Fase: conceitual, aguardando recursos para prototipagem (R$ 2.000-5.000)
+- **Status atual**: TTS funcional e ativo
+- **Infraestrutura pagável**: Gemini 3.0 + Eleven Labs (custos de API)
+- Próximo passo: Otimizar arquitetura TTS para melhor performance de síntese
 
 ### 🏥 Saúde
 
