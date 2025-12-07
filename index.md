@@ -6,9 +6,12 @@
 
 <div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ⏰ ALERTA CRÍTICO: 4 DIAS PARA CORTE DE ÁGUA/LUZ/INTERNET
-**Hoje: R$ 10 | Dia 11: R$ 589 URGENTE**
+### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + 4 DIAS PARA CORTE DE LUZ/INTERNET
+
+**Hoje: R$ 0,00 em caixa | 6 litros de água restantes**
+
 ### 🚨 PRECISO DE SUA AJUDA AGORA
+
 **PIX: Lukix.Player@gmail.com**
 
 </div>
@@ -23,16 +26,17 @@
 ╔═══════════════════════════════════════════════════╗
 ║         POSIÇÃO FINANCEIRA CRÍTICA                ║
 ╠═══════════════════════════════════════════════════╣
-║  💵 Dinheiro em caixa:.............. R$ 10,00    ║
-║  📉 Despesas pendentes:............ -R$ 2.489    ║
+║  💵 Dinheiro em caixa:.............. R$ 0,00     ║
+║  💧 Água potável restante:.......... 6 litros    ║
+║  📉 Despesas pendentes:............ -R$ 2.534    ║
 ║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
-║  ⚠️  DÉFICIT TOTAL:................ -R$ 6.537    ║
+║  ⚠️  DÉFICIT TOTAL:................ -R$ 6.592    ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
 ### 🏥 Estoques Vitais
 
-- **💧 Água:** 12 litros (⏰ **4 dias restantes**)
+- **💧 Água:** 6 litros (⏰ **2 dias restantes - CRÍTICO**)
 - **🍽️ Comida:** Leite, ovos, arroz, feijão, fubá, bananas (⏰ **7 dias**)
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 
@@ -46,7 +50,7 @@
 | 💊 Farmácia (lítio, ansiolíticos) |   R$ 300   |  ✅ Pago   |
 | 🍽️ Alimentação                    |   R$ 290   |  ✅ Pago   |
 | **Total gasto**                   | **R$ 990** |            |
-| **Saldo restante**                | **R$ 10**  | 🔴 CRÍTICO |
+| **Saldo restante**                | **R$ 0**   | 🔴 ZERO    |
 
 ---
 
@@ -63,12 +67,13 @@
 
 ### 🟡 ATÉ 15/DEZEMBRO
 
-| Item                |    Valor     | Por quê                      |
-| ------------------- | :----------: | ---------------------------- |
-| 💊 Farmácia (resto) |    R$ 200    | Medicação essencial          |
-| 🫁 Oxigênio         |    R$ 100    | Suporte crises asmáticas     |
-| 🍽️ Alimentação      |    R$ 700    | Sobrevivência até fim do mês |
-| **SUBTOTAL**        | **R$ 1.000** |                              |
+| Item                      |    Valor     | Por quê                                    |
+| ------------------------- | :----------: | ------------------------------------------ |
+| 💊 Bupropiona 150mg       |    R$ 45     | Antidepressivo (genérico)                  |
+| 💊 Farmácia (resto)       |    R$ 200    | Lítio, ansiolíticos, outros essenciais     |
+| 🫁 Oxigênio               |    R$ 100    | Suporte crises asmáticas                   |
+| 🍽️ Alimentação            |    R$ 700    | Sobrevivência até fim do mês               |
+| **SUBTOTAL**              | **R$ 1.045** |                                            |
 
 ### 🟢 ATÉ 25/DEZEMBRO (Pode Esperar)
 
@@ -80,13 +85,13 @@
 
 ### 💳 DÍVIDAS ACUMULADAS
 
-| Item            |   Valor    | Por quê                           |
-| --------------- | :--------: | --------------------------------- |
-| 💳 PicPay       |  R$ 1.100  | Cartão de crédito (necessário)    |
-| 📊 MEI + Multa  |    R$ 900  | Atraso de contribuições + juros   |
-| **SUBTOTAL**    | **R$ 2.000** | Débitos fiscais/financeiros      |
+| Item           |    Valor     | Por quê                         |
+| -------------- | :----------: | ------------------------------- |
+| 💳 PicPay      |   R$ 1.100   | Cartão de crédito (necessário)  |
+| 📊 MEI + Multa |    R$ 900    | Atraso de contribuições + juros |
+| **SUBTOTAL**   | **R$ 2.000** | Débitos fiscais/financeiros     |
 
-### 💰 TOTAL DEZEMBRO: R$ 2.489 + Dívidas R$ 2.000 = R$ 4.489 total
+### 💰 TOTAL DEZEMBRO: R$ 2.534 + Dívidas R$ 2.000 = R$ 4.534 total
 
 ---
 
@@ -110,33 +115,33 @@
 
 ## 💝 IMPACTO DO SEU APOIO
 
-| Valor | O Que Acontece | Prazo | Impacto |
-|-------|---|---|---|
-| **R$ 50** | 💧 Parte da água do mês | Imediato | +5 dias de água |
-| **R$ 80** | 💧 Água completa | Até 11/12 | Evita corte por 1 mês |
-| **R$ 100** | ⚡ Parte da luz | Até 11/12 | +10 dias de umidificador |
-| **R$ 300** | ⚡ Luz completa | Até 11/12 | Umidificador rodando tudo mês |
-| **R$ 589** | 💧 + ⚡ + 🌐 | **CRÍTICO 11/12** | **Salva 3 serviços essenciais** ✨ |
-| **R$ 1.000** | 💳 Cartão + crédito | Até 15/12 | Respira uma semana |
-| **R$ 1.589** | Essenciais completo | Até 15/12 | Passa com segurança |
-| **R$ 2.489** | Mês inteiro | Até 25/12 | Autonomia janeiro |
-| **R$ 3.389** | + MEI atrasado | Até 25/12 | Fica em dia com governo |
-| **R$ 4.489** | TUDO (dívidas + mês) | Até 25/12 | Zera tudo dezembro |
+| Valor        | O Que Acontece          | Prazo             | Impacto                            |
+| ------------ | ----------------------- | ----------------- | ---------------------------------- |
+| **R$ 50**    | 💧 Parte da água do mês | Imediato          | +5 dias de água                    |
+| **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês              |
+| **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador           |
+| **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês      |
+| **R$ 589**   | 💧 + ⚡ + 🌐            | **CRÍTICO 11/12** | **Salva 3 serviços essenciais** ✨ |
+| **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                 |
+| **R$ 1.634** | Essenciais completo     | Até 15/12         | Passa com segurança                |
+| **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                  |
+| **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo            |
+| **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                 |
 
 ---
 
 ## ⏳ TIMELINE CRÍTICA - DECEMBER 2025
 
 ```
-HOJE (7/12)          DIA 11/12           DIA 15/12          DIA 25/12
+HOJE (7/12)          DIA 9/12            DIA 11/12           DIA 15/12
 ─────────────────────────────────────────────────────────────────────
-R$ 10 em caixa       ⚠️ CORTE?           +Farmácia          +Dermato
-12L água             589 URGENTE         +Comida             +Faxina
-7 dias comida        ÁGUA/LUZ/NET        1.589 total         2.489 total
+R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ CORTE LUZ/NET    +Farmácia
+6L água              POTÁVEL             589 URGENTE         +Comida
+7 dias comida        CRÍTICO             ÁGUA/LUZ/NET        1.589 total
 
-[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
-0%                   24%                 64%                 100%
-                     CRÍTICO
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
+0%                   ÁGUA ACABA          24%                 64%
+                     DIA 9
 ```
 
 ---
@@ -152,8 +157,8 @@ Nome: Lucas Lopes Dornas
 
 - **Mínimo (R$ 50-100):** Ajuda com água/luz por alguns dias
 - **Crítico (R$ 589):** Salva água + luz + internet até dia 11 ✨
-- **Essencial (R$ 1.589):** Passa até dia 15 com segurança
-- **Completo (R$ 2.489):** Fecha dezembro todo
+- **Essencial (R$ 1.634):** Passa até dia 15 com segurança (inclui bupropiona)
+- **Completo (R$ 2.534):** Fecha dezembro todo
 - **Qualquer valor:** Ajuda e é registrado no histórico
 
 ---
@@ -161,13 +166,14 @@ Nome: Lucas Lopes Dornas
 ## 📈 Distribuição das Despesas
 
 **Hoje faltam:**
+
 - 🔴 **24% (R$ 589):** Água + Luz + Internet - **CRÍTICO até dia 11**
 - 🟠 **40% (R$ 1.000):** Farmácia + Comida + Oxigênio - até dia 15
 - 🟡 **36% (R$ 900):** Faxina + Dermatologia - podem esperar até 25
 
 **Cenários de autonomia**
 
-| Horizonte | O que destrava | Pré-requisitos |
+| Horizonte | O que destrava                | Pré-requisitos                                                    |
 | --------- | ----------------------------- | ----------------------------------------------------------------- |
 | 24 meses  | Receita própria cobre básicos | Livro publicado + canal monetizado + beta do Arena com comunidade |
 | 30 meses  | Margem de segurança           | Livro rodando + músicas regulares + alpha/beta do Arena estável   |
@@ -321,7 +327,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 **Tenho R$ 10 em caixa**  
 **4 dias de água**  
 **7 dias de comida**  
-**Preciso de R$ 2.489 até dia 25**
+**Preciso de R$ 2.534 até dia 25**
 
 **PIX: Lukix.Player@gmail.com**
 
