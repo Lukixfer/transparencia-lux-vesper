@@ -25,13 +25,29 @@ Passei o dia inteiro configurando:
 
 É estranho expor minha situação assim. R$ 0 em caixa, 6 litros de água, dívidas acumuladas, família tóxica, cachorro envenenado... Tudo documentado. Mas é a única forma honesta de pedir ajuda.
 
-### 💰 Situação Financeira
+### 💰 Situação Financeira (Atualizado 7/12 - Noite)
 
-- **Recebido no mês**: R$ 1.000
-- **Gasto até agora**: R$ 1.000 (natação R$ 400, farmácia R$ 300, alimentação R$ 300)
-- **Saldo**: R$ 0
-- **Estoques**: 6L água (2 dias), 7 dias comida, 30 dias medicação
-- **Urgências**: Contas vencem dia 11 (água R$ 80, luz R$ 300, internet R$ 209, bupropiona R$ 45 = R$ 634)
+**Contribuições recebidas:**
+- **R$ 100** (7/12) - Família
+- **R$ 1.000** (chegando 8/12) - Família
+
+**Fluxo:**
+- Hoje (7/12): R$ 100 em reserva (não gasto)
+- Amanhã (8/12): +R$ 1.000 → pagar cartão de crédito
+- Dia 11/12+: Crédito disponível após quitar dívida
+
+**Contas a pagar (vencimento 11/12):**
+- Água: R$ 80
+- Luz: R$ 300
+- Internet: R$ 209
+- Bupropiona: R$ 45
+- **Total: R$ 634**
+
+**Estoques:** 6L água (2 dias), 7 dias comida, 30 dias medicação
+
+---
+
+> **Nota histórica:** Primeira contribuição registrada vem da família. O Portal da Transparência encurralou os facistas — conseguimos visibilidade e apoio real. Transparência funciona.
 
 ### 📊 Progressos nos Projetos
 
