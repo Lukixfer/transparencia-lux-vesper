@@ -8,7 +8,7 @@
 
 ### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
 
-**Hoje: R$ 100,00 em caixa | 6 litros de água restantes | Frost free travado (congelador entupido)**
+**Hoje: R$ 100,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 6 litros de água restantes**
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
@@ -26,13 +26,14 @@
 ╔═══════════════════════════════════════════════════╗
 ║         POSIÇÃO FINANCEIRA CRÍTICA                ║
 ╠═══════════════════════════════════════════════════╣
-║  💵 Dinheiro em caixa:.............. R$ 100,00   ║
+║  💵 Dinheiro em caixa (hoje):....... R$ 100,00   ║
+║  💵 Pendente amanhã (8/12):......... R$ 1.000    ║
 ║  💧 Água potável restante:.......... 6 litros    ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
 ║  📉 Despesas pendentes:............ -R$ 2.534    ║
 ║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
-║  ⚠️  DÉFICIT TOTAL:................ -R$ 6.992    ║
+║  ⚠️  DÉFICIT (após crédito):........ -R$ 5.992    ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
