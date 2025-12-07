@@ -90,12 +90,10 @@
 
 ## 💝 COMO AJUDAR AGORA
 
-````
-Chave: Lukix.Player@gmail.com
+```
+Chave Pix: Lukix.Player@gmail.com
 Nome: Lucas Lopes Dornas
-```ve: Lukix.Player@gmail.com
-Nome: Lux Vesper
-````
+```
 
 **O que cada valor faz:**
 
