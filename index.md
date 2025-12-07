@@ -42,12 +42,12 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item         |   Valor    | Por quê                                             |
-| ------------ | :--------: | --------------------------------------------------- |
-| 💧 Água      |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos |
-| ⚡ Luz       |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento); sem ventilador (piora a asma) |
-| 🌐 Internet  |   R$ 209   | Trabalho remoto, projetos, comunicação              |
-| **SUBTOTAL** | **R$ 589** | **Serviços cortados se não pagar**                  |
+| Item         |   Valor    | Por quê                                                                                        |
+| ------------ | :--------: | ---------------------------------------------------------------------------------------------- |
+| 💧 Água      |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos                                            |
+| ⚡ Luz       |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                                |
+| 🌐 Internet  |   R$ 209   | Trabalho remoto, projetos, comunicação                                                         |
+| **SUBTOTAL** | **R$ 589** | **Serviços cortados se não pagar**                                                             |
 
 ### 🟡 ATÉ 15/DEZEMBRO
 
@@ -98,7 +98,7 @@ Nome: Lucas Lopes Dornas
 **O que cada valor faz:**
 
 - **R$ 80** = 💧 Água por 1 mês
-- **R$ 300** = ⚡ Luz (umidificador 24/7 + computador para estudar/trabalhar/me entreter; ventilador piora a asma)
+- **R$ 300** = ⚡ Luz (umidificador 24/7 + computador para estudar/trabalhar/me entreter)
 - **R$ 589** = Salva água + luz + internet (CRÍTICO dia 11)
 - **R$ 1.100** = Paga cartão + usa crédito para sobreviver
 - **R$ 1.589** = Passa até dia 15 (essenciais)
