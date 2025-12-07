@@ -37,13 +37,13 @@ Passei o dia inteiro configurando:
 - Dia 11/12+: Crédito disponível após quitar dívida
 
 **Contas a pagar (vencimento 11/12):**
-- Água: R$ 80
+- Água mineral: R$ 80 (fornecedor confirma que água de torneira não é potável para alimentos, animais ou plantas)
 - Luz: R$ 300
 - Internet: R$ 209
 - Bupropiona: R$ 45
 - **Total: R$ 634**
 
-**Estoques:** 6L água (2 dias), 7 dias comida, 30 dias medicação
+**Estoques:** 6L água mineral (2 dias), 7 dias comida, 30 dias medicação
 
 ---
 

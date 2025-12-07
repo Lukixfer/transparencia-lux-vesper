@@ -6,9 +6,11 @@
 
 <div align="center" style="background: #ff0000; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA POTÁVEL + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
+### ⏰ ALERTA CRÍTICO: 2 DIAS SEM ÁGUA MINERAL + GELADEIRA QUEBRADA + CONTAS VENCEM DIA 11
 
-**Hoje: R$ 100,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 6 litros de água restantes**
+**Hoje: R$ 100,00 em caixa | Amanhã: +R$ 1.000 chegando → pagará cartão | 6 litros de água mineral restantes**
+
+> ⚠️ **Nota importante:** Não consigo beber água de torneira (fornecedora confirma que não é potável para alimentos, animais ou plantas). Preciso de água mineral mesmo.
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
@@ -28,7 +30,7 @@
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 100,00   ║
 ║  💵 Pendente amanhã (8/12):......... R$ 1.000    ║
-║  💧 Água potável restante:.......... 6 litros    ║
+║  💧 Água mineral restante:.......... 6 litros    ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
 ║  📉 Despesas pendentes:............ -R$ 2.534    ║
@@ -39,7 +41,7 @@
 
 ### 🏥 Estoques Vitais
 
-- **💧 Água:** 6 litros (⏰ **2 dias restantes - CRÍTICO**)
+- **💧 Água mineral:** 6 litros (⏰ **2 dias restantes - CRÍTICO**)
 - **🍽️ Comida:** Leite, ovos, arroz, feijão, fubá, bananas (⏰ **7 dias**)
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
@@ -64,7 +66,7 @@
 
 | Item                |   Valor    | Por quê                                                         |
 | ------------------- | :--------: | --------------------------------------------------------------- |
-| 💧 Água             |   R$ 80    | Umidificador (asma) + plantas + banhos terapêuticos             |
+| 💧 Água mineral     |   R$ 80    | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas |
 | ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento) |
 | 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                          |
 | 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                             |
