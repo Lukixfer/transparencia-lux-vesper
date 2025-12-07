@@ -1,0 +1,19 @@
+# Configuração Jekyll para Portal da Transparência
+title: Portal da Transparência - Lux Vesper
+description: Transparência financeira total | Projetos criativos reais | Humanidade acima de tudo
+author: Lucas Lopes Dornas (Lux Vesper)
+lang: pt-BR
+
+# Tema
+theme: jekyll-theme-minimal
+
+# Desabilita recursos externos desnecessários
+google_analytics: false
+plugins: []
+
+# Força HTTPS
+url: "https://transparencia.krawz.net"
+enforce_ssl: transparencia.krawz.net
+
+# Remove scripts externos do tema
+anchor_js: false
