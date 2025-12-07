@@ -397,7 +397,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 **Mantido com 💜 por Lux Vesper**
 
-_Última atualização: 7 de dezembro de 2025, 14:30 (horário de Brasília)_  
+_Última atualização: 7 de dezembro de 2025, 08:41 (horário de Brasília)_  
 _Próxima atualização semanal: 14 de dezembro de 2025, ~14h_
 
 📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada

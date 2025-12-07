@@ -416,7 +416,7 @@ Para oportunidades de:
 
 ---
 
-**Última atualização**: 7 de dezembro de 2025, 14:30  
+**Última atualização**: 7 de dezembro de 2025, 08:41  
 **Próxima atualização semanal**: 14 de dezembro de 2025, ~14h
 
 ---
