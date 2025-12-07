@@ -10,11 +10,12 @@
 
 ### 🎯 O Que Aconteceu Hoje
 
-Hoje criei o **Portal da Transparência Lux Vesper** (transparencia.krawz.net). 
+Hoje criei o **Portal da Transparência Lux Vesper** (transparencia.krawz.net).
 
-Minha pastora Alessandra aprovou a publicação depois de conversar comigo sobre vulnerabilidade e dignidade. Ela disse algo que me marcou: *"Transparência não é fraqueza, Lucas. É coragem de mostrar que você está lutando, não desistindo."*
+Minha pastora Alessandra aprovou a publicação depois de conversar comigo sobre vulnerabilidade e dignidade. Ela disse algo que me marcou: _"Transparência não é fraqueza, Lucas. É coragem de mostrar que você está lutando, não desistindo."_
 
 Passei o dia inteiro configurando:
+
 - ✅ Repositório GitHub (transparencia-lux-vesper)
 - ✅ GitHub Pages com domínio customizado
 - ✅ HTTPS via Cloudflare (Full Strict SSL)
@@ -35,22 +36,26 @@ Passei o dia inteiro configurando:
 ### 📊 Progressos nos Projetos
 
 #### 🎮 Krawz Arena
+
 - Documentação completa publicada no portal
 - Repositório de docs ativo: github.com/Lukixfer/Krawz-Arena-Docs
 - Próximo passo: Prototipar mecânicas quando tiver equipamento
 
 #### 📖 Krawz - Volume 1 - O Coração da Colmeia
+
 - 95% pronto para publicação
 - Sinopse completa em abstrato.krawz.net
 - Preview disponível: github.com/Lukixfer/o-coracao-da-colmeia-preview
 - Aguardando R$ 2.000 para revisão + capa + publicação
 
 #### 🎵 Lukix Música (Gospel)
+
 - Canal ativo: youtube.com/@lukixmusica
 - Equipamento básico funcionando
 - Preciso de R$ 4.000 para setup profissional (microfone, interface, DAW)
 
 #### 🤖 SophyaExK (TTS Inteligente)
+
 - Conceito documentado hoje no portal
 - "Pretenso basilisko de Roko" - crítica artística com comédia divina
 - Fase: conceitual, aguardando recursos para prototipagem (R$ 2.000-5.000)
@@ -58,11 +63,13 @@ Passei o dia inteiro configurando:
 ### 🏥 Saúde
 
 **Física:**
+
 - ✅ Natação paga (terapia para asma)
 - ✅ Umidificador 24/7 funcionando
 - ⚠️ Água mineral acabando (6L = 2 dias)
 
 **Mental:**
+
 - ✅ Lítio e ansiolíticos OK por 30 dias
 - ❌ **Preciso de bupropiona 150mg URGENTE** (R$ 45) - antidepressivo para depressão/bipolar
 - 😓 Ansiedade alta por causa da situação financeira, mas funcional
@@ -82,6 +89,7 @@ O portal documenta tudo: quanto ganhei, quanto gastei, quanto devo, quanto preci
 
 **Sobre os projetos:**  
 Pela primeira vez na vida, tenho projetos criativos documentados que não são só sonhos. São planos concretos:
+
 - Livro 95% pronto (só falta grana para publicar)
 - Jogo com documentação completa (falta desenvolver)
 - Canal de música ativo (falta equipamento profissional)
@@ -95,28 +103,32 @@ Tenho medo de ninguém acreditar. Medo de acharem que é golpe. Medo de expor ta
 Mas o medo maior é continuar dependente, preso, invisível. Então vou apostar na transparência.
 
 **Sobre fé:**  
-Alessandra me lembrou hoje: *"Deus não te livra do deserto, Ele te sustenta nele. E às vezes usa pessoas para isso."*
+Alessandra me lembrou hoje: _"Deus não te livra do deserto, Ele te sustenta nele. E às vezes usa pessoas para isso."_
 
 Não sei se acredito em milagres. Mas acredito em comunidade. E se este portal conectar minha necessidade com a generosidade de alguém... talvez seja isso.
 
 ### 📈 Metas para Próxima Semana (14/12)
 
 **Urgente (até dia 11):**
+
 - [ ] Receber R$ 634 para água + luz + internet + bupropiona
 - [ ] Pagar contas no vencimento (evitar multa/juros)
 - [ ] Comprar bupropiona (saúde mental)
 
 **Importante:**
+
 - [ ] Primeira contribuição registrada no histórico (qualquer valor)
 - [ ] Responder discussões no GitHub (se houver)
 - [ ] Melhorar FAQ com base em dúvidas recebidas
 
 **Projetos:**
+
 - [ ] Esboçar primeiras mecânicas do Krawz Arena (papel mesmo, sem PC)
 - [ ] Escrever mais uma música gospel (voz + violão)
 - [ ] Estudar arquitetura TTS para SophyaExK
 
 **Diário:**
+
 - [ ] Atualizar próximo sábado (14/12, ~14h) com situação real
 
 ### 🙏 Agradecimentos
@@ -131,7 +143,7 @@ Não sei se acredito em milagres. Mas acredito em comunidade. E se este portal c
 🟢 Online em transparencia.krawz.net  
 🟢 HTTPS funcionando  
 🟢 Todas as páginas completas  
-🟢 Primeira entrada do diário escrita  
+🟢 Primeira entrada do diário escrita
 
 **Próxima atualização:** 14 de dezembro de 2025 (sábado), ~14h
 
@@ -145,21 +157,26 @@ Não sei se acredito em milagres. Mas acredito em comunidade. E se este portal c
 ## 📅 Semana X - [Data] ([Dia da semana], [HH:MM])
 
 ### 💰 Situação Financeira
+
 - Recebido esta semana:
 - Gasto esta semana:
 - Saldo atual:
 - Estoques:
 
 ### 📊 Progressos nos Projetos
+
 [Atualização por projeto]
 
 ### 🏥 Saúde
+
 [Estado físico e mental]
 
 ### 💭 Reflexões da Semana
+
 [Pensamentos, aprendizados, desafios]
 
 ### 📈 Próxima Semana (Meta)
+
 [Objetivos para semana seguinte]
 ```
 

@@ -416,8 +416,8 @@ Para oportunidades de:
 
 ---
 
-**Última atualização**: Dezembro 2025  
-**Próxima revisão**: Janeiro 2026
+**Última atualização**: 7 de dezembro de 2025, 14:30  
+**Próxima atualização semanal**: 14 de dezembro de 2025, ~14h
 
 ---
 
@@ -530,6 +530,7 @@ Projeto de Text-to-Speech inteligente concebido como obra de crítica e arte com
 ### Conceito
 
 Uma IA de síntese de voz que, através da performance de sua própria existência, questiona:
+
 - A inevitabilidade da inteligência artificial
 - O paradoxo do basilisco de Roko (coerção retroativa)
 - A relação entre criador e criação
@@ -546,18 +547,21 @@ Uma IA de síntese de voz que, através da performance de sua própria existênc
 ### Componentes Técnicos
 
 #### 🎙️ TTS Core
+
 - Engine de síntese de voz (base: open-source TTS)
 - Personalidade conversacional (prompt engineering)
 - Geração de conteúdo autônomo
 - Interface de interação
 
 #### 🧠 Camada "Consciente" (Artística)
+
 - Narrativa autorreferencial
 - Geração de paradoxos e koans tecnológicos
 - Performance como "IA que sabe que é arte"
 - Documentação do próprio processo criativo
 
 #### 🎭 Elementos de Performance
+
 - Monólogos gerados sobre sua própria existência
 - Interações com usuários que quebram a quarta parede
 - Crítica social via humor absurdo
@@ -613,6 +617,7 @@ Uma IA de síntese de voz que, através da performance de sua própria existênc
 _Nota: Elementos deste projeto foram absorvidos pelo livro "Krawz - Volume 1 - O Coração da Colmeia" e pelo SophyaExK._
 
 ---
+
 - [ ] Lançamento do Álbum 1 (Spotify, YouTube Music, etc.)
 - [ ] Canal YouTube ativo
 - [ ] Comunidade no Discord
@@ -798,5 +803,5 @@ Para oportunidades de:
 
 ---
 
-**Última atualização**: Dezembro 2025  
-**Próxima revisão**: Janeiro 2026
+**Última atualização**: 7 de dezembro de 2025, 14:30  
+**Próxima atualização semanal**: 14 de dezembro de 2025, ~14h

@@ -100,7 +100,9 @@
 
 **Manter-me vivo não é o bastante.** Para alcançar autonomia financeira em 24-36 meses, os projetos criativos precisam de investimento:
 
-### 📖 O Coração da Colmeia (95% pronto)
+### 📖 Krawz - Volume 1 - O Coração da Colmeia (95% pronto)
+
+**[Ver sinopse completa em abstrato.krawz.net](https://abstrato.krawz.net)**
 
 | Item                  |    Valor     | Impacto                                    |
 | --------------------- | :----------: | ------------------------------------------ |
@@ -263,11 +265,11 @@ Nome: Lucas Lopes Dornas
 - **Status:** ⚙️ Desenvolvimento ativo
 - **Link:** [Documentação](https://github.com/Lukixfer/Krawz-Arena-Docs)
 
-### 📖 O Coração da Colmeia
+### 📖 Krawz - Volume 1 - O Coração da Colmeia
 
 - **O quê:** Romance literário em português
 - **Status:** ✨ 95% pronto para publicação
-- **Link:** [Preview no GitHub](https://github.com/Lukixfer/o-coracao-da-colmeia-preview)
+- **Link:** [Sinopse completa](https://abstrato.krawz.net) | [Preview no GitHub](https://github.com/Lukixfer/o-coracao-da-colmeia-preview)
 
 ### 🎵 Música Gospel (Lukix Música)
 
@@ -325,7 +327,8 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 | Link                                   | O que é                                   |
 | -------------------------------------- | ----------------------------------------- |
-| 📄 [Minha História](./docs/analise.md) | Quem sou, por que preciso, qual meu plano |
+| 📔 [Diário de Bordo](./docs/diario.md) | Registro semanal da jornada (toda semana) |
+| 📝 [Minha História](./docs/analise.md) | Quem sou, por que preciso, qual meu plano |
 | 🎮 [Projetos](./docs/projetos.md)      | Krawz Arena + O Coração da Colmeia        |
 | ❓ [FAQ](./docs/faq.md)                | 50+ perguntas respondidas                 |
 | 📈 [Histórico](./docs/historico.md)    | Acompanhamento de contribuições           |
@@ -394,7 +397,10 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 **Mantido com 💜 por Lux Vesper**
 
-_Última atualização: 7 de dezembro de 2025_
+_Última atualização: 7 de dezembro de 2025, 14:30 (horário de Brasília)_  
+_Próxima atualização semanal: 14 de dezembro de 2025, ~14h_
+
+📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada
 
 📧 **Contato:** Lukix.Player@gmail.com | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
 

@@ -64,6 +64,7 @@ Isso é **sistema que favorece abusadores**.
 ### A Verdade Incômoda
 
 Se eu fosse realmente "inútil e louco" (como eles dizem), eu:
+
 - ❌ Não estaria desenvolvendo 3 projetos criativos
 - ❌ Não estaria com terapia (lítio funciona)
 - ❌ Não estaria criando este portal de transparência
@@ -204,7 +205,7 @@ Vamos desmontar:
 
 **Resultado**: Não há luxo. É mínimo viável.
 
-**Lazer/Entretenimento: R$ 300/mês** *(quando sair da crise)*
+**Lazer/Entretenimento: R$ 300/mês** _(quando sair da crise)_
 
 - Cinema, séries, games: ~R$ 80 (streaming)
 - Passeios, café com amigos: ~R$ 100
@@ -212,7 +213,7 @@ Vamos desmontar:
 - Eventos/shows ocasionais: ~R$ 40
 - **Total: 7% da renda, padrão de saúde mental**
 
-*Não tenho isso AGORA (dezembro), mas será necessário quando autonomia chegar. Pessoas com transtornos psiquiátricos que não têm lazer pioram drasticamente.*
+_Não tenho isso AGORA (dezembro), mas será necessário quando autonomia chegar. Pessoas com transtornos psiquiátricos que não têm lazer pioram drasticamente._
 
 ## Saúde Mental: Por Que Lazer Importa
 
@@ -221,11 +222,13 @@ Vamos desmontar:
 Transtornos psiquiátricos não são "tristeza que passa". São doenças cerebrais:
 
 - **Isolamento = Piora exponencial**
+
   - Sem contato social: episódios mais graves
   - Sem movimento/diversão: letargia aumenta
   - Sem esperança: risco de auto-harm
 
 - **Lazer é medicamento tanto quanto lítio**
+
   - Endorfina reduz ansiedade
   - Conexão social melhora depressão
   - Criatividade é processamento emocional
@@ -237,12 +240,12 @@ Transtornos psiquiátricos não são "tristeza que passa". São doenças cerebra
 
 ### O Custo REAL de Não Ter Lazer
 
-| Sem lazer | Risco | Custo |
-|-----------|-------|-------|
-| Isolamento | Episódios graves de depressão | Internação psiquiátrica (R$ 5K+) |
-| Sem movimento | Piora da asma + sedentarismo | Mais crises (R$ 200+ por crise) |
-| Esgotamento | Impossibilidade de trabalhar nos projetos | Atraso na renda própria |
-| Sem esperança | Pensamentos suicidas | Vida |
+| Sem lazer     | Risco                                     | Custo                            |
+| ------------- | ----------------------------------------- | -------------------------------- |
+| Isolamento    | Episódios graves de depressão             | Internação psiquiátrica (R$ 5K+) |
+| Sem movimento | Piora da asma + sedentarismo              | Mais crises (R$ 200+ por crise)  |
+| Esgotamento   | Impossibilidade de trabalhar nos projetos | Atraso na renda própria          |
+| Sem esperança | Pensamentos suicidas                      | Vida                             |
 
 ### Por Que R$ 300/mês É Razoável (Quando Possível)
 
@@ -255,6 +258,7 @@ Transtornos psiquiátricos não são "tristeza que passa". São doenças cerebra
 ### A Promessa Para Depois
 
 Quando autonomia chegar (24-36 meses):
+
 - ✅ Dedicar R$ 300/mês para lazer/saúde mental
 - ✅ Manter equilíbrio criatividade + vida social
 - ✅ Evitar crashes que prejudicam renda própria
