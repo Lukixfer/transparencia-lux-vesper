@@ -133,7 +133,7 @@ Vamos desmontar:
 **Moradia: R$ 889/mês**
 
 - Água: R$ 80 (você consegue não beber 80 reais/mês em água?)
-- Luz: R$ 300 (umidificador 24/7 + Computador)
+- Luz: R$ 300 (umidificador 24/7 + computador para estudar/trabalhar/me entreter; não uso ventilador porque piora a asma)
 - Internet: R$ 209 (fixa + móvel = ferramenta de trabalho + conexão social)
 - Faxina: R$ 300 (R$ 250 diarista + R$ 50 produtos de limpeza = higiene essencial)
 - **Total: o que todo mundo paga de moradia básica**

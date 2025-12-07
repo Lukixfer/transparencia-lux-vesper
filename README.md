@@ -62,7 +62,7 @@ Este repositório contém:
 ### Despesas Críticas Pendentes
 
 | Até 11/dez | 💧 Água | R$ 80 | Umidificador (asma) + plantas + banhos terapêuticos |
-| Até 11/dez | ⚡ Luz | R$ 300 | Umidificador 24/7 + ventiladores + equipamentos |
+| Até 11/dez | ⚡ Luz | R$ 300 | Umidificador 24/7 + computador para estudar/trabalhar/me entreter (não uso ventilador; piora a asma) |
 | Até 11/dez | 🌐 Internet | R$ 209 | Comunicação, trabalho, projetos |
 | Até 15/dez | 🏊 Natação | R$ 400 | Terapia essencial para asma (treino constante = inflamação + anti-inflamatórios) |
 | Até 15/dez | 💊 Farmácia | R$ 200 | Medicação essencial: Lítio (transtorno psiquiátrico), ansiolíticos, anti-inflamatórios (inflamação de natação), protetor solar |
@@ -122,7 +122,7 @@ Este repositório contém:
 **O que cada valor faz AGORA:**
 
 - **R$ 80** = 💧 Água (consumo elevado: umidificador + plantas + banhos terapêuticos quando em crise)
-- **R$ 300** = ⚡ Luz (umidificador 24/7 + ventiladores + equipamentos = respiração possível com asma crônica)
+- **R$ 300** = ⚡ Luz (umidificador 24/7 + computador para estudar/trabalhar/me entreter; ventilador piora a asma)
 - **R$ 209** = 🌐 Internet (comunicação, projetos, trabalho remoto)
 - **R$ 600** = 🩺 Dermatologia e saúde
 - **R$ 700** = 🍽️ Alimentação até final do mês
