@@ -18,7 +18,8 @@
 
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
-**PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**
+**PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
+**Contato:** Lukix.Player@gmail.com
 
 </div>
 
@@ -256,6 +257,7 @@ R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ VENCIMENTO       +Farmácia
 ```
 Chave Pix (Aleatória): 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
 Nome: Lucas Lopes Dornas
+Contato: Lukix.Player@gmail.com
 ```
 
 **Escolha seu impacto:**
@@ -451,7 +453,8 @@ Quer ver os números brutos? Fazer sua própria análise?
 **Crédito PicPay libera amanhã (9/12)**  
 **Preciso de R$ 1.104 até dia 11 (água + luz + internet + bupropiona + dentista)**
 
-**PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**
+**PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
+**Contato:** Lukix.Player@gmail.com
 
 ---
 
