@@ -30,24 +30,26 @@
 
 ```
 ╔═══════════════════════════════════════════════════╗
-║      POSIÇÃO FINANCEIRA (ATUALIZADO 8/12 - 10h)  ║
+║      POSIÇÃO FINANCEIRA (ATUALIZADO 8/12 - Noite) ║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
 ║  💵 PicPay PAGO:..................... ✅ R$ 1.100 ║
-║  💧 Água mineral restante:.......... 9 litros    ║
+║  💧 Água mineral + limonada:....... 4 litros     ║
+║  🥚 Ovos (pouquinho):............... ~3-4 unid.  ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
 ║  📉 Despesas até 11/12:............ -R$ 634     ║
 ║  📉 Despesas 15-25/12:............ -R$ 1.650    ║
-║  💳 MEI atrasado:................... -R$ 900     ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 3.184   ║
+║  💳 Dívidas (Will+Nu+MEI):......... -R$ 1.710    ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 2.994   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
 ### 🏥 Estoques Vitais
 
-- **💧 Água mineral:** 4 litros (⏰ **~2 dias** - recalculado)
-- **🍽️ Comida:** Bolo de fubá + restos + 1L limonada caseira (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
+- **💧 Água mineral + limonada caseira:** 3L água + 1L limonada (⏰ **~2 dias**)
+- **🥚 Ovos:** Um pote com pouquinho
+- **🍞 Comida:** Bolo de fubá + banana (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
 
@@ -97,14 +99,14 @@
 
 ### 💳 DÍVIDAS ACUMULADAS
 
-| Item                |    Valor     | Por quê                                              | Pagar até |
-| ------------------- | :----------: | ---------------------------------------------------- | --------- |
-| 💳 Will Bank        |    R$ 700    | Cartão de crédito (necessário)                       | 9/12 ⏰   |
-| 💳 NuBank           |    R$ 110    | Cartão de crédito (necessário)                       | 9/12 ⏰   |
-| 💳 PicPay           |   R$ 1.100   | ✅ PAGO (8/12)                                       | ✅        |
-| 📊 MEI + Multa      |    R$ 900    | Atraso de contribuições + juros                      | 25/12     |
-| 💝 Dívida Criss     |    R$ 100    | Compra no supermercado para nós                      | 25/12     |
-| **SUBTOTAL**        | **R$ 1.910** | **Débitos ativos (sem PicPay já quitado)**          |           |
+| Item            |    Valor     | Por quê                                    | Pagar até |
+| --------------- | :----------: | ------------------------------------------ | --------- |
+| 💳 Will Bank    |    R$ 700    | Cartão de crédito (necessário)             | 9/12 ⏰   |
+| 💳 NuBank       |    R$ 110    | Cartão de crédito (necessário)             | 9/12 ⏰   |
+| 💳 PicPay       |   R$ 1.100   | ✅ PAGO (8/12)                             | ✅        |
+| 📊 MEI + Multa  |    R$ 900    | Atraso de contribuições + juros            | 25/12     |
+| 💝 Dívida Criss |    R$ 100    | Compra no supermercado para nós            | 25/12     |
+| **SUBTOTAL**    | **R$ 1.910** | **Débitos ativos (sem PicPay já quitado)** |           |
 
 ---
 
@@ -164,12 +166,14 @@
 ## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA
 
 > **Amanhã (9/12) - Crédito PicPay libera:**
+>
 > - Compro bupropiona URGENTE (R$ 45)
 > - Pago Will Bank (R$ 700)
 > - Pago NuBank (R$ 110)
 > - Restante: ~R$ 145 em crédito disponível
 >
 > **Semana que vem (14-15/12):** Promessa de +R$ 1.000 (família)
+>
 > - Nessa terceira semana: pagar contas da casa (água + luz + internet = R$ 589)
 > - Alimentação + Farmácia + Oxigênio
 > - Devolver Criss (R$ 100)
@@ -181,6 +185,7 @@
 3. **Dia 20-25/12:** Último ajuste para MEI + emergências
 
 **Total necessário até 25/12: R$ 2.734**
+
 - Contas: R$ 589
 - Dívidas (Will + Nu): R$ 810
 - Comida: R$ 700
@@ -191,6 +196,7 @@
 - MEI: R$ 900
 
 **Prioridades (nessa ordem):**
+
 1. ✅ Bupropiona (amanhã)
 2. ✅ Will Bank + NuBank (amanhã)
 3. Contas da casa (próxima semana, após +R$1.000)
@@ -199,6 +205,7 @@
 6. MEI (se sobrar após essenciais)
 
 **Sem isso:**
+
 - ❌ Criss não recupera seu dinheiro
 - ❌ Contas vencem dia 11 → multa + juros
 - ❌ Sem bupropiona (já tá crítico)
