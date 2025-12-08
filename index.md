@@ -430,15 +430,15 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 📊 HISTÓRICO DE CONTRIBUIÇÕES
 
-| Data      | Quem                 | Valor        | O Que Foi                         | Situação            |
-| --------- | -------------------- | ------------ | --------------------------------- | ------------------- |
-| 7/12      | Família              | R$ 100       | Reserva para emergência           | ✅ Usado no PicPay  |
-| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido        |
-| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay   | ✅ Gasto            |
-| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)    | ✅ PAGO (R$ 1.100)  |
-| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100    |
-| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss      | ✅ Em caixa         |
-| **TOTAL** |                      | **R$ 2.317** |                                   |                     |
+| Data      | Quem                 | Valor        | O Que Foi                         | Situação           |
+| --------- | -------------------- | ------------ | --------------------------------- | ------------------ |
+| 7/12      | Família              | R$ 100       | Reserva para emergência           | ✅ Usado no PicPay |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido       |
+| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay   | ✅ Gasto           |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)    | ✅ PAGO (R$ 1.100) |
+| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100   |
+| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss      | ✅ Em caixa        |
+| **TOTAL** |                      | **R$ 2.317** |                                   |                    |
 
 > **Nota:** Transparência total. Lincon (vizinho) doou R$ 100 em papel moeda, vou usar para devolver os R$ 100 do Criss antes do prazo. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
 
