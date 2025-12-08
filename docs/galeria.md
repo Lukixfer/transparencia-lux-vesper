@@ -21,15 +21,16 @@ As bananas estavam ficando velhas e eu ia perder elas. Usei o que tinha (fubá, 
 **Estoque real agora:**
 
 - Esse bolo (2-3 dias)
-- Resto do quibe de ontem (1 dia)
+- Um pote de ovos (pouquinho)
+- 1L limonada caseira (pé de limão em casa)
 - Nada mais na geladeira
-- Caixa: R$ 100 reservado para PicPay
-- Aguardando: R$ 1.000 para quitar cartão amanhã
+- Caixa: R$ 0,00
+- Aguardando: Crédito PicPay amanhã (9/12)
 
 Essa é a realidade sem filtro. Não estou pedindo pena, estou mostrando por que preciso de ajuda **agora**.
 
 **Data:** 8 de dezembro de 2025  
-**Situação financeira:** R$ 100 em caixa (reservado PicPay), +R$ 1.000 chegando amanhã
+**Situação financeira:** R$ 0,00 em caixa, crédito PicPay libera amanhã (9/12)
 
 ---
 

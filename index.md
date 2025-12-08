@@ -97,13 +97,14 @@
 
 ### 💳 DÍVIDAS ACUMULADAS
 
-| Item           |    Valor     | Por quê                         |
-| -------------- | :----------: | ------------------------------- |
-| 💳 PicPay      |   R$ 1.100   | Cartão de crédito (necessário)  |
-| 📊 MEI + Multa |    R$ 900    | Atraso de contribuições + juros |
-| **SUBTOTAL**   | **R$ 2.000** | Débitos fiscais/financeiros     |
-
-### 💰 TOTAL DEZEMBRO: R$ 2.534 + Dívidas R$ 2.000 = R$ 4.534 total
+| Item                |    Valor     | Por quê                                              | Pagar até |
+| ------------------- | :----------: | ---------------------------------------------------- | --------- |
+| 💳 Will Bank        |    R$ 700    | Cartão de crédito (necessário)                       | 9/12 ⏰   |
+| 💳 NuBank           |    R$ 110    | Cartão de crédito (necessário)                       | 9/12 ⏰   |
+| 💳 PicPay           |   R$ 1.100   | ✅ PAGO (8/12)                                       | ✅        |
+| 📊 MEI + Multa      |    R$ 900    | Atraso de contribuições + juros                      | 25/12     |
+| 💝 Dívida Criss     |    R$ 100    | Compra no supermercado para nós                      | 25/12     |
+| **SUBTOTAL**        | **R$ 1.910** | **Débitos ativos (sem PicPay já quitado)**          |           |
 
 ---
 
@@ -162,25 +163,45 @@
 
 ## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA
 
-> **Amanhã (9/12):** Crédito PicPay libera → compro bupropiona URGENTE (R$ 45)
+> **Amanhã (9/12) - Crédito PicPay libera:**
+> - Compro bupropiona URGENTE (R$ 45)
+> - Pago Will Bank (R$ 700)
+> - Pago NuBank (R$ 110)
+> - Restante: ~R$ 145 em crédito disponível
 >
-> **Depois (até 25/12):** Preciso organizar todo o dinheiro para:
-> 1. 💧 Água mineral (R$ 80) - vence 11/12
-> 2. ⚡ Luz (R$ 300) - vence 11/12
-> 3. 🌐 Internet (R$ 209) - vence 11/12
-> 4. 🍽️ Alimentação (R$ 700) - até fim do mês
-> 5. 💊 Farmácia (R$ 200) - lítio, ansiolíticos
-> 6. 🫁 Oxigênio (R$ 100) - crises asmáticas
-> 7. 💝 **Devolver Criss (R$ 100)** - compra no supermercado para nós
-> 8. ❄️ Geladeira (R$ 150-500) - conserto urgente
-> 9. 💳 MEI atrasado (R$ 900) - débito fiscal
+> **Semana que vem (14-15/12):** Promessa de +R$ 1.000 (família)
+> - Nessa terceira semana: pagar contas da casa (água + luz + internet = R$ 589)
+> - Alimentação + Farmácia + Oxigênio
+> - Devolver Criss (R$ 100)
 
-**TOTAL NECESSÁRIO ATÉ 25/12: R$ 2.634 + Dívida Criss R$ 100 = R$ 2.734**
+**Fluxo planejado:**
+
+1. **Dia 9/12:** Crédito PicPay (bupropiona + dívidas = R$ 855)
+2. **Dia 14-15/12:** +R$ 1.000 (família) → contas essenciais + supermercado
+3. **Dia 20-25/12:** Último ajuste para MEI + emergências
+
+**Total necessário até 25/12: R$ 2.734**
+- Contas: R$ 589
+- Dívidas (Will + Nu): R$ 810
+- Comida: R$ 700
+- Farmácia: R$ 200
+- Devolver Criss: R$ 100
+- Oxigênio: R$ 100
+- Geladeira: R$ 150-500
+- MEI: R$ 900
+
+**Prioridades (nessa ordem):**
+1. ✅ Bupropiona (amanhã)
+2. ✅ Will Bank + NuBank (amanhã)
+3. Contas da casa (próxima semana, após +R$1.000)
+4. Comida + Farmácia
+5. Devolver Criss antes de 25/12
+6. MEI (se sobrar após essenciais)
 
 **Sem isso:**
-- ❌ Criss fica sem dinheiro (ela que comprou comida pra gente)
+- ❌ Criss não recupera seu dinheiro
 - ❌ Contas vencem dia 11 → multa + juros
-- ❌ Sem bupropiona (já tá atrasado)
+- ❌ Sem bupropiona (já tá crítico)
 - ❌ Impossível trabalhar nos projetos
 
 ---
@@ -395,14 +416,14 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 📊 HISTÓRICO DE CONTRIBUIÇÕES
 
-| Data      | Quem                 | Valor        | O Que Foi                          | Situação           |
-| --------- | -------------------- | ------------ | ---------------------------------- | ------------------ |
-| 7/12      | Família              | R$ 100       | Reserva para emergência            | ✅ Usado no PicPay |
-| 8/12      | Família              | R$ 1.000     | Pagamento PicPay                   | ✅ PAGO (R$ 1.100) |
-| 8/12      | Família              | R$ 1.000     | Contas + comida                    | ✅ Em processamento |
-| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm.  | ⚠️ DEVEMOS R$100    |
-| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                    | ✅ Consumido       |
-| **TOTAL** |                      | **R$ 2.217** |                                    |                    |
+| Data      | Quem                 | Valor        | O Que Foi                         | Situação            |
+| --------- | -------------------- | ------------ | --------------------------------- | ------------------- |
+| 7/12      | Família              | R$ 100       | Reserva para emergência           | ✅ Usado no PicPay  |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay                  | ✅ PAGO (R$ 1.100)  |
+| 8/12      | Família              | R$ 1.000     | Contas + comida                   | ✅ Em processamento |
+| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100    |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido        |
+| **TOTAL** |                      | **R$ 2.217** |                                   |                     |
 
 > **Nota:** Transparência total. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós. **Devemos devolver R$100 antes do fim do mês.**
 
