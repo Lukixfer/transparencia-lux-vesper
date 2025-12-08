@@ -397,13 +397,14 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 | Data      | Quem                 | Valor        | O Que Foi               | Situação           |
 | --------- | -------------------- | ------------ | ----------------------- | ------------------ |
-| 7/12      | Família              | R$ 100       | Reserva para emergência | ✅ Em caixa        |
-| 8/12      | Família              | R$ 1.000     | Paymet PicPay           | ✅ PAGO (R$ 1.100) |
-| 8/12      | Criss                | R$ 7         | Seguro que descontou    | ✅ PAGO (R$ 1.100) |
+| 7/12      | Família              | R$ 100       | Reserva para emergência | ✅ Usado no PicPay |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay        | ✅ PAGO (R$ 1.100) |
+| 8/12      | Família              | R$ 1.000     | Contas + comida         | ✅ Em processamento |
+| 8/12      | Criss                | R$ 7         | Seguro que descontou    | ✅ Completou PicPay |
 | 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água         | ✅ Consumido       |
-| **TOTAL** |                      | **R$ 1.117** |                         |                    |
+| **TOTAL** |                      | **R$ 2.117** |                         |                    |
 
-> **Nota:** Toda contribuição é registrada com transparência total. PicPay fechado graças à chegada do dinheiro e ao salve de Criss com os R$7.
+> **Nota:** Transparência total. Família enviou R$ 2.100 em duas transferências. Criss salvou com R$ 7 quando seguro descontou. Próxima urgência: R$ 634 até 11/12 (contas + remédio).
 
 ---
 
