@@ -399,7 +399,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 | --------- | -------------------- | ------------ | ----------------------- | ------------------ |
 | 7/12      | Família              | R$ 100       | Reserva para emergência | ✅ Em caixa        |
 | 8/12      | Família              | R$ 1.000     | Paymet PicPay           | ✅ PAGO (R$ 1.100) |
-| 8/12      | Criss                | R$ 7        | Seguro que descontou    | ✅ PAGO (R$ 1.100) |
+| 8/12      | Criss                | R$ 7         | Seguro que descontou    | ✅ PAGO (R$ 1.100) |
 | 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água         | ✅ Consumido       |
 | **TOTAL** |                      | **R$ 1.117** |                         |                    |
 
