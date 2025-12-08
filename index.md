@@ -434,8 +434,8 @@ Quer ver os números brutos? Fazer sua própria análise?
 | --------- | -------------------- | ------------ | --------------------------------- | ------------------- |
 | 7/12      | Família              | R$ 100       | Reserva para emergência           | ✅ Usado no PicPay  |
 | 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido        |
-| 8/12      | Família              | R$ 1.000     | Pagamento PicPay                  | ✅ PAGO (R$ 1.100)  |
-| 8/12      | Família              | R$ 1.000     | Contas + comida                   | ✅ Em processamento |
+| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay   | ✅ Gasto            |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)    | ✅ PAGO (R$ 1.100)  |
 | 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100    |
 | 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss      | ✅ Em caixa         |
 | **TOTAL** |                      | **R$ 2.317** |                                   |                     |

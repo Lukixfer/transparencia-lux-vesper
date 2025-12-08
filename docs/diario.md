@@ -23,14 +23,16 @@ Agora respiro. Tem mais 2-3 dias de comida (bolo que fiz ontem + restos), 9L de 
 **Contribuições recebidas:**
 
 - **R$ 100** (7/12) - Família
-- **R$ 1.000** (8/12 - 10h) - Família (demorou cobrar mas veio)
-- **R$ 7** (8/12 - emergencial) - Criss (salvou quando seguro descontou)
 - **R$ 10** (7/12 noite) - Mason (ex-padrastro) → Quibe + 3L água mineral
+- **R$ 1.000** (7/12) - Família → Natação + comida + parte para PicPay
+- **R$ 1.000** (8/12 - 10h) - Família (demorou cobrar mas veio) → Completou PicPay
+- **R$ 7** (8/12 - emergencial) - Criss (salvou quando seguro descontou)
 - **R$ 100** (8/12 - tarde) - Lincon (vizinho) → Papel moeda, vou devolver Criss
 
 **Fluxo:**
 
-- Ontem (7/12): R$ 100 em caixa
+- Ontem (7/12): R$ 100 em caixa + R$ 1.000 da família
+- Ação (7/12): Paguei natação, comprei comida, parte foi pré-pagamento PicPay
 - Hoje (8/12 - 10h): +R$ 1.000 (família) - R$ 7 (seguro) + R$ 7 (Criss) = R$ 1.000 disponível
 - Ação: Paguei PicPay R$ 1.100 (zerado!)
 - Tarde (8/12): +R$ 100 (Lincon, papel moeda)
