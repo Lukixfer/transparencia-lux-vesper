@@ -10,7 +10,7 @@
 
 **PicPay PAGO! Caixa: R$ 0,00 | Crédito libera amanhã (9/12) | Água: 4L + 1L limonada (2 dias) | Contas até 11/12**
 
-> ✨ **Progresso:** PicPay zerado (R$ 1.100 pago). Amanhã crédito libera = respiro para contas até 11/12 (R$ 634: água + luz + internet + bupropiona).
+> ✨ **Progresso:** PicPay zerado (R$ 1.100 pago). Amanhã crédito libera = respiro para contas até 11/12 (R$ 1.104: água + luz + internet + bupropiona + dentista).
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -37,11 +37,12 @@
 ║  💧 Água mineral + limonada:....... 4 litros     ║
 ║  🥚 Ovos (pouquinho):............... ~3-4 unid.  ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
+║  🦷 Dentista agendado (11/12):..... R$ 470      ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
-║  📉 Despesas até 11/12:............ -R$ 634     ║
+║  📉 Despesas até 11/12:............ -R$ 1.104   ║
 ║  📉 Despesas 15-25/12:............ -R$ 1.650    ║
-║  💳 Dívidas (Will+Nu+MEI):......... -R$ 1.710    ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 2.994   ║
+║  💳 Dívidas (Will+Nu+MEI+Criss):... -R$ 1.810    ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 4.564   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -77,7 +78,8 @@
 | ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       |
 | 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                                                |
 | 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                                                   |
-| **SUBTOTAL**        | **R$ 634** | **Serviços + medicação crítica**                                                      |
+| 🦷 Dentista (11/12) |   R$ 470   | Procedimento necessário, será pago com limite do Will                                 |
+| **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                               |
 
 ### 🟠 ATÉ 11-15/DEZEMBRO (PRIORIDADE ALTA)
 
@@ -101,12 +103,13 @@
 
 | Item            |    Valor     | Por quê                                    | Pagar até |
 | --------------- | :----------: | ------------------------------------------ | --------- |
-| 💳 Will Bank    |    R$ 700    | Cartão de crédito (necessário)             | 9/12 ⏰   |
-| 💳 NuBank       |    R$ 110    | Cartão de crédito (necessário)             | 9/12 ⏰   |
+| 💳 Will Bank    |    R$ 700    | Cartão (pagar amanhã)                      | 9/12 ⏰   |
+| 💳 NuBank       |    R$ 110    | Cartão (pagar amanhã)                      | 9/12 ⏰   |
+| 🦷 Dentista (Will) |   R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12     |
 | 💳 PicPay       |   R$ 1.100   | ✅ PAGO (8/12)                             | ✅        |
 | 📊 MEI + Multa  |    R$ 900    | Atraso de contribuições + juros            | 25/12     |
 | 💝 Dívida Criss |    R$ 100    | Compra no supermercado para nós            | 25/12     |
-| **SUBTOTAL**    | **R$ 1.910** | **Débitos ativos (sem PicPay já quitado)** |           |
+| **SUBTOTAL**    | **R$ 2.380** | **Débitos ativos (sem PicPay já quitado)** |           |
 
 ---
 
@@ -171,6 +174,8 @@
 > - Pago Will Bank (R$ 700)
 > - Pago NuBank (R$ 110)
 > - Restante: ~R$ 145 em crédito disponível
+
+> **Dia 11/12:** Usar Will para pagar dentista (R$ 470)
 >
 > **Semana que vem (14-15/12):** Promessa de +R$ 1.000 (família)
 >
@@ -184,10 +189,10 @@
 2. **Dia 14-15/12:** +R$ 1.000 (família) → contas essenciais + supermercado
 3. **Dia 20-25/12:** Último ajuste para MEI + emergências
 
-**Total necessário até 25/12: R$ 2.734**
+**Total necessário até 25/12: R$ 3.204**
 
 - Contas: R$ 589
-- Dívidas (Will + Nu): R$ 810
+- Dívidas (Will + Nu + Dentista + Criss + MEI): R$ 2.380 (inclui dentista via Will dia 11)
 - Comida: R$ 700
 - Farmácia: R$ 200
 - Devolver Criss: R$ 100
@@ -221,7 +226,7 @@
 | **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês                |
 | **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador             |
 | **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês        |
-| **R$ 634**   | 💧 + ⚡ + 🌐 + 💊       | **CRÍTICO 11/12** | **Serviços + bupropiona URGENTE** ✨ |
+| **R$ 1.104** | 💧 + ⚡ + 🌐 + 💊 + 🦷 | **CRÍTICO 11/12** | **Serviços + bupropiona + dentista** ✨ |
 | **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                   |
 | **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                  |
 | **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                    |
@@ -236,8 +241,8 @@
 HOJE (7/12)          DIA 9/12            DIA 11/12           DIA 15/12
 ─────────────────────────────────────────────────────────────────────
 R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ VENCIMENTO       +Farmácia
-6L água              POTÁVEL             LUZ/NET/ÁGUA        +Comida
-7 dias comida        CRÍTICO             R$ 634 URGENTE      1.679 total
+4L água+limonada     POTÁVEL             R$ 1.104 URGENTE    +Comida
+2-3 dias comida      CRÍTICO             (11/12)             1.679 total
 
 [████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
 0%                   ÁGUA ACABA          25% (vence)         66%
@@ -256,7 +261,7 @@ Nome: Lucas Lopes Dornas
 **Escolha seu impacto:**
 
 - **Mínimo (R$ 50-100):** Ajuda com água/luz por alguns dias
-- **Crítico (R$ 634):** Água + Luz + Internet + Bupropiona até dia 11 ✨
+- **Crítico (R$ 1.104):** Água + Luz + Internet + Bupropiona + Dentista até dia 11 ✨
 - **Essencial (R$ 1.334):** Contas + Comida + Farmácia até dia 25 (inclui devolver Criss)
 - **Completo (R$ 2.734):** Fecha dezembro todo + quitação Criss + dívidas
 - **Qualquer valor:** Ajuda, é registrado no histórico e faz diferença real
@@ -267,9 +272,9 @@ Nome: Lucas Lopes Dornas
 
 **Hoje faltam:**
 
-- 🔴 **25% (R$ 634):** Água + Luz + Internet + Bupropiona - **CRÍTICO até dia 11**
-- 🟠 **39% (R$ 1.000):** Farmácia + Comida + Oxigênio - até dia 15
-- 🟡 **36% (R$ 900):** Faxina + Dermatologia - podem esperar até 25
+- 🔴 **R$ 1.104 (CRÍTICO até dia 11):** Água + Luz + Internet + Bupropiona + Dentista
+- 🟠 **R$ 1.000 (até dia 15):** Farmácia + Comida + Oxigênio
+- 🟡 **R$ 900 (até dia 25):** Faxina + Dermatologia (podem esperar)
 
 **Cenários de autonomia**
 
@@ -444,7 +449,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 **2 dias de água (4L + 1L limonada caseira)**  
 **2-3 dias de comida**  
 **Crédito PicPay libera amanhã (9/12)**  
-**Preciso de R$ 634 até dia 11 (contas + bupropiona)**
+**Preciso de R$ 1.104 até dia 11 (água + luz + internet + bupropiona + dentista)**
 
 **PIX: Lukix.Player@gmail.com**
 
