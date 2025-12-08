@@ -4,11 +4,13 @@
 
 ---
 
-<div align="center" style="background: #ff9800; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
+<div align="center" style="background: #4CAF50; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### 📊 SITUAÇÃO ATUAL - 7 DE DEZEMBRO
+### ✅ ATUALIZAÇÃO - 8 DE DEZEMBRO, 10h
 
-**Caixa: R$ 100,00 (reservado PicPay) | +R$ 1.000 amanhã | Água: 9L (3 dias) | Contas vencem 11/12**
+**PicPay PAGO! Caixa: R$ 0,00 | Água: 9L (3 dias) | Contas urgentes até 11/12**
+
+> ✨ **Chegou!** R$ 1.000 (família, 10h). Seguro descontou R$ 7. Criss mandou +R$ 7. PicPay zerado (R$ 1.100). Agora é focar nas contas até dia 11.
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -28,23 +30,24 @@
 
 ```
 ╔═══════════════════════════════════════════════════╗
-║         POSIÇÃO FINANCEIRA CRÍTICA                ║
+║      POSIÇÃO FINANCEIRA (ATUALIZADO 8/12 - 10h)  ║
 ╠═══════════════════════════════════════════════════╣
-║  💵 Dinheiro em caixa (hoje):....... R$ 100,00   ║
-║  💵 Pendente amanhã (8/12):......... R$ 1.000    ║
+║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
+║  💵 PicPay PAGO:..................... ✅ R$ 1.100 ║
 ║  💧 Água mineral restante:.......... 9 litros    ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
-║  📉 Despesas pendentes:............ -R$ 2.534    ║
-║  💳 Dívidas (MEI + Cartão):........ -R$ 4.058    ║
-║  ⚠️  DÉFICIT (após crédito):........ -R$ 5.992    ║
+║  📉 Despesas até 11/12:............ -R$ 634     ║
+║  📉 Despesas 15-25/12:............ -R$ 1.650    ║
+║  💳 MEI atrasado:................... -R$ 900     ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 3.184   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
 ### 🏥 Estoques Vitais
 
 - **💧 Água mineral:** 9 litros (⏰ **3 dias** - reabastecida!)
-- **🍽️ Comida:** Quibe + o que tinha (⏰ **7 dias**)
+- **🍽️ Comida:** Bolo de fubá + restos (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
 
@@ -395,11 +398,12 @@ Quer ver os números brutos? Fazer sua própria análise?
 | Data      | Quem                 | Valor        | O Que Foi               | Situação           |
 | --------- | -------------------- | ------------ | ----------------------- | ------------------ |
 | 7/12      | Família              | R$ 100       | Reserva para emergência | ✅ Em caixa        |
-| 8/12      | Família              | R$ 1.000     | Pagamento cartão        | 📅 Chegando amanhã |
+| 8/12      | Família              | R$ 1.000     | Paymet PicPay           | ✅ PAGO (R$ 1.100) |
+| 8/12      | Criss                | R$ 7        | Seguro que descontou    | ✅ PAGO (R$ 1.100) |
 | 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água         | ✅ Consumido       |
-| **TOTAL** |                      | **R$ 1.110** |                         |                    |
+| **TOTAL** |                      | **R$ 1.117** |                         |                    |
 
-> **Nota:** Toda contribuição é registrada aqui com transparência total. Você não está no escuro sobre para onde o dinheiro vai.
+> **Nota:** Toda contribuição é registrada com transparência total. PicPay fechado graças à chegada do dinheiro e ao salve de Criss com os R$7.
 
 ---
 
@@ -421,7 +425,8 @@ Quer ver os números brutos? Fazer sua própria análise?
 _Última atualização: 7 de dezembro de 2025, 08:41 (horário de Brasília)_  
 _Próxima atualização semanal: 14 de dezembro de 2025, ~14h_
 
-📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada
+📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada  
+📸 **[Ver Galeria](./docs/galeria.md)** - Fotos reais da situação atual
 
 📧 **Contato:** Lukix.Player@gmail.com | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
 

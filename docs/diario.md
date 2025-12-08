@@ -4,54 +4,49 @@
 
 ---
 
-## 📅 Semana 1 - 7 de dezembro de 2025 (Sábado, 14:30)
+## 📅 Semana 1 - 8 de dezembro de 2025 (Domingo, 10h)
 
-**Belo Horizonte, 7 de Dezembro de 2025 - Dia 1**
+**Belo Horizonte, 8 de Dezembro de 2025 - Dia 2**
 
 ### 🎯 O Que Aconteceu Hoje
 
-Hoje criei o **Portal da Transparência Lux Vesper** (transparencia.krawz.net).
+**10h: Dinheiro chegou! (Finalmente!)**
 
-Minha pastora Alessandra aprovou a publicação depois de conversar comigo sobre vulnerabilidade e dignidade. Ela disse algo que me marcou: _"Transparência não é fraqueza, Lucas. É coragem de mostrar que você está lutando, não desistindo."_
+Tive que cobrar, mas R$ 1.000 entraram. Pequeno drama: o seguro automático descontou R$ 7, deixando R$ 993. Criss (amigo) viu a situação e mandou R$ 7 para fechar os R$ 1.000 exato.
 
-Passei o dia inteiro configurando:
+**Ação imediata:** Paguei a fatura PicPay de R$ 1.100. Feito. Cartão zerado.
 
-- ✅ Repositório GitHub (transparencia-lux-vesper)
-- ✅ GitHub Pages com domínio customizado
-- ✅ HTTPS via Cloudflare (Full Strict SSL)
-- ✅ Todas as páginas: index, análise, projetos, FAQ, histórico, diário
-- ✅ Correções: nome do livro ("Krawz - Volume 1"), projeto SophyaExK, benefícios para apoiadores
-- ✅ GitHub Discussions ativado para comunidade
+Agora respiro. Tem mais 2-3 dias de comida (bolo que fiz ontem + restos), 9L de água, 3 dias no máximo. Próxima urgência: contas de 11/12 (água R$80, luz R$300, internet R$209, bupropiona R$45) = R$ 634.
 
-É estranho expor minha situação assim. R$ 0 em caixa, 6 litros de água, dívidas acumuladas, família tóxica, cachorro envenenado... Tudo documentado. Mas é a única forma honesta de pedir ajuda.
-
-### 💰 Situação Financeira (Atualizado 7/12 - Noite)
+### 💰 Situação Financeira (Atualizado 8/12 - 10h)
 
 **Contribuições recebidas:**
 
 - **R$ 100** (7/12) - Família
+- **R$ 1.000** (8/12 - 10h) - Família (demorou cobrar mas veio)
+- **R$ 7** (8/12 - emergencial) - Criss (salvou quando seguro descontou)
 - **R$ 10** (7/12 noite) - Mason (ex-padrastro) → Quibe + 3L água mineral
-- **R$ 1.000** (chegando 8/12) - Família
 
 **Fluxo:**
 
-- Hoje (7/12): R$ 100 em caixa **reservado para fechar R$ 1.100 do PicPay**
-- Amanhã (8/12): +R$ 1.000 → quitar fatura do PicPay
-- Dia 11/12+: Crédito disponível após quitar dívida
+- Ontem (7/12): R$ 100 em caixa
+- Hoje (8/12 - 10h): +R$ 1.000 (família) - R$ 7 (seguro) + R$ 7 (Criss) = R$ 1.000 disponível
+- Ação: Paguei PicPay R$ 1.100 (zerado!)
+- Caixa agora: R$ 0
 
 **Contas a pagar (vencimento 11/12):**
 
-- Água mineral: R$ 80 (fornecedor confirma que água de torneira não é potável para alimentos, animais ou plantas)
+- Água mineral: R$ 80
 - Luz: R$ 300
 - Internet: R$ 209
 - Bupropiona: R$ 45
 - **Total: R$ 634**
 
-**Estoques:** 9L água mineral (3 dias), 7 dias comida, 30 dias medicação
+**Estoques:** 9L água mineral (3 dias no máximo), bolo de fubá + restos (2-3 dias), 30 dias medicação
 
 ---
 
-> **Nota histórica:** Primeira contribuição registrada vem da família. O Portal da Transparência encurralou os facistas — conseguimos visibilidade e apoio real. Transparência funciona.
+> **Nota histórica:** PicPay quitado dia 8. Próximo passo: contas até dia 11. Tá pegado mas vem.
 
 ### 📊 Progressos nos Projetos
 
