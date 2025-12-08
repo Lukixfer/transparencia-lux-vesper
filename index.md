@@ -8,9 +8,9 @@
 
 ### ✅ ATUALIZAÇÃO - 8 DE DEZEMBRO, 10h
 
-**PicPay PAGO! Caixa: R$ 0,00 | Água: 4L + 1L limonada caseira (2 dias) | Contas urgentes até 11/12**
+**PicPay PAGO! Caixa: R$ 0,00 | Crédito libera amanhã (9/12) | Água: 4L + 1L limonada (2 dias) | Contas até 11/12**
 
-> ✨ **Chegou!** R$ 1.000 (família, 10h). Seguro descontou R$ 7. Criss mandou +R$ 7. PicPay zerado (R$ 1.100). Agora é focar nas contas até dia 11.
+> ✨ **Progresso:** PicPay zerado (R$ 1.100 pago). Amanhã crédito libera = respiro para contas até 11/12 (R$ 634: água + luz + internet + bupropiona).
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -162,25 +162,25 @@
 
 ## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA
 
-> **Preciso de R$ 634 URGENTE (até dia 11)** para:
+> **Amanhã (9/12):** Crédito PicPay libera → compro bupropiona URGENTE (R$ 45)
 >
-> 1. 💧 Pagar água (R$ 80) - **vence dia 11**
-> 2. ⚡ Pagar luz (R$ 300) - **vence dia 11**
-> 3. 🌐 Pagar internet (R$ 209) - **vence dia 11**
-> 4. 💊 Comprar bupropiona 150mg (R$ 45) - **URGENTE**
+> **Depois (até 25/12):** Preciso organizar todo o dinheiro para:
+> 1. 💧 Água mineral (R$ 80) - vence 11/12
+> 2. ⚡ Luz (R$ 300) - vence 11/12
+> 3. 🌐 Internet (R$ 209) - vence 11/12
+> 4. 🍽️ Alimentação (R$ 700) - até fim do mês
+> 5. 💊 Farmácia (R$ 200) - lítio, ansiolíticos
+> 6. 🫁 Oxigênio (R$ 100) - crises asmáticas
+> 7. 💝 **Devolver Criss (R$ 100)** - compra no supermercado para nós
+> 8. ❄️ Geladeira (R$ 150-500) - conserto urgente
+> 9. 💳 MEI atrasado (R$ 900) - débito fiscal
 
-**Depois disso (dia 15), preciso de mais R$ 1.000** para:
-
-- 💊 Farmácia (lítio, ansiolíticos): R$ 200
-- 🫁 Oxigênio (crises asmáticas): R$ 100
-- 🍽️ Alimentação (sobrevivência): R$ 700
+**TOTAL NECESSÁRIO ATÉ 25/12: R$ 2.634 + Dívida Criss R$ 100 = R$ 2.734**
 
 **Sem isso:**
-
-- ❌ Água acaba em **3 dias** (9L restantes)
-- ❌ Contas vencem dia 11 → **multa + juros depois**
-- ❌ Sem bupropiona (depressão/bipolar sem tratamento)
-- ❌ Comida acaba em **7 dias**
+- ❌ Criss fica sem dinheiro (ela que comprou comida pra gente)
+- ❌ Contas vencem dia 11 → multa + juros
+- ❌ Sem bupropiona (já tá atrasado)
 - ❌ Impossível trabalhar nos projetos
 
 ---
@@ -228,10 +228,10 @@ Nome: Lucas Lopes Dornas
 **Escolha seu impacto:**
 
 - **Mínimo (R$ 50-100):** Ajuda com água/luz por alguns dias
-- **Crítico (R$ 634):** Salva água + luz + internet + bupropiona até dia 11 ✨
-- **Essencial (R$ 1.679):** Passa até dia 15 com segurança (inclui farmácia + comida)
-- **Completo (R$ 2.534):** Fecha dezembro todo
-- **Qualquer valor:** Ajuda e é registrado no histórico
+- **Crítico (R$ 634):** Água + Luz + Internet + Bupropiona até dia 11 ✨
+- **Essencial (R$ 1.334):** Contas + Comida + Farmácia até dia 25 (inclui devolver Criss)
+- **Completo (R$ 2.734):** Fecha dezembro todo + quitação Criss + dívidas
+- **Qualquer valor:** Ajuda, é registrado no histórico e faz diferença real
 
 ---
 
@@ -395,16 +395,16 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 📊 HISTÓRICO DE CONTRIBUIÇÕES
 
-| Data      | Quem                 | Valor        | O Que Foi               | Situação           |
-| --------- | -------------------- | ------------ | ----------------------- | ------------------ |
-| 7/12      | Família              | R$ 100       | Reserva para emergência | ✅ Usado no PicPay |
-| 8/12      | Família              | R$ 1.000     | Pagamento PicPay        | ✅ PAGO (R$ 1.100) |
-| 8/12      | Família              | R$ 1.000     | Contas + comida         | ✅ Em processamento |
-| 8/12      | Criss                | R$ 7         | Seguro que descontou    | ✅ Completou PicPay |
-| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água         | ✅ Consumido       |
-| **TOTAL** |                      | **R$ 2.117** |                         |                    |
+| Data      | Quem                 | Valor        | O Que Foi                          | Situação           |
+| --------- | -------------------- | ------------ | ---------------------------------- | ------------------ |
+| 7/12      | Família              | R$ 100       | Reserva para emergência            | ✅ Usado no PicPay |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay                   | ✅ PAGO (R$ 1.100) |
+| 8/12      | Família              | R$ 1.000     | Contas + comida                    | ✅ Em processamento |
+| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm.  | ⚠️ DEVEMOS R$100    |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                    | ✅ Consumido       |
+| **TOTAL** |                      | **R$ 2.217** |                                    |                    |
 
-> **Nota:** Transparência total. Família enviou R$ 2.100 em duas transferências. Criss salvou com R$ 7 quando seguro descontou. Próxima urgência: R$ 634 até 11/12 (contas + remédio).
+> **Nota:** Transparência total. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós. **Devemos devolver R$100 antes do fim do mês.**
 
 ---
 
@@ -412,10 +412,11 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 🆘 SITUAÇÃO CRÍTICA (ATUALIZADO)
 
-**Tenho R$ 90 em caixa**  
-**3 dias de água (reabastecida)**  
-**7 dias de comida**  
-**Preciso de R$ 2.534 até dia 25**
+**Tenho R$ 0,00 em caixa**  
+**2 dias de água (4L + 1L limonada caseira)**  
+**2-3 dias de comida**  
+**Crédito PicPay libera amanhã (9/12)**  
+**Preciso de R$ 634 até dia 11 (contas + bupropiona)**
 
 **PIX: Lukix.Player@gmail.com**
 
@@ -423,7 +424,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 **Mantido com 💜 por Lux Vesper**
 
-_Última atualização: 7 de dezembro de 2025, 08:41 (horário de Brasília)_  
+_Última atualização: 8 de dezembro de 2025, tarde_  
 _Próxima atualização semanal: 14 de dezembro de 2025, ~14h_
 
 📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada  
