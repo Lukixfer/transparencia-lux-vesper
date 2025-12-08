@@ -72,14 +72,14 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item                |   Valor    | Por quê                                                                               |
-| ------------------- | :--------: | ------------------------------------------------------------------------------------- |
-| 💧 Água mineral     |   R$ 80    | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas |
-| ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       |
-| 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                                                |
-| 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - URGENTE para ontem                                                   |
-| 🦷 Dentista (11/12) |   R$ 470   | Procedimento necessário, será pago com limite do Will                                 |
-| **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                               |
+| Item                |    Valor     | Por quê                                                                               |
+| ------------------- | :----------: | ------------------------------------------------------------------------------------- |
+| 💧 Água mineral     |    R$ 80     | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas |
+| ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       |
+| 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                                |
+| 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - URGENTE para ontem                                                   |
+| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                                 |
+| **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                                |
 
 ### 🟠 ATÉ 11-15/DEZEMBRO (PRIORIDADE ALTA)
 
@@ -101,15 +101,15 @@
 
 ### 💳 DÍVIDAS ACUMULADAS
 
-| Item            |    Valor     | Por quê                                    | Pagar até |
-| --------------- | :----------: | ------------------------------------------ | --------- |
-| 💳 Will Bank    |    R$ 700    | Cartão (pagar amanhã)                      | 9/12 ⏰   |
-| 💳 NuBank       |    R$ 110    | Cartão (pagar amanhã)                      | 9/12 ⏰   |
-| 🦷 Dentista (Will) |   R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12     |
-| 💳 PicPay       |   R$ 1.100   | ✅ PAGO (8/12)                             | ✅        |
-| 📊 MEI + Multa  |    R$ 900    | Atraso de contribuições + juros            | 25/12     |
-| 💝 Dívida Criss |    R$ 100    | Compra no supermercado para nós            | 25/12     |
-| **SUBTOTAL**    | **R$ 2.380** | **Débitos ativos (sem PicPay já quitado)** |           |
+| Item               |    Valor     | Por quê                                     | Pagar até |
+| ------------------ | :----------: | ------------------------------------------- | --------- |
+| 💳 Will Bank       |    R$ 700    | Cartão (pagar amanhã)                       | 9/12 ⏰   |
+| 💳 NuBank          |    R$ 110    | Cartão (pagar amanhã)                       | 9/12 ⏰   |
+| 🦷 Dentista (Will) |    R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12     |
+| 💳 PicPay          |   R$ 1.100   | ✅ PAGO (8/12)                              | ✅        |
+| 📊 MEI + Multa     |    R$ 900    | Atraso de contribuições + juros             | 25/12     |
+| 💝 Dívida Criss    |    R$ 100    | Compra no supermercado para nós             | 25/12     |
+| **SUBTOTAL**       | **R$ 2.380** | **Débitos ativos (sem PicPay já quitado)**  |           |
 
 ---
 
@@ -220,18 +220,18 @@
 
 ## 💝 IMPACTO DO SEU APOIO
 
-| Valor        | O Que Acontece          | Prazo             | Impacto                              |
-| ------------ | ----------------------- | ----------------- | ------------------------------------ |
-| **R$ 50**    | 💧 Parte da água do mês | Imediato          | +5 dias de água                      |
-| **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês                |
-| **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador             |
-| **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês        |
-| **R$ 1.104** | 💧 + ⚡ + 🌐 + 💊 + 🦷 | **CRÍTICO 11/12** | **Serviços + bupropiona + dentista** ✨ |
-| **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                   |
-| **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                  |
-| **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                    |
-| **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo              |
-| **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                   |
+| Valor        | O Que Acontece          | Prazo             | Impacto                                 |
+| ------------ | ----------------------- | ----------------- | --------------------------------------- |
+| **R$ 50**    | 💧 Parte da água do mês | Imediato          | +5 dias de água                         |
+| **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês                   |
+| **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador                |
+| **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês           |
+| **R$ 1.104** | 💧 + ⚡ + 🌐 + 💊 + 🦷  | **CRÍTICO 11/12** | **Serviços + bupropiona + dentista** ✨ |
+| **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                      |
+| **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                     |
+| **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                       |
+| **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo                 |
+| **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                      |
 
 ---
 
