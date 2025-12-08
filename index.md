@@ -6,11 +6,11 @@
 
 <div align="center" style="background: #4CAF50; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ✅ ATUALIZAÇÃO - 8 DE DEZEMBRO, 10h
+### ✅ ATUALIZAÇÃO - 8 DE DEZEMBRO, TARDE
 
-**PicPay PAGO! Caixa: R$ 0,00 | Crédito libera amanhã (9/12) | Água: 4L + 1L limonada (2 dias) | Contas até 11/12**
+**PicPay PAGO! Caixa: R$ 100,00 (papel moeda) | Crédito libera amanhã (9/12) | Água: 4L + 1L limonada (2 dias) | Contas até 11/12**
 
-> ✨ **Progresso:** PicPay zerado (R$ 1.100 pago). Amanhã crédito libera = respiro para contas até 11/12 (R$ 1.104: água + luz + internet + bupropiona + dentista).
+> ✨ **Progresso:** PicPay zerado (R$ 1.100 pago). Vizinho Lincon doou R$ 100 em dinheiro físico! Vou usar para devolver Criss (R$ 100) antes do prazo. Amanhã crédito libera = respiro para contas até 11/12.
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -433,13 +433,14 @@ Quer ver os números brutos? Fazer sua própria análise?
 | Data      | Quem                 | Valor        | O Que Foi                         | Situação            |
 | --------- | -------------------- | ------------ | --------------------------------- | ------------------- |
 | 7/12      | Família              | R$ 100       | Reserva para emergência           | ✅ Usado no PicPay  |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido        |
 | 8/12      | Família              | R$ 1.000     | Pagamento PicPay                  | ✅ PAGO (R$ 1.100)  |
 | 8/12      | Família              | R$ 1.000     | Contas + comida                   | ✅ Em processamento |
 | 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100    |
-| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido        |
-| **TOTAL** |                      | **R$ 2.217** |                                   |                     |
+| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss      | ✅ Em caixa         |
+| **TOTAL** |                      | **R$ 2.317** |                                   |                     |
 
-> **Nota:** Transparência total. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós. **Devemos devolver R$100 antes do fim do mês.**
+> **Nota:** Transparência total. Lincon (vizinho) doou R$ 100 em papel moeda, vou usar para devolver os R$ 100 do Criss antes do prazo. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
 
 ---
 
