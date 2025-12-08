@@ -42,7 +42,7 @@ Agora respiro. Tem mais 2-3 dias de comida (bolo que fiz ontem + restos), 9L de 
 - Bupropiona: R$ 45
 - **Total: R$ 634**
 
-**Estoques:** 9L água mineral (3 dias no máximo), bolo de fubá + restos (2-3 dias), 30 dias medicação
+**Estoques:** 4L água mineral + 1L limonada caseira (pé de limão em casa!) = ~2 dias, bolo + restos (2-3 dias), 30 dias medicação
 
 ---
 

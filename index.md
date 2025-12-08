@@ -8,7 +8,7 @@
 
 ### ✅ ATUALIZAÇÃO - 8 DE DEZEMBRO, 10h
 
-**PicPay PAGO! Caixa: R$ 0,00 | Água: 9L (3 dias) | Contas urgentes até 11/12**
+**PicPay PAGO! Caixa: R$ 0,00 | Água: 4L + 1L limonada caseira (2 dias) | Contas urgentes até 11/12**
 
 > ✨ **Chegou!** R$ 1.000 (família, 10h). Seguro descontou R$ 7. Criss mandou +R$ 7. PicPay zerado (R$ 1.100). Agora é focar nas contas até dia 11.
 
@@ -46,8 +46,8 @@
 
 ### 🏥 Estoques Vitais
 
-- **💧 Água mineral:** 9 litros (⏰ **3 dias** - reabastecida!)
-- **🍽️ Comida:** Bolo de fubá + restos (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
+- **💧 Água mineral:** 4 litros (⏰ **~2 dias** - recalculado)
+- **🍽️ Comida:** Bolo de fubá + restos + 1L limonada caseira (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
 
