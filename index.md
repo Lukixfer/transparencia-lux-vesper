@@ -102,15 +102,15 @@
 
 ### 💳 DÍVIDAS ACUMULADAS
 
-| Item               |    Valor     | Por quê                                     | Pagar até |
-| ------------------ | :----------: | ------------------------------------------- | --------- |
-| 💳 Will Bank       |    R$ 700    | Cartão (pagar amanhã)                       | 10/12    |
-| 💳 NuBank          |    R$ 110    | Cartão (pagar amanhã)                       | 10/12    |
-| 🦷 Dentista (Will) |    R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12     |
-| 💳 PicPay          |   R$ 1.100   | ✅ PAGO (8/12)                              | ✅        |
-| 📊 MEI + Multa     |    R$ 900    | Atraso de contribuições + juros             | 25/12     |
+| Item               |    Valor     | Por quê                                     | Pagar até    |
+| ------------------ | :----------: | ------------------------------------------- | ------------ |
+| 💳 Will Bank       |    R$ 700    | Cartão (pagar amanhã)                       | 10/12        |
+| 💳 NuBank          |    R$ 110    | Cartão (pagar amanhã)                       | 10/12        |
+| 🦷 Dentista (Will) |    R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12        |
+| 💳 PicPay          |   R$ 1.100   | ✅ PAGO (8/12)                              | ✅           |
+| 📊 MEI + Multa     |    R$ 900    | Atraso de contribuições + juros             | 25/12        |
 | 💝 Dívida Criss    |    R$ 100    | Compra no supermercado para nós             | ✅ Pago 9/12 |
-| **SUBTOTAL**       | **R$ 2.180** | **Débitos ativos (sem PicPay já quitado)**  |           |
+| **SUBTOTAL**       | **R$ 2.180** | **Débitos ativos (sem PicPay já quitado)**  |              |
 
 ---
 
