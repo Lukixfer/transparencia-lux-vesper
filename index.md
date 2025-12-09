@@ -34,9 +34,9 @@
 ║      POSIÇÃO FINANCEIRA (ATUALIZADO 8/12 - Noite) ║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
-║  💵 PicPay PAGO:..................... ✅ R$ 1.100 ║
+║  💵 Crédito PicPay:................. R$ 1.300    ║
 ║  💧 Água mineral + limonada:....... 4 litros     ║
-║  🥚 Ovos (pouquinho):............... ~3-4 unid.  ║
+║  🥚 Ovos:.......................... 18 unidades  ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
 ║  🦷 Dentista agendado (11/12):..... R$ 470      ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
@@ -50,7 +50,7 @@
 ### 🏥 Estoques Vitais
 
 - **💧 Água mineral + limonada caseira:** 3L água + 1L limonada (⏰ **~2 dias**)
-- **🥚 Ovos:** Um pote com pouquinho
+- **🥚 Ovos:** 18 unidades 
 - **🍞 Comida:** Bolo de fubá + banana (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)

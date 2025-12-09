@@ -26,6 +26,12 @@
 
 Isso respira para contas até 11 e coloca a geladeira no técnico.
 
+**Estoques atualizados (9/12 tarde):**
+- 18 unidades de ovos 🥚
+- 1L limonada caseira (pé de limão)
+- 4L água mineral (2 dias)
+- Bolo de fubá (2-3 dias)
+
 ---
 
 ### 📝 Nota de Sistema
