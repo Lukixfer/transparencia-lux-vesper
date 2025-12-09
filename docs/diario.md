@@ -46,6 +46,8 @@ Isso respira para contas até 11 e coloca a geladeira no técnico.
 
 A bike é ferramenta de transporte e saúde (pedalar = bom para asma). Remendão demais = risco. Vamos economizar para câmara de ar decente.
 
+**9/12 noite:** Paguei Criss R$ 100 (usei o dinheiro em papel moeda do Lincon). Caixa físico agora: R$ 0.
+
 ---
 
 ### 💜 AGRADECIMENTO ESPECIAL
