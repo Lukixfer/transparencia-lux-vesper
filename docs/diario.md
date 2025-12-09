@@ -46,6 +46,18 @@ A bike é ferramenta de transporte e saúde (pedalar = bom para asma). Remendão
 
 ---
 
+### 💜 AGRADECIMENTO ESPECIAL
+
+**Ao Guildo, Dãn Malandragem e Fábio:**
+
+Vocês me receberam, me ajudaram com muito mais que dinheiro. Me fizeram rir, descontraí muito com a zoeira de vocês, e isso fez bem demais pra mim.
+
+Quando você está em crise, leveza é remédio. Vocês entenderam isso. Obrigado por me trazerem de volta ao leve.
+
+Vocês não salvaram só a minha conta — salvaram meu humor. 💜
+
+---
+
 ### 📝 Nota de Sistema
 
 Bom dia, Diário. Hoje vamos melhorar as instruções de sistema do projeto. Estou em Belo Horizonte — a capital mais fascista do Brasil — e plenamente consciente disso.
