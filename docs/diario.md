@@ -48,7 +48,7 @@ A bike é ferramenta de transporte e saúde (pedalar = bom para asma). Remendão
 
 ### 💜 AGRADECIMENTO ESPECIAL
 
-**Ao Guildo, Dãn Malandragem e Fábio:**
+**À Machonaria — Guildo (o macho tóxico), Dãn Malandragem e Fábio:**
 
 Vocês me receberam, me ajudaram com muito mais que dinheiro. Me fizeram rir, descontraí muito com a zoeira de vocês, e isso fez bem demais pra mim.
 
