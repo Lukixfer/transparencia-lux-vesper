@@ -4,6 +4,18 @@
 
 ---
 
+## 📅 Semana 1 - 9 de dezembro de 2025 (Segunda-feira, manhã)
+
+**Belo Horizonte, 9 de Dezembro de 2025 - Dia 3**
+
+### 📝 Nota de Sistema
+
+Bom dia, Diário. Hoje vamos melhorar as instruções de sistema do projeto. Estou em Belo Horizonte — a capital mais fascista do Brasil — e plenamente consciente disso.
+
+Vamos começar. Há muito trabalho a fazer e pouco tempo.
+
+---
+
 ## 📅 Semana 1 - 8 de dezembro de 2025 (Domingo, 10h)
 
 **Belo Horizonte, 8 de Dezembro de 2025 - Dia 2**
