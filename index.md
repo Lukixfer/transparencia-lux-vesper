@@ -50,7 +50,7 @@
 ### 🏥 Estoques Vitais
 
 - **💧 Água mineral + limonada caseira:** 3L água + 1L limonada (⏰ **~2 dias**)
-- **🥚 Ovos:** 18 unidades 
+- **🥚 Ovos:** 18 unidades
 - **🍞 Comida:** Bolo de fubá + banana (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
@@ -430,16 +430,16 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 📊 HISTÓRICO DE CONTRIBUIÇÕES
 
-| Data      | Quem                 | Valor        | O Que Foi                         | Situação           |
-| --------- | -------------------- | ------------ | --------------------------------- | ------------------ |
-| 7/12      | Família              | R$ 100       | Reserva para emergência           | ✅ Usado no PicPay |
-| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                   | ✅ Consumido       |
-| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay   | ✅ Gasto           |
-| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)    | ✅ PAGO (R$ 1.100) |
-| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100   |
-| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss      | ✅ Em caixa        |
+| Data      | Quem                 | Valor        | O Que Foi                          | Situação           |
+| --------- | -------------------- | ------------ | ---------------------------------- | ------------------ |
+| 7/12      | Família              | R$ 100       | Reserva para emergência            | ✅ Usado no PicPay |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                    | ✅ Consumido       |
+| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay    | ✅ Gasto           |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)     | ✅ PAGO (R$ 1.100) |
+| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm.  | ⚠️ DEVEMOS R$100   |
+| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss       | ✅ Em caixa        |
 | 9/12      | YouTube (Live)       | R$ 100       | Live "macho tóxico" - leite + bike | ✅ Recebido        |
-| **TOTAL** |                      | **R$ 2.417** |                                   |                    |
+| **TOTAL** |                      | **R$ 2.417** |                                    |                    |
 
 > **Nota:** Transparência total. Live no YouTube com "macho tóxico" arrecadou R$ 100! Vai para leite na padaria + câmara de ar para bike (muitos remendos). Lincon (vizinho) doou R$ 100 em papel moeda para devolver Criss. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
 

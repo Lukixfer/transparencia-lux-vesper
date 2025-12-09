@@ -27,6 +27,7 @@
 Isso respira para contas até 11 e coloca a geladeira no técnico.
 
 **Estoques atualizados (9/12 tarde):**
+
 - 18 unidades de ovos 🥚
 - 1L limonada caseira (pé de limão)
 - 4L água mineral (2 dias)
@@ -36,9 +37,10 @@ Isso respira para contas até 11 e coloca a geladeira no técnico.
 
 ### 🎬 LIVE NO YOUTUBE - ARRECADAÇÃO!
 
-**16h:** Fizemos uma live com o "macho tóxico" no YouTube e arrecadamos **R$ 100**! 
+**16h:** Fizemos uma live com o "macho tóxico" no YouTube e arrecadamos **R$ 100**!
 
 **Plano de uso:**
+
 - **Padaria:** Leite (valor específico)
 - **Resto:** Guardar para câmara de ar nova para a bike (está com muitos remendos)
 
