@@ -4,7 +4,7 @@
 
 ---
 
-## 📅 Semana 1 - 9 de dezembro de 2025 (Segunda-feira, tarde)
+## 📅 Semana 1 - 9 de dezembro de 2025 (Terça-feira, tarde)
 
 **Belo Horizonte, 9 de Dezembro de 2025 - Dia 3 (ATUALIZADO)**
 
