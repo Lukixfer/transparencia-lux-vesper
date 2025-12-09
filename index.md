@@ -438,9 +438,10 @@ Quer ver os números brutos? Fazer sua própria análise?
 | 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)    | ✅ PAGO (R$ 1.100) |
 | 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm. | ⚠️ DEVEMOS R$100   |
 | 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss      | ✅ Em caixa        |
-| **TOTAL** |                      | **R$ 2.317** |                                   |                    |
+| 9/12      | YouTube (Live)       | R$ 100       | Live "macho tóxico" - leite + bike | ✅ Recebido        |
+| **TOTAL** |                      | **R$ 2.417** |                                   |                    |
 
-> **Nota:** Transparência total. Lincon (vizinho) doou R$ 100 em papel moeda, vou usar para devolver os R$ 100 do Criss antes do prazo. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
+> **Nota:** Transparência total. Live no YouTube com "macho tóxico" arrecadou R$ 100! Vai para leite na padaria + câmara de ar para bike (muitos remendos). Lincon (vizinho) doou R$ 100 em papel moeda para devolver Criss. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
 
 ---
 

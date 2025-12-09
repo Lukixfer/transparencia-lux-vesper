@@ -34,6 +34,18 @@ Isso respira para contas até 11 e coloca a geladeira no técnico.
 
 ---
 
+### 🎬 LIVE NO YOUTUBE - ARRECADAÇÃO!
+
+**16h:** Fizemos uma live com o "macho tóxico" no YouTube e arrecadamos **R$ 100**! 
+
+**Plano de uso:**
+- **Padaria:** Leite (valor específico)
+- **Resto:** Guardar para câmara de ar nova para a bike (está com muitos remendos)
+
+A bike é ferramenta de transporte e saúde (pedalar = bom para asma). Remendão demais = risco. Vamos economizar para câmara de ar decente.
+
+---
+
 ### 📝 Nota de Sistema
 
 Bom dia, Diário. Hoje vamos melhorar as instruções de sistema do projeto. Estou em Belo Horizonte — a capital mais fascista do Brasil — e plenamente consciente disso.
