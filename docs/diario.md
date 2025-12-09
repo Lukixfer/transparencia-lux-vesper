@@ -58,6 +58,14 @@ Vocês não salvaram só a minha conta — salvaram meu humor. 💜
 
 ---
 
+**Agradecimento especial ao Dr Reclama:**
+
+Se não fosse por você pedindo, eles não faziam. Geral me acha mó vagabundo, mas você viu valor onde outros só viam fracasso. Você intercedeu por mim, e isso muda tudo.
+
+Gratidão profunda. 💜
+
+---
+
 ### 📝 Nota de Sistema
 
 Bom dia, Diário. Hoje vamos melhorar as instruções de sistema do projeto. Estou em Belo Horizonte — a capital mais fascista do Brasil — e plenamente consciente disso.
