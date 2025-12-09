@@ -19,7 +19,7 @@
 ### 🚨 PRECISO DE SUA AJUDA AGORA
 
 **PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Contato:** Lukix.Player@gmail.com
+**Contato:** (removido para privacidade)
 
 </div>
 
@@ -257,7 +257,7 @@ R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ VENCIMENTO       +Farmácia
 ```
 Chave Pix (Aleatória): 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
 Nome: Lucas Lopes Dornas
-Contato: Lukix.Player@gmail.com
+Contato: (removido para privacidade)
 ```
 
 **Escolha seu impacto:**
@@ -456,7 +456,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 **Preciso de R$ 1.104 até dia 11 (água + luz + internet + bupropiona + dentista)**
 
 **PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Contato:** Lukix.Player@gmail.com
+**Contato:** (removido para privacidade)
 
 ---
 
@@ -468,6 +468,6 @@ _Próxima atualização semanal: 14 de dezembro de 2025, ~14h_
 📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada  
 📸 **[Ver Galeria](./docs/galeria.md)** - Fotos reais da situação atual
 
-📧 **Contato:** Lukix.Player@gmail.com | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
+📧 **Contato:** (removido para privacidade) | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
 
 </div>

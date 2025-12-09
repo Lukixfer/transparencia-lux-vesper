@@ -222,7 +222,7 @@ Essa realidade importa porque:
 ## 📱 Canais de Comunicação
 
 **PIX (anônimo):** 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f  
-**Email:** Lukix.Player@gmail.com  
+**Email:** (removido para privacidade)  
 **Portal:** https://transparencia.krawz.net  
 **GitHub:** github.com/Lukixfer/transparencia-lux-vesper
 

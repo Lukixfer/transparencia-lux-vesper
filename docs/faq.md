@@ -322,7 +322,7 @@ Proteções em lugar:
 
 **Múltiplos canais:**
 
-- 📧 Email: Lukix.Player@gmail.com
+- 📧 Email: (removido para privacidade)
 - 🐱 GitHub: @Lukixfer
 - 💬 DM: Solicitar contato via GitHub
 

@@ -264,7 +264,7 @@ Todos os comprovantes de pagamentos são mantidos e disponibilizados mediante so
 - Publicamente: versões censuradas podem ser publicadas
 
 **Como solicitar?**
-Email para Lukix.Player@gmail.com com:
+Email: (removido para privacidade)
 
 - Identificação do pagamento (data, valor, descrição)
 - Motivo da solicitação
@@ -314,4 +314,4 @@ Se arrecadação mensal ultrapassar R$ 10.000:
 
 **Próxima atualização prevista**: Final de dezembro 2025 ou quando houver primeira contribuição  
 **Responsável**: Lux Vesper  
-**Contato**: Lukix.Player@gmail.com
+**Contato**: (removido para privacidade)
