@@ -6,11 +6,11 @@
 
 <div align="center" style="background: #4CAF50; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ✅ ATUALIZAÇÃO - 9 DE DEZEMBRO, TARDE
+### ✅ ATUALIZAÇÃO - 9 DE DEZEMBRO, NOITE
 
-**Crédito PicPay LIBERADO: R$ 1.300! | Caixa: R$ 100,00 (papel moeda) | Plano: 10/12 pagar Will (R$ 700) | 11/12 usar Will para dentista (R$ 470)**
+**Crédito PicPay LIBERADO: R$ 1.300 | Caixa: R$ 0,00 (usei o papel moeda para pagar Criss) | Plano: 10/12 pagar Will (R$ 700) | 11/12 usar Will para dentista (R$ 470)**
 
-> ✨ **Progresso crítico:** Crédito liberado! Vou pagar Will dia 10 (R$ 700), depois dia 11 uso o limite do Will para pagar dentista (R$ 470). Sobrando R$ 600 de crédito para contas + bupropiona + comida.
+> ✨ **Progresso crítico:** Crédito liberado! Vou pagar Will dia 10 (R$ 700), depois dia 11 uso o limite do Will para pagar dentista (R$ 470). Sobra ~R$ 600 de crédito para contas + bupropiona + comida.
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -31,7 +31,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════╗
-║      POSIÇÃO FINANCEIRA (ATUALIZADO 8/12 - Noite) ║
+║      POSIÇÃO FINANCEIRA (ATUALIZADO 9/12 - Noite) ║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
 ║  💵 Crédito PicPay:................. R$ 1.300    ║
@@ -104,13 +104,13 @@
 
 | Item               |    Valor     | Por quê                                     | Pagar até |
 | ------------------ | :----------: | ------------------------------------------- | --------- |
-| 💳 Will Bank       |    R$ 700    | Cartão (pagar amanhã)                       | 9/12 ⏰   |
-| 💳 NuBank          |    R$ 110    | Cartão (pagar amanhã)                       | 9/12 ⏰   |
+| 💳 Will Bank       |    R$ 700    | Cartão (pagar amanhã)                       | 10/12    |
+| 💳 NuBank          |    R$ 110    | Cartão (pagar amanhã)                       | 10/12    |
 | 🦷 Dentista (Will) |    R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12     |
 | 💳 PicPay          |   R$ 1.100   | ✅ PAGO (8/12)                              | ✅        |
 | 📊 MEI + Multa     |    R$ 900    | Atraso de contribuições + juros             | 25/12     |
-| 💝 Dívida Criss    |    R$ 100    | Compra no supermercado para nós             | 25/12     |
-| **SUBTOTAL**       | **R$ 2.380** | **Débitos ativos (sem PicPay já quitado)**  |           |
+| 💝 Dívida Criss    |    R$ 100    | Compra no supermercado para nós             | ✅ Pago 9/12 |
+| **SUBTOTAL**       | **R$ 2.180** | **Débitos ativos (sem PicPay já quitado)**  |           |
 
 ---
 
@@ -447,12 +447,12 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 <div align="center">
 
-## 🆘 SITUAÇÃO CRÍTICA (ATUALIZADO)
+## 🆘 SITUAÇÃO CRÍTICA (ATUALIZADO 9/12)
 
-**Tenho R$ 0,00 em caixa**  
+**Tenho R$ 0,00 em caixa (usei o físico para pagar Criss)**  
 **2 dias de água (4L + 1L limonada caseira)**  
-**2-3 dias de comida**  
-**Crédito PicPay libera amanhã (9/12)**  
+**2-3 dias de comida (bolo + ovos)**  
+**Crédito PicPay liberado: R$ 1.300 (vou pagar Will dia 10 e usar limite para dentista dia 11)**  
 **Preciso de R$ 1.104 até dia 11 (água + luz + internet + bupropiona + dentista)**
 
 **PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
