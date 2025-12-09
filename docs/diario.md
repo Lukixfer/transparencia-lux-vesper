@@ -19,6 +19,7 @@
 - **Após 10/12:** Sobra R$ 600 de crédito para contas (água + luz + internet) + bupropiona R$ 45 + comida
 
 **Estratégia:**
+
 1. Pagar Will amanhã = zera cartão Will
 2. Dia 11 usa limite do Will para dentista (marcado para 11/12)
 3. NuBank (R$ 110) fica para depois quando houver mais crédito
