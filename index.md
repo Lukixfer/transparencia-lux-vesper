@@ -6,11 +6,11 @@
 
 <div align="center" style="background: #4CAF50; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ✅ ATUALIZAÇÃO - 8 DE DEZEMBRO, TARDE
+### ✅ ATUALIZAÇÃO - 9 DE DEZEMBRO, TARDE
 
-**PicPay PAGO! Caixa: R$ 100,00 (papel moeda) | Crédito libera amanhã (9/12) | Água: 4L + 1L limonada (2 dias) | Contas até 11/12**
+**Crédito PicPay LIBERADO: R$ 1.300! | Caixa: R$ 100,00 (papel moeda) | Plano: 10/12 pagar Will (R$ 700) | 11/12 usar Will para dentista (R$ 470)**
 
-> ✨ **Progresso:** PicPay zerado (R$ 1.100 pago). Vizinho Lincon doou R$ 100 em dinheiro físico! Vou usar para devolver Criss (R$ 100) antes do prazo. Amanhã crédito libera = respiro para contas até 11/12.
+> ✨ **Progresso crítico:** Crédito liberado! Vou pagar Will dia 10 (R$ 700), depois dia 11 uso o limite do Will para pagar dentista (R$ 470). Sobrando R$ 600 de crédito para contas + bupropiona + comida.
 
 > ⚠️ **Por que preciso de água mineral:**
 >

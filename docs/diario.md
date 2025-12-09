@@ -4,9 +4,28 @@
 
 ---
 
-## 📅 Semana 1 - 9 de dezembro de 2025 (Segunda-feira, manhã)
+## 📅 Semana 1 - 9 de dezembro de 2025 (Segunda-feira, tarde)
 
-**Belo Horizonte, 9 de Dezembro de 2025 - Dia 3**
+**Belo Horizonte, 9 de Dezembro de 2025 - Dia 3 (ATUALIZADO)**
+
+### 💰 CRÉDITO PICPAY LIBERADO! R$ 1.300
+
+**14h: Notícia crítica!** Crédito PicPay foi liberado. R$ 1.300 em crédito disponível agora.
+
+**Plano de pagamento (EXECUTADO):**
+
+- **10/12 (amanhã):** Pagar Will Bank R$ 700 (com crédito PicPay)
+- **11/12:** Usar limite do Will para pagar dentista R$ 470
+- **Após 10/12:** Sobra R$ 600 de crédito para contas (água + luz + internet) + bupropiona R$ 45 + comida
+
+**Estratégia:**
+1. Pagar Will amanhã = zera cartão Will
+2. Dia 11 usa limite do Will para dentista (marcado para 11/12)
+3. NuBank (R$ 110) fica para depois quando houver mais crédito
+
+Isso respira para contas até 11 e coloca a geladeira no técnico.
+
+---
 
 ### 📝 Nota de Sistema
 
