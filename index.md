@@ -4,13 +4,15 @@
 
 ---
 
-<div align="center" style="background: #4CAF50; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
+<div align="center" style="background: #2196F3; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ✅ ATUALIZAÇÃO - 10 DE DEZEMBRO
+### ✅ ATUALIZAÇÃO - 10 DE DEZEMBRO (NOITE)
 
-**Crédito PicPay R$ 1.300 | PAGAMENTO WILL HOJE (R$ 700) | SITE 100% SEGURO: HTTPS STRICT + CSP MÁXIMO + CLOUDFLARE BLOQUEADO**
+🎉 **TIO CONFIRMOU: CUSTEIA GASTOS ODONTOLÓGICOS INDEFINIDAMENTE** 🎉  
+**Contribuição: R$ 470 (reembolso dentista já pago com cartão)**  
+**Impacto:** Dentista indefinidamente sem preocupação + R$ 400-500/mês liberados
 
-> ✨ **Site agora 100% seguro:** CSP reforçado para bloquear Cloudflare beacon, headers de segurança MÁXIMOS (X-Frame-Options DENY, X-Content-Type-Options nosniff), força HTTPS, bloqueia scripts externos, conteúdo misto totalmente proibido.
+> 🦷 **Seu tio é incrível:** Assim que soube que paguei dentista de emergência com cartão, enviou R$ 470 e confirmou que vai cobrir meus gastos odontológicos indefinidamente. Isso libera ~R$ 400-500/mês do orçamento para outras despesas críticas.
 
 > ⚠️ **Por que preciso de água mineral:**
 >
@@ -31,19 +33,20 @@
 
 ```
 ╔═══════════════════════════════════════════════════╗
-║      POSIÇÃO FINANCEIRA (ATUALIZADO 9/12 - Noite) ║
+║      POSIÇÃO FINANCEIRA (ATUALIZADO 10/12 - Noite)║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
 ║  💵 Crédito PicPay:................. R$ 1.300    ║
+║  💵 TIO REEMBOLSO DENTISTA:......... R$ 470 ✅   ║
 ║  💧 Água mineral + limonada:....... 4 litros     ║
 ║  🥚 Ovos:.......................... 18 unidades  ║
 ║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
-║  🦷 Dentista agendado (11/12):..... R$ 470      ║
+║  🦷 Dentista COBERTO (tio):........ R$ 0 ✅     ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
-║  📉 Despesas até 11/12:............ -R$ 1.104   ║
+║  📉 Despesas até 11/12:............ -R$ 634     ║
 ║  📉 Despesas 15-25/12:............ -R$ 1.650    ║
 ║  💳 Dívidas (Will+Nu+MEI+Criss):... -R$ 1.810    ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 4.564   ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 4.094   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -439,7 +442,8 @@ Quer ver os números brutos? Fazer sua própria análise?
 | 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm.  | ✅ Pago em 9/12    |
 | 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss       | ✅ Usado (9/12)    |
 | 9/12      | YouTube (Live)       | R$ 100       | Live "macho tóxico" - leite + bike | ✅ Recebido        |
-| **TOTAL** |                      | **R$ 2.417** |                                    |                    |
+| 10/12     | Tio                  | R$ 470       | Reembolso dentista + cobertura indefinida | ✅ Recebido    |
+| **TOTAL** |                      | **R$ 2.887** |                                    |                    |
 
 > **Nota:** Transparência total. Live no YouTube com "macho tóxico" arrecadou R$ 100! Vai para leite na padaria + câmara de ar para bike (muitos remendos). Lincon (vizinho) doou R$ 100 em papel moeda para devolver Criss. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
 
