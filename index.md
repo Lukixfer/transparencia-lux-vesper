@@ -78,14 +78,14 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item                |   Valor    | Por quê                                                                                | Status      |
-| ------------------- | :--------: | -------------------------------------------------------------------------------------- | ----------- |
-| 💧 Água mineral     |   R$ 80    | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas | ⏳ Pendente |
-| ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       | ✅ Pago     |
-| 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                                                 | ✅ Pago     |
-| 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19)          | ⏳ Bloqueado |
-| 🦷 Dentista (11/12) |   R$ 470   | Procedimento necessário, será pago com limite do Will                                  | ✅ Coberto  |
-| **SUBTOTAL**        | **R$ 80** | **Água urgente (bupropiona depende de receita)**                                             |             |
+| Item                |    Valor     | Por quê                                                                               | Status       |
+| ------------------- | :----------: | ------------------------------------------------------------------------------------- | ------------ |
+| 💧 Água mineral     |    R$ 80     | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas | ⏳ Pendente  |
+| ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       | ✅ Pago      |
+| 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                                | ✅ Pago      |
+| 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19)         | ⏳ Bloqueado |
+| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                                 | ✅ Coberto   |
+| **SUBTOTAL**        |  **R$ 80**   | **Água urgente (bupropiona depende de receita)**                                      |              |
 | 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                                 |
 | **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                                |
 
