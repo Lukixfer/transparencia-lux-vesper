@@ -378,16 +378,16 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 🔗 Documentação Completa
 
-| Link                                        | O que é                                   |
-| ------------------------------------------- | ----------------------------------------- |
-| 📔 [Diário de Bordo](./docs/diario.md)      | Registro semanal da jornada (toda semana) |
-| 📖 [Crowdfunding do Livro](./docs/crowdfunding-livro.md) | Ajude a publicar "O Coração da Colmeia" |
-| 💻 [Dev Freelancer](./docs/dev-freelancer.md) | Contrate como desenvolvedor remoto |
-| 📝 [Minha História](./docs/analise.md)      | Quem sou, por que preciso, qual meu plano |
-| 🎮 [Projetos](./docs/projetos.md)           | Krawz Arena + O Coração da Colmeia        |
-| ❓ [FAQ](./docs/faq.md)                     | 50+ perguntas respondidas                 |
-| 📈 [Histórico](./docs/historico.md)         | Acompanhamento de contribuições           |
-| 🔒 [Privacidade](./PRIVACY.md)              | Como seus dados são protegidos            |
+| Link                                                     | O que é                                   |
+| -------------------------------------------------------- | ----------------------------------------- |
+| 📔 [Diário de Bordo](./docs/diario.md)                   | Registro semanal da jornada (toda semana) |
+| 📖 [Crowdfunding do Livro](./docs/crowdfunding-livro.md) | Ajude a publicar "O Coração da Colmeia"   |
+| 💻 [Dev Freelancer](./docs/dev-freelancer.md)            | Contrate como desenvolvedor remoto        |
+| 📝 [Minha História](./docs/analise.md)                   | Quem sou, por que preciso, qual meu plano |
+| 🎮 [Projetos](./docs/projetos.md)                        | Krawz Arena + O Coração da Colmeia        |
+| ❓ [FAQ](./docs/faq.md)                                  | 50+ perguntas respondidas                 |
+| 📈 [Histórico](./docs/historico.md)                      | Acompanhamento de contribuições           |
+| 🔒 [Privacidade](./PRIVACY.md)                           | Como seus dados são protegidos            |
 
 ---
 

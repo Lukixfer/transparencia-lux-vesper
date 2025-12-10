@@ -17,6 +17,7 @@
 ## 🛠️ Skills Técnicas
 
 ### Backend & APIs
+
 - ✅ Node.js (Express, NestJS)
 - ✅ Python (FastAPI, Django)
 - ✅ Bancos de dados (PostgreSQL, MongoDB, Firebase)
@@ -24,18 +25,21 @@
 - ✅ Autenticação e autorização (JWT, OAuth)
 
 ### Frontend
+
 - ✅ React/Next.js
 - ✅ HTML/CSS/JavaScript vanilla
 - ✅ Responsive design
 - ✅ Acessibilidade (a11y)
 
 ### DevOps & Cloud
+
 - ✅ Docker e containerização
 - ✅ GitHub Actions (CI/CD)
 - ✅ Deploy em: Vercel, Netlify, Heroku, AWS
 - ✅ Nginx e reverse proxies
 
 ### Outras Skills
+
 - ✅ Git/GitHub (fluxo profissional)
 - ✅ Testes automatizados (Jest, Pytest)
 - ✅ Documentação técnica
@@ -49,23 +53,27 @@
 ### Projetos Pessoais (Portfolio)
 
 **🎮 Krawz Arena**
+
 - Documentação técnica completa de game RPG/cartas
 - Arquitetura de backend para multiplayer
 - Sistema de economia integrada (RMT)
 - GitHub: [Krawz-Arena-Docs](https://github.com/Lukixfer/Krawz-Arena-Docs)
 
 **🌐 Portal da Transparência**
+
 - Jekyll + GitHub Pages
 - CSP reforçada e segurança
 - Markdown estruturado
 - GitHub: [transparencia-lux-vesper](https://github.com/Lukixfer/transparencia-lux-vesper)
 
 **📖 O Coração da Colmeia**
+
 - Landing page em HTML/CSS
 - Preview interativo
 - GitHub: [o-coracao-da-colmeia-preview](https://github.com/Lukixfer/o-coracao-da-colmeia-preview)
 
 **🎵 Lukix Música**
+
 - Coordenação de composições e produção
 - YouTube channel (ativa)
 - Workflow criativo escalável
@@ -100,12 +108,12 @@
 
 ### Por 15 Horas/Semana
 
-| Item | Valor |
-|------|-------|
-| Taxa horária (R$ 100/h) | R$ 1.500 |
-| Ou: Valor mensal fixo | R$ 1.500-2.500 |
-| Período mínimo | 3 meses |
-| Renovação | Mensal (com 2 semanas aviso) |
+| Item                    | Valor                        |
+| ----------------------- | ---------------------------- |
+| Taxa horária (R$ 100/h) | R$ 1.500                     |
+| Ou: Valor mensal fixo   | R$ 1.500-2.500               |
+| Período mínimo          | 3 meses                      |
+| Renovação               | Mensal (com 2 semanas aviso) |
 
 ### O Que Está Incluído
 
@@ -121,27 +129,31 @@
 ## 📋 Exemplo de Escopo (15h/semana)
 
 **Semana 1:**
+
 - 3h: Onboarding (repositório, workflow, arquitetura)
 - 5h: Feature A (frontend)
 - 4h: Tests e documentação
 - 3h: Code review de PRs
 
 **Semana 2:**
+
 - 2h: Bug fix crítico
 - 6h: Feature B (backend)
 - 4h: Integração com API externa
 - 3h: Suporte ao time
 
-*(Exemplo. Varia conforme projeto)*
+_(Exemplo. Varia conforme projeto)_
 
 ---
 
 ## 🤝 Como Contratar
 
 ### Opção 1: Contato Direto
+
 Email: [removido para privacidade]
 
 Envie:
+
 - Descrição do projeto (2-3 parágrafos)
 - Escopo técnico (quais tecnologias, tamanho)
 - Timeline esperada
@@ -149,12 +161,15 @@ Envie:
 - Caso de uso principal
 
 ### Opção 2: Plataforma
+
 - Upwork: (em breve)
 - LinkedIn: [@Lukixfer](https://linkedin.com/in/lukixfer)
 - GitHub: [@Lukixfer](https://github.com/Lukixfer)
 
 ### Opção 3: Indicações
+
 Conheço alguém que precisa? **Me indica!**
+
 - Temos pessoas em comum? Melhor ainda.
 - Referência = confiança instantânea.
 
@@ -186,7 +201,7 @@ Basicamente: **me tira do modo "sobrevivência"** pra modo "criação".
 
 ## 💬 Depoimentos (Em Breve)
 
-*(Alguns clientes vão contribuir com depoimentos anônimos aqui)*
+_(Alguns clientes vão contribuir com depoimentos anônimos aqui)_
 
 ---
 
@@ -228,7 +243,7 @@ Se você acredita que precisa de um dev criativo, responsável e com skills reai
 
 **Email:** [removido para privacidade]  
 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)  
-**LinkedIn:** [@Lukixfer](https://linkedin.com/in/lukixfer) *(em breve)*
+**LinkedIn:** [@Lukixfer](https://linkedin.com/in/lukixfer) _(em breve)_
 
 ---
 

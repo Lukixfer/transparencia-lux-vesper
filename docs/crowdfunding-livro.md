@@ -9,6 +9,7 @@
 **Publicar profissionalmente "O Coração da Colmeia" - meu romance literário de 250+ páginas que está 95% pronto.**
 
 Preciso de **R$ 2.000** para:
+
 - Revisão gramatical profissional (R$ 800)
 - Capa e design gráfico (R$ 700)
 - ISBN e registro autoral (R$ 300)
@@ -24,7 +25,7 @@ Preciso de **R$ 2.000** para:
 **Gênero:** Ficção especulativa / Literatura  
 **Páginas:** ~300  
 **Público:** Adultos  
-**Idioma:** Português  
+**Idioma:** Português
 
 **Sinopse:** [Leia completa em abstrato.krawz.net](https://abstrato.krawz.net)  
 **Preview:** [GitHub - o-coracao-da-colmeia-preview](https://github.com/Lukixfer/o-coracao-da-colmeia-preview)
@@ -34,34 +35,39 @@ Preciso de **R$ 2.000** para:
 ## 💝 Como Ajudar (Escolha Seu Valor)
 
 ### 🎁 Contribuidor (R$ 50)
+
 - ✅ Seu nome nos agradecimentos do livro
 - ✅ E-book grátis quando sair
 - ✅ Acesso a atualizações do autor
 
 ### 📕 Leitor VIP (R$ 150)
+
 - ✅ Tudo acima +
 - ✅ Livro impresso autografado (quando imprimir)
 - ✅ Acesso ao Discord privado do autor
 
 ### 👑 Patrono (R$ 500)
+
 - ✅ Tudo acima +
 - ✅ Seu nome em destaque nos créditos
 - ✅ Videochamada privada com o autor (30 min)
 - ✅ Camiseta do livro personalizada
 
 ### 💎 Investidor (R$ 2.000)
+
 - ✅ Tudo acima +
 - ✅ Seu nome na dedicatória do livro
 - ✅ Participação em decisões (capa alternativa, marketing)
-- ✅ 1% dos royalties do e-book por 12 meses*
+- ✅ 1% dos royalties do e-book por 12 meses\*
 
-*Opcional e depende de negociação individual
+\*Opcional e depende de negociação individual
 
 ---
 
 ## 💳 Formas de Contribuir
 
 ### **PIX (Recomendado)**
+
 ```
 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
 Lucas Lopes Dornas
@@ -70,9 +76,11 @@ Lucas Lopes Dornas
 **Importante:** Envie um screenshot do Pix + seu email/nome no privado para confirmar sua recompensa.
 
 ### **Transferência Bancária**
+
 Solicite dados bancários no email (removido para privacidade)
 
 ### **Via GitHub Sponsors** (em breve)
+
 Será adicionado em breve
 
 ---

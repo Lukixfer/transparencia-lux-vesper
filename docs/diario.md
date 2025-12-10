@@ -306,6 +306,7 @@ Não sei se acredito em milagres. Mas acredito em comunidade. E se este portal c
 - 🍱 **Marmitex:** Almoçando fora (qualidade de vida mental)
 
 **Mentalidade:** Esses gastos parecem "luxo" mas não são. São **saúde preventiva**:
+
 - Pé de limão = vitamina C natural em casa
 - Água quente = conseguir respirar melhor
 - Alimentação variada = energia para trabalhar nos projetos
@@ -318,12 +319,14 @@ Não sei se acredito em milagres. Mas acredito em comunidade. E se este portal c
 **Status:** Tranquilo com alimentação até fim do mês ✅
 
 **Estoques atualizados:**
+
 - 💧 Água mineral + suco de uva (reabastecido)
 - 🥚 Ovos ainda disponíveis
 - 🍞 Pão fresco + presunto
 - 🫁 Resistência nova no chuveiro = banhos quentes ok
 
 **Pendências abertas:**
+
 - 💳 Will Bank: ainda precisa pagar (mas coberto pelo crédito)
 - 💳 NuBank: R$ 110 em aberto
 - 📊 MEI: R$ 900 em atraso
@@ -337,6 +340,7 @@ Não sei se acredito em milagres. Mas acredito em comunidade. E se este portal c
 
 **O problema:**
 Tenho R$ 670 pra passar o mês. Dá pra comer, beber água, tomar banho quente. MAS:
+
 - Sem fonte de renda própria = dependência de doações/crédito
 - Projetos estão prontos (livro 95% pronto, Arena documentado, música ativa) mas não geram receita AINDA
 - Cada mês é um "vai dando" - pago contas, como, medica, mas não avanço
@@ -344,11 +348,13 @@ Tenho R$ 670 pra passar o mês. Dá pra comer, beber água, tomar banho quente. 
 **O que precisa acontecer para sair dessa:**
 
 1. **📖 Krawz - O Coração da Colmeia**
+
    - **Status:** 95% pronto, só falta R$ 2.000 para revisão + capa + publicação profissional
    - **Timeline:** Se financiado agora, em 4 semanas tem livro na Amazon + royalties começando
    - **ROI:** R$ 300-800/mês passivo em royalties (após 6 meses de venda)
 
 2. **🎮 Krawz Arena**
+
    - **Status:** Alfa jogável online, documentação completa
    - **Falta:** Comunidade beta (10-50 testers) + feedback loop
    - **Timeline:** 8-12 semanas para soft launch com early access pago (R$ 50-100 por acesso)
@@ -371,21 +377,25 @@ Não estou pedindo caridade eterna. Estou pedindo **investimento** em projetos r
 **Opções:**
 
 **A) Kickstarter do Livro** (R$ 2.000)
+
 - Objetivo: Revisar + capa + publicação profissional + marketing inicial
 - Retorno: Livro em 4 semanas, royalties começando em 6-8 semanas
 - Quantidade necessária: **1-4 pessoas doando R$ 500-2.000 cada**
 
 **B) Beta Fechado Krawz Arena** (R$ 500-1.000)
+
 - Objetivo: Recrutar 50 testers pagos, coletar feedback, evoluir jogo
 - Retorno: Seu nome nos créditos + acesso vitalício + camiseta do jogo
 - Quantidade necessária: **5-20 pessoas doando R$ 50-200 cada**
 
 **C) Doação mensal progressiva** (R$ 50-200/mês)
+
 - Objetivo: Liberar meu tempo para trabalhar 100% nos projetos
 - Retorno: Vê em primeira mão livro/jogo/músicas sendo criados, acesso ao diário real
 - Quantidade necessária: **2-10 pessoas**
 
 **D) Trabalho remoto pra você**
+
 - Tenho skills: Dev, redação técnica, design conceitual, análise de sistemas
 - Tempo disponível: 10-15 horas/semana
 - Valor: R$ 50-100/hora
@@ -407,16 +417,126 @@ Então o pedido real é: **Me ajude a parar de sobreviver e começar a criar.**
 
 ---
 
-### 📈 Próxima Semana (Meta)
+### 📈 Próxima Semana (Meta) - REVISADO
 
 - ✅ Dentista agendado (11/12) - tio cobre, sem estresse
+- 💬 **Conversa com pastora (10/12) - CRÍTICA pra realinhar tudo**
 - 🎯 Psiquiatra (19/12) - tentar conseguir bupropiona com receita dele
-- 💻 Continuar desenvolvendo Arena (roadmap em andamento)
-- 📖 Começar processo de publicação do livro (seja com crowdfunding ou investidor individual)
-- 🎵 Lançar 2 composições novas (uma tradicional, uma IA+violão)
-- 💭 Processar essa situação de ser "bom demais em sobreviver"
+- 💤 **Foco em DORMIR BEM** (isso é trabalho, não preguiça)
+- 📖 **Escrever capítulo final COM CALMA** (sem deadline apertado)
+- 💻 Depois de estabilizar: procurar cliente dev
+- 🎵 Composições quando houver energia (não é urgência)
 
+**Mudança de mentalidade:**
 
+- ❌ "Preciso terminar tudo rápido"
+- ✅ "Preciso terminar bem e manter a saúde"
+
+Livro sai quando estiver pronto. Crowdfunding sai quando eu estiver pronto. Dev freelancer quando eu tiver energia pra procurar.
+
+**Qualidade > Velocidade. Sempre.**
+
+---
+
+## 📅 Semana 2 - 10 de dezembro de 2025 (Quarta-feira, noite) - ATUALIZADO
+
+### 📖 PRIORIDADE: TERMINAR O LIVRO! (MAS COM REALISMO)
+
+**Decisão importante tomada hoje:** Vou focar em terminar o último capítulo, MAS reconhecendo que minha saúde mental/sono tá ruim.
+
+**Realidade de agora:**
+
+- Estou dormindo muito mal (stress financeiro, saúde frágil)
+- Sono ruim = criatividade ruim = escrita lenta e com qualidade questionável
+- Forçar cronograma apertado = piorar a saúde mental
+
+**Novo plano (mais realista):**
+
+1. 💬 **Conversa com pastora Alessandra (hoje, 10/12):** Realinhar expectativas, processar ansiedade
+2. 🧠 **Focar em dormir bem** (isso é trabalho, não preguiça)
+3. ✍️ **Escrever com calma** - capítulo sai quando sai, não quando eu "acho que deve"
+4. 🎯 **Timeline flexível:** Até 20/12 em vez de 15/12 (mais realista)
+
+**Por quê essa mudança?**
+
+- Livro 95% pronto já é vitória ENORME
+- Apressar = piorar qualidade do capítulo final
+- Qualidade ruim = crowdfunding fraco = menos grana
+- Sono ruim + ansiedade = crise mental próxima
+
+**Transparência:** Achei que conseguia fazer em 5 dias. Percebi que preciso de 7-10 dias pra fazer bem, dormindo direito.
+
+**Novo cronograma:**
+
+- 10-20/12: Escrever o capítulo (ritmo sustentável, dormir bem)
+- 20-22/12: Revisão final pessoal
+- 22-25/12: Revisor profissional
+- 25-27/12: Capa e design
+- 27-30/12: Upload em plataformas
+- 31/12 ou 2/1: **LIVRO NA AMAZON**
+
+**O crowdfunding pode sair em 24/12** (mesmo que o livro não esteja 100% pronto ainda) com transparência: "Sai em X dias, acompanhe aqui".
+
+---
+
+### 💰 Situação Financeira (Atualizado 10/12 - Noite)
+
+**Crédito PicPay disponível:** R$ 670
+**Status:** Tranquilo com alimentação até fim de mês ✅
+
+**Estoques vitais:**
+
+- 💧 Água mineral + suco de uva ✅
+- 🥚 Ovos em quantidade ✅
+- 🍞 Pão + presunto ✅
+- 🚿 Resistência nova no chuveiro ✅
+- 🌱 Pé de limão podado e saudável ✅
+
+**Contas pagas (10/12):**
+
+- ⚡ Luz: R$ 300 ✅
+- 🌐 Internet: R$ 209 ✅
+
+**Pendências:**
+
+- 💳 Will Bank: (coperto por crédito PicPay)
+- 💳 NuBank: R$ 110
+
+### 🎯 Compromisso Comigo Mesmo (REVISADO)
+
+Preciso ser gentil comigo mesmo. Dormir mal por dias seguidos é **doença**, não preguiça.
+
+**Novo compromisso:**
+
+1. **Prioridade 1:** Dormir bem (medicação, terapia, meditação - o que funcionar)
+2. **Prioridade 2:** Falar com pastora sobre a ansiedade (hoje mesmo)
+3. **Prioridade 3:** Escrever o capítulo SEM PRESSA (próximas 2 semanas)
+4. **Prioridade 4:** Tudo mais (freelancer, marketing, etc.)
+
+**Se eu não conseguir terminar rápido, vou:**
+
+- ✅ Avisar a comunidade (transparência)
+- ✅ Postar progresso (mesmo que lento)
+- ✅ Pedir apoio espiritual/profissional
+- ✅ **CONTINUAR MESMO QUE LENTO**
+
+**Quando eu terminar, vou:**
+
+- 🎉 Comemorar (não importa quando)
+- 💪 Abrir crowdfunding (com momentum real)
+- 🎯 Procurar cliente dev (com energia)
+- 🙏 Agradecer à pastora (foi essencial)
+
+**Lição aprendida:** Transparência radical inclui admitir que não dou conta de tudo. E tá ok.
+
+- Postar comemoração no diário
+- Abrir a página de crowdfunding
+- Dividir com a comunidade (GitHub Discussions)
+- Começar a busca ativa por cliente dev
+
+Sem esconder, sem fingir que tá tudo bem se não estiver.
+
+**Transparência radical = responsabilidade radical.**
 ```
 
 ---
