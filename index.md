@@ -40,13 +40,15 @@
 ║  💵 TIO REEMBOLSO DENTISTA:......... R$ 470 ✅   ║
 ║  💧 Água mineral + limonada:....... 4 litros     ║
 ║  🥚 Ovos:.......................... 18 unidades  ║
-║  💊 BUPROPIONA URGENTE:............. R$ 45       ║
+║  💊 BUPROPIONA (sem receita):...... R$ 45 ⏳    ║
 ║  🦷 Dentista COBERTO (tio):........ R$ 0 ✅     ║
 ║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
-║  📉 Despesas até 11/12:............ -R$ 634     ║
-║  📉 Despesas 15-25/12:............ -R$ 1.650    ║
-║  💳 Dívidas (Will+Nu+MEI+Criss):... -R$ 1.810    ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 4.094   ║
+║  ⚡ LUZ PAGA (10/12):............... R$ 0 ✅     ║
+║  🌐 INTERNET PAGA (10/12):......... R$ 0 ✅     ║
+║  📉 Despesas até 11/12:............ -R$ 80      ║
+║  📉 Despesas 15-25/12:............ -R$ 1.695    ║
+║  💳 Dívidas (Will+Nu+MEI):......... -R$ 1.710    ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 3.485   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -67,21 +69,23 @@
 | 🏊 Natação (terapia asma)         |    R$ 400    | ✅ Pago |
 | 💊 Farmácia (lítio, ansiolíticos) |    R$ 300    | ✅ Pago |
 | 🍽️ Alimentação                    |    R$ 300    | ✅ Pago |
-| **Total gasto**                   | **R$ 1.000** |         |
+| ⚡ Luz (10/12)                    |    R$ 300    | ✅ Pago |
+| 🌐 Internet (10/12)               |    R$ 209    | ✅ Pago |
+| **Total gasto**                   | **R$ 1.509** |         |
 | **Saldo restante**                |   **R$ 0**   | 🔴 ZERO |
 
 ---
 
-## 🚨 Despesas Urgentes Pendentes
-
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item                |    Valor     | Por quê                                                                               |
-| ------------------- | :----------: | ------------------------------------------------------------------------------------- |
-| 💧 Água mineral     |    R$ 80     | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas |
-| ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       |
-| 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                                |
-| 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - URGENTE para ontem                                                   |
+| Item                |   Valor    | Por quê                                                                                | Status      |
+| ------------------- | :--------: | -------------------------------------------------------------------------------------- | ----------- |
+| 💧 Água mineral     |   R$ 80    | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas | ⏳ Pendente |
+| ⚡ Luz              |   R$ 300   | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       | ✅ Pago     |
+| 🌐 Internet         |   R$ 209   | Trabalho remoto, projetos, comunicação                                                 | ✅ Pago     |
+| 💊 Bupropiona 150mg |   R$ 45    | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19)          | ⏳ Bloqueado |
+| 🦷 Dentista (11/12) |   R$ 470   | Procedimento necessário, será pago com limite do Will                                  | ✅ Coberto  |
+| **SUBTOTAL**        | **R$ 80** | **Água urgente (bupropiona depende de receita)**                                             |             |
 | 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                                 |
 | **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                                |
 
