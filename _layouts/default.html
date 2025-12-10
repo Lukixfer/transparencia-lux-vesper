@@ -3,28 +3,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- SEGURANÇA MÁXIMA: CSP STRICT + HTTPS ENFORCED -->
+    <!-- SEGURANÇA MÁXIMA: CSP PERMISSIVO PARA META TAG + SCRIPT INLINE -->
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'none'; style-src 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests; block-all-mixed-content; report-uri /csp-report"
+      content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests; block-all-mixed-content"
     />
+    <!-- Headers de segurança que NÃO podem ir em meta (só em HTTP header no servidor) -->
+    <!-- Nota: X-Frame-Options, frame-ancestors, report-uri devem estar no header HTTP do servidor -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
-    <meta http-equiv="X-Frame-Options" content="DENY" />
     <meta http-equiv="X-XSS-Protection" content="1; mode=block" />
     <meta name="referrer" content="no-referrer" />
     <!-- Bloqueia Cloudflare beacon e qualquer script externo -->
     <script>
       // Bloqueia beacon do Cloudflare completamente
       window.__cfBeacon = undefined;
-      Object.defineProperty(window, '__cfBeacon', {
-        get: function() { return undefined; },
-        set: function() {},
-        configurable: false
+      Object.defineProperty(window, "__cfBeacon", {
+        get: function () {
+          return undefined;
+        },
+        set: function () {},
+        configurable: false,
       });
       // Força HTTPS se der acesso via HTTP (improvável em GitHub Pages)
-      if (location.protocol !== 'https:' && location.hostname !== 'localhost') {
-        location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+      if (location.protocol !== "https:" && location.hostname !== "localhost") {
+        location.href =
+          "https:" +
+          window.location.href.substring(window.location.protocol.length);
       }
     </script>
     <link rel="icon" href="data:," />
