@@ -378,24 +378,28 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 🔗 Documentação Completa
 
-| Link                                   | O que é                                   |
-| -------------------------------------- | ----------------------------------------- |
-| 📔 [Diário de Bordo](./docs/diario.md) | Registro semanal da jornada (toda semana) |
-| 📝 [Minha História](./docs/analise.md) | Quem sou, por que preciso, qual meu plano |
-| 🎮 [Projetos](./docs/projetos.md)      | Krawz Arena + O Coração da Colmeia        |
-| ❓ [FAQ](./docs/faq.md)                | 50+ perguntas respondidas                 |
-| 📈 [Histórico](./docs/historico.md)    | Acompanhamento de contribuições           |
-| 🔒 [Privacidade](./PRIVACY.md)         | Como seus dados são protegidos            |
+| Link                                        | O que é                                   |
+| ------------------------------------------- | ----------------------------------------- |
+| 📔 [Diário de Bordo](./docs/diario.md)      | Registro semanal da jornada (toda semana) |
+| 📖 [Crowdfunding do Livro](./docs/crowdfunding-livro.md) | Ajude a publicar "O Coração da Colmeia" |
+| 💻 [Dev Freelancer](./docs/dev-freelancer.md) | Contrate como desenvolvedor remoto |
+| 📝 [Minha História](./docs/analise.md)      | Quem sou, por que preciso, qual meu plano |
+| 🎮 [Projetos](./docs/projetos.md)           | Krawz Arena + O Coração da Colmeia        |
+| ❓ [FAQ](./docs/faq.md)                     | 50+ perguntas respondidas                 |
+| 📈 [Histórico](./docs/historico.md)         | Acompanhamento de contribuições           |
+| 🔒 [Privacidade](./PRIVACY.md)              | Como seus dados são protegidos            |
 
 ---
 
 ## 🌈 Outras Formas de Ajudar
 
-- 📚 **Compre** o livro quando for lançado
-- 🎮 **Acompanhe** Krawz Arena quando entrar em beta
-- 🔗 **Compartilhe** este portal nas redes sociais
-- 💼 **Indique** oportunidades de trabalho/freela
-- 💬 **Dê feedback** sobre os projetos
+### 💼 **NÃO CONSEGUE FAZER PIX? TEM ALTERNATIVAS!**
+
+- 📖 **[Financie o Livro (Crowdfunding)](./docs/crowdfunding-livro.md)** - Publique "O Coração da Colmeia" comigo!
+- 💻 **[Contrate como Dev Freelancer](./docs/dev-freelancer.md)** - Trabalho remoto/assíncrono, R$ 1.500-2.500/mês
+- 🎮 **[Beta Privado Krawz Arena](./docs/projetos.md#-krawz-arena)** - Early access + seu nome nos créditos
+- 🔗 **[Compartilhe este portal](https://github.com/Lukixfer/transparencia-lux-vesper)** - Spread the word!
+- 💬 **[Dê feedback nos projetos](https://github.com/Lukixfer/transparencia-lux-vesper/discussions)** - Sua opinião importa
 
 ---
 
