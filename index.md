@@ -18,10 +18,10 @@
 >
 > Tenho asma e mucoviscidose, e a água tratada daqui me faz passar mal (cloro forte e histórico de reações). Para beber, cozinhar e tomar remédios, só consigo usar **água mineral** sem risco de crise respiratória ou intestinal. Não é luxo, é saúde básica.
 
-### 🚨 PRECISO DE SUA AJUDA AGORA
+### 🤝 Gratidão pela ajuda — se quiser apoiar mais
 
 **PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Contato:** (removido para privacidade)
+**Nota:** Estamos bem abastecidos graças a vocês. Toda ajuda extra acelera o livro e fecha pendências.
 
 </div>
 
@@ -36,7 +36,7 @@
 ║      POSIÇÃO FINANCEIRA (ATUALIZADO 10/12 - Noite)║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
-║  💵 Crédito PicPay:................. R$ 1.300    ║
+║  💵 Crédito PicPay:................. R$ 650      ║
 ║  💵 TIO REEMBOLSO DENTISTA:......... R$ 470 ✅   ║
 ║  💧 Água mineral + limonada:....... 4 litros     ║
 ║  🥚 Ovos:.......................... 18 unidades  ║
@@ -48,15 +48,16 @@
 ║  📉 Despesas até 11/12:............ -R$ 80      ║
 ║  📉 Despesas 15-25/12:............ -R$ 1.695    ║
 ║  💳 Dívidas (Will+Nu+MEI):......... -R$ 1.710    ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 3.485   ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 4.135   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
 ### 🏥 Estoques Vitais
 
+> Compramos: remédios, serrote para podar o pé de limão (e buganvília), resistência nova do chuveiro, alimentação (marmitex, pão, presunto).
+
 - **💧 Água mineral + limonada caseira:** 3L água + 1L limonada (⏰ **~2 dias**)
-- **🥚 Ovos:** 18 unidades
-- **🍞 Comida:** Bolo de fubá + banana (⏰ **2-3 dias** | [Ver galeria](./docs/galeria.md))
+- **🍽️ Alimentação:** Garantida via crédito (marmitex, pão, presunto). Estoque de comida não é gargalo agora.
 - **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
 - **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
 
