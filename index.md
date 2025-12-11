@@ -36,7 +36,7 @@
 ║      POSIÇÃO FINANCEIRA (ATUALIZADO 10/12 - Noite)║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
-║  💵 Crédito PicPay:................. R$ 650      ║
+║  💵 Crédito PicPay:................. R$ 230      ║
 ║  💵 TIO REEMBOLSO DENTISTA:......... R$ 470 ✅   ║
 ║  💧 Água mineral + limonada:....... 4 litros     ║
 ║  🥚 Ovos:.......................... 18 unidades  ║
@@ -54,7 +54,7 @@
 
 ### 🏥 Estoques Vitais
 
-> Compramos: remédios, serrote para podar o pé de limão (e buganvília), resistência nova do chuveiro, alimentação (marmitex, pão, presunto).
+> Compramos: remédios ✅ (bupropiona R$50), serrote para podar pé de limão/buganvília, resistência nova do chuveiro, peneira de terra (R$40) para arrumar quintal, alimentação (marmitex, pão, presunto). Investimento em trabalho: R$330 para Warley ajudar com capina e poda ao longo de dezembro (3 dias).
 
 - **💧 Água mineral + limonada caseira:** 3L água + 1L limonada (⏰ **~2 dias**)
 - **🍽️ Alimentação:** Garantida via crédito (marmitex, pão, presunto). Estoque de comida não é gargalo agora.
@@ -72,7 +72,10 @@
 | 🍽️ Alimentação                    |    R$ 300    | ✅ Pago |
 | ⚡ Luz (10/12)                    |    R$ 300    | ✅ Pago |
 | 🌐 Internet (10/12)               |    R$ 209    | ✅ Pago |
-| **Total gasto**                   | **R$ 1.509** |         |
+| 💊 Bupropiona 150mg (11/12)       |    R$ 50     | ✅ Pago |
+| 🌱 Peneira de terra (quintal)     |    R$ 40     | ✅ Pago |
+| 👨‍🌾 Warley (capina + poda 3 dias)  |   R$ 330     | ✅ Pago |
+| **Total gasto**                   | **R$ 1.929** |         |
 | **Saldo restante**                |   **R$ 0**   | 🔴 ZERO |
 
 ---
@@ -81,7 +84,7 @@
 
 | Item                |    Valor     | Por quê                                                                               | Status       |
 | ------------------- | :----------: | ------------------------------------------------------------------------------------- | ------------ |
-| 💧 Água mineral     |    R$ 80     | Fornecedor confirma que água de torneira não é potável para alimentos/animais/plantas | ⏳ Pendente  |
+| 💊 Bupropiona 150mg |    R$ 50     | Antidepressivo - ADQUIRIDO (11/12) ✅ | ✅ Pago     |
 | ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       | ✅ Pago      |
 | 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                                | ✅ Pago      |
 | 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19)         | ⏳ Bloqueado |
@@ -384,6 +387,7 @@ Quer ver os números brutos? Fazer sua própria análise?
 | 📔 [Diário de Bordo](./docs/diario.md)                   | Registro semanal da jornada (toda semana) |
 | 📖 [Crowdfunding do Livro](./docs/crowdfunding-livro.md) | Ajude a publicar "O Coração da Colmeia"   |
 | 💻 [Dev Freelancer](./docs/dev-freelancer.md)            | Contrate como desenvolvedor remoto        |
+| 🚨 [Crises de Saúde](./docs/crises-saude.md)             | Documentação real de episódios críticos   |
 | 📝 [Minha História](./docs/analise.md)                   | Quem sou, por que preciso, qual meu plano |
 | 🎮 [Projetos](./docs/projetos.md)                        | Krawz Arena + O Coração da Colmeia        |
 | ❓ [FAQ](./docs/faq.md)                                  | 50+ perguntas respondidas                 |

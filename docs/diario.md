@@ -438,7 +438,57 @@ Livro sai quando estiver pronto. Crowdfunding sai quando eu estiver pronto. Dev 
 
 ---
 
-## 📅 Semana 2 - 10 de dezembro de 2025 (Quarta-feira, noite) - ATUALIZADO
+## 📅 Semana 2 - 11 de dezembro de 2025 (Quinta-feira, tarde)
+
+**Belo Horizonte, 11 de Dezembro de 2025 - Dia 5**
+
+### ✅ BUPROPIONA FINALMENTE! + INVESTIMENTO NO QUINTAL
+
+**Hoje foi dia de resolver coisas importantes:**
+
+#### 💊 Bupropiona Adquirida (R$ 50)
+A amiga farmacêutica conseguiu! Comprei a bupropiona 150mg por R$ 50 - bem mais barato que os R$ 150 normais. Conseguimos acesso ao antidepressivo que tanto precisava. Isso vai ajudar MUITO com a depressão e ansiedade que estava amplificando as crises de asma.
+
+#### 🌱 Investimento no Quintal (R$ 370)
+Reconheci que **não consigo cuidar do quintal sozinho** - está grande demais, mato crescido, árvores precisam de poda. Isso gera stress (quintal feio = sensação de descontrole) e mata a criatividade.
+
+**Contratei Warley por 3 dias de trabalho em dezembro:**
+- **Valor:** R$ 330
+- **Escopo:** Capina completa + poda das árvores (pé de limão, buganvília)
+- **Comprei:** Peneira de terra (R$ 40) pra arrumar o solo depois
+
+**Filosofia:** Esse gasto não é "luxo". É:
+- ✅ Investimento na saúde mental (quintal organizado = tranquilidade)
+- ✅ Criação de ambiente adequado pra escrita do capítulo final
+- ✅ Suporte a outra pessoa (Warley ganha R$ 330, renda dele)
+- ✅ Sinal de que conseguimos além de sobreviver
+
+#### 📊 Posição Financeira Atualizada
+- **Crédito PicPay:** R$ 650 → **R$ 230** (depois de bupropiona, peneira, Warley)
+- **Gastos totais dezembro:** R$ 1.509 → **R$ 1.929**
+- **Ainda temos:** Alimentação garantida + medicação + crédito pra surpresas
+
+---
+
+### 🚨 Crise de Saúde Crítica (Manhã)
+
+Tive um episódio severo de asma + exaustão + enjoo que quase me derrubou. Documentei em vídeo (estar bem vai me ajudar a terminar o livro).
+
+Depois dessa crise, conversarei mais com a pastora e psiquiatra sobre isso.
+
+---
+
+### 💭 Reflexão
+
+Hoje percebi algo: **gastar dinheiro em coisas que melhoram a vida mental não é desperdício**.
+
+Podia estar economizando cada centavo. Mas sem bupropiona eu fico pior. Sem quintal limpo eu fico ansioso. Sem Warley ajudando eu gasto energia que preciso pra escrever.
+
+A verdade é: **qualidade de vida mental = produtividade = viabilidade dos projetos**.
+
+Se eu colapso, ninguém ganha.
+
+
 
 ### 📖 PRIORIDADE: TERMINAR O LIVRO! (MAS COM REALISMO)
 
