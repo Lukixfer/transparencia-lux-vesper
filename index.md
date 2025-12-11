@@ -74,7 +74,7 @@
 | 🌐 Internet (10/12)               |    R$ 209    | ✅ Pago |
 | 💊 Bupropiona 150mg (11/12)       |    R$ 50     | ✅ Pago |
 | 🌱 Peneira de terra (quintal)     |    R$ 40     | ✅ Pago |
-| 👨‍🌾 Warley (capina + poda 3 dias)  |   R$ 330     | ✅ Pago |
+| 👨‍🌾 Warley (capina + poda 3 dias)  |    R$ 330    | ✅ Pago |
 | **Total gasto**                   | **R$ 1.929** |         |
 | **Saldo restante**                |   **R$ 0**   | 🔴 ZERO |
 
@@ -82,16 +82,16 @@
 
 ### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
 
-| Item                |    Valor     | Por quê                                                                               | Status       |
-| ------------------- | :----------: | ------------------------------------------------------------------------------------- | ------------ |
-| 💊 Bupropiona 150mg |    R$ 50     | Antidepressivo - ADQUIRIDO (11/12) ✅ | ✅ Pago     |
-| ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)                       | ✅ Pago      |
-| 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                                | ✅ Pago      |
-| 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19)         | ⏳ Bloqueado |
-| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                                 | ✅ Coberto   |
-| **SUBTOTAL**        |  **R$ 80**   | **Água urgente (bupropiona depende de receita)**                                      |              |
-| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                                 |
-| **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                                |
+| Item                |    Valor     | Por quê                                                                       | Status       |
+| ------------------- | :----------: | ----------------------------------------------------------------------------- | ------------ |
+| 💊 Bupropiona 150mg |    R$ 50     | Antidepressivo - ADQUIRIDO (11/12) ✅                                         | ✅ Pago      |
+| ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)               | ✅ Pago      |
+| 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                        | ✅ Pago      |
+| 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19) | ⏳ Bloqueado |
+| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                         | ✅ Coberto   |
+| **SUBTOTAL**        |  **R$ 80**   | **Água urgente (bupropiona depende de receita)**                              |              |
+| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                         |
+| **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                        |
 
 ### 🟠 ATÉ 11-15/DEZEMBRO (PRIORIDADE ALTA)
 

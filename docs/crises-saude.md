@@ -14,11 +14,13 @@
 ### Descrição
 
 Episódio súbito que combina:
+
 - **🫁 Asma aguda** - dificuldade respiratória severa
 - **😵 Exaustão extrema** - corpo não responde
 - **🤢 Enjoo intenso** - quase vômito
 
 Essa combinação é **potencialmente letal** porque:
+
 1. Asma bloqueia respiração
 2. Exaustão impede mobilidade
 3. Enjoo causa desconforto extremo
@@ -37,21 +39,23 @@ Essa combinação é **potencialmente letal** porque:
 
 ## 📋 Histórico de Crises (Últimos 30 dias)
 
-| Data | Hora | Duração | Gatilho | Medicação |
-|------|------|---------|---------|-----------|
-| 11/12 | 11:40 | 15-20 min | Desconhecido | Inalador + repouso |
-| [Outras] | - | - | - | - |
+| Data     | Hora  | Duração   | Gatilho      | Medicação          |
+| -------- | ----- | --------- | ------------ | ------------------ |
+| 11/12    | 11:40 | 15-20 min | Desconhecido | Inalador + repouso |
+| [Outras] | -     | -         | -            | -                  |
 
 ---
 
 ## 💊 Medicações Utilizadas
 
 ### Durante Crise
+
 - ✅ Inalador de resgate (salbutamol)
 - ✅ Posição sentada/semi-recostada
 - ✅ Repouso total
 
 ### Prevenção
+
 - ✅ Umidificador 24/7
 - ✅ Lítio (estabilizador de humor = reduz stress = reduz asma)
 - ✅ Ansiolíticos (quando a ansiedade dispara a crise)
@@ -62,6 +66,7 @@ Essa combinação é **potencialmente letal** porque:
 ## 🏥 Por Que Isso Importa
 
 **Essas crises justificam:**
+
 - ✅ R$ 300/mês em umidificador (mantém ar úmido)
 - ✅ R$ 400/mês em natação (reforça pulmão)
 - ✅ R$ 80/mês em água mineral (evita irritação das vias)
@@ -70,11 +75,13 @@ Essa combinação é **potencialmente letal** porque:
 - ✅ Acompanhamento médico regular
 
 **Isso NÃO é:**
+
 - ❌ Dramatização
 - ❌ Preguiça
 - ❌ Busca por atenção
 
 **É:**
+
 - ✅ Doença crônica real
 - ✅ Documentação médica comprovada
 - ✅ Razão pela qual preciso de suporte
@@ -84,12 +91,14 @@ Essa combinação é **potencialmente letal** porque:
 ## 📊 Impacto na Vida
 
 **Imediatamente após crise:**
+
 - 2-4 horas impossibilitado de fazer qualquer coisa
 - Corpo dolorido
 - Cansaço extremo
 - Medo de nova crise
 
 **No longo prazo:**
+
 - Limitação de capacidade de trabalho
 - Necessidade de backup médico
 - Restrições alimentares (sem gatilhos)
@@ -100,11 +109,13 @@ Essa combinação é **potencialmente letal** porque:
 ## 🎯 O Que Você Pode Fazer
 
 Se você tem **expertise médica** e quer ajudar:
+
 - Sugestões de terapia/exercício
 - Recomendações de especialista
 - Protocolo de resposta a crise
 
 Se você quer **apoiar**:
+
 - Crowdfunding do livro (libera tempo pra cuidar da saúde)
 - Seja cliente dev freelancer (renda estável)
 - Compartilhe com comunidades médicas
