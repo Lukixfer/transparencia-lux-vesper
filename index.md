@@ -6,7 +6,7 @@
 
 <div align="center" style="background: #2196F3; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ✅ ATUALIZAÇÃO - 10 DE DEZEMBRO (NOITE)
+### ✅ ATUALIZAÇÃO - 12 DE DEZEMBRO
 
 🎉 **TIO CONFIRMOU: CUSTEIA GASTOS ODONTOLÓGICOS INDEFINIDAMENTE** 🎉  
 **Contribuição: R$ 470 (reembolso dentista já pago com cartão)**  
@@ -14,9 +14,9 @@
 
 > 🦷 **Seu tio é incrível:** Assim que soube que paguei dentista de emergência com cartão, enviou R$ 470 e confirmou que vai cobrir meus gastos odontológicos indefinidamente. Isso libera ~R$ 400-500/mês do orçamento para outras despesas críticas.
 
-> ⚠️ **Por que preciso de água mineral:**
+> ⚠️ **Saúde:**
 >
-> Tenho asma e mucoviscidose, e a água tratada daqui me faz passar mal (cloro forte e histórico de reações). Para beber, cozinhar e tomar remédios, só consigo usar **água mineral** sem risco de crise respiratória ou intestinal. Não é luxo, é saúde básica.
+> Passei a madrugada no hospital com suspeita de apendicite. Estou em observação e seguindo orientação médica. Detalhes em **Crises de Saúde**.
 
 ### 🤝 Gratidão pela ajuda — se quiser apoiar mais
 

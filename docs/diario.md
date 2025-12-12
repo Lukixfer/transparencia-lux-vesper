@@ -611,11 +611,13 @@ Sem esconder, sem fingir que tá tudo bem se não estiver.
 - Saí do hospital por **desconforto emocional** (gaslighting envolvendo terceiros e minha mãe). Vou buscar atendimento em **ambiente protegido**.
 
 **Plano imediato:**
+
 - Ligar 192 (SAMU) se a dor piorar, vier febre ou vômitos persistentes.
 - Hidratar com pequenos goles; alimentação leve apenas se tolerar.
 - Solicitar **atendimento sem acompanhantes** e apoio da assistência social/psicologia no hospital.
 
 **Impactos:**
+
 - Reduzir escrita e trabalho até estabilizar.
 - Adiar capina/podas se necessário.
 - Priorizar descanso e segurança emocional.

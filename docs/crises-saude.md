@@ -118,6 +118,39 @@ Se você quer **apoiar**:
 
 - Crowdfunding do livro (libera tempo pra cuidar da saúde)
 - Seja cliente dev freelancer (renda estável)
+
+---
+
+## 🏥 Incidente de 12 de Dezembro de 2025 — Suspeita de Apendicite
+
+**Data:** 12/12/2025 (madrugada)  
+**Local:** Hospital (atendimento de urgência)  
+**Status:** Suspeita clínica de apendicite — em observação
+
+### Sintomas relatados
+
+- Dor abdominal intensa (região inferior direita)
+- Náusea e mal-estar geral
+- Cansaço extremo
+
+### Conduta imediata
+
+- Avaliação clínica inicial
+- Recomendação de observação e exames complementares (ultrassom, laboratório)
+- Repouso, hidratação e sinais de alerta (febre, piora da dor, vômitos persistentes)
+
+### Próximos passos
+
+- Documentar resultados de exames no portal assim que disponíveis
+- Seguir orientação médica integralmente
+- Pausar cargas de trabalho intensas até estabilização
+
+> Transparência: este evento será atualizado com laudos/exames e condutas médicas conforme forem emitidos.
+
+### Nota sobre saída do hospital
+
+Saí do hospital (evasão) por **desconforto emocional** decorrente de situação de **gaslighting** envolvendo terceiros (Criss) e minha mãe, aproveitando minha vulnerabilidade no momento. Vou buscar atendimento em ambiente seguro e retornar à avaliação médica assim que possível.
+
 - Compartilhe com comunidades médicas
 
 ---
