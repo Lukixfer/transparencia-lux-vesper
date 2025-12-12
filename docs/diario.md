@@ -597,3 +597,27 @@ Sem esconder, sem fingir que tá tudo bem se não estiver.
 **Atualização semanal**: Todo sábado, ~14h (horário de Brasília)
 
 💜 [Voltar ao Portal](../index.md)
+
+---
+
+## 📅 Semana 2 - 12 de dezembro de 2025 (Sexta-feira)
+
+**Belo Horizonte, 12 de Dezembro de 2025 - Dia 6**
+
+### 🏥 Madrugada no hospital — suspeita de apendicite
+
+- Passei a madrugada na urgência com **dor abdominal intensa**, náusea e mal-estar geral.
+- **Suspeita de apendicite**: recomendado observação e exames (ultrassom/lab).
+- Saí do hospital por **desconforto emocional** (gaslighting envolvendo terceiros e minha mãe). Vou buscar atendimento em **ambiente protegido**.
+
+**Plano imediato:**
+- Ligar 192 (SAMU) se a dor piorar, vier febre ou vômitos persistentes.
+- Hidratar com pequenos goles; alimentação leve apenas se tolerar.
+- Solicitar **atendimento sem acompanhantes** e apoio da assistência social/psicologia no hospital.
+
+**Impactos:**
+- Reduzir escrita e trabalho até estabilizar.
+- Adiar capina/podas se necessário.
+- Priorizar descanso e segurança emocional.
+
+> Transparência: resultados de exames e condutas médicas serão registrados no portal.
