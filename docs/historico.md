@@ -14,12 +14,15 @@ Este arquivo registra todas as contribuições recebidas e pagamentos realizados
 
 ## Dezembro 2025
 
-### Resumo do Mês
+### Resumo do Mês (ATUALIZADO 12/12 - SITUAÇÃO CRÍTICA)
 
 - **Contribuições recebidas**: R$ 0,00
-- **Pagamentos realizados**: R$ 0,00
-- **Saldo inicial**: R$ 10,00 (PicPay)
-- **Saldo final**: R$ 10,00
+- **Pagamentos realizados**: R$ 2.348,00 (contas, dívidas, compras emergenciais)
+- **Gastos emergência (12/12)**: R$ 150,00 (água de coco para hidratação + Uber para hospital)
+- **Saldo inicial (PicPay)**: R$ 1.300,00 (crédito liberado 9/12)
+- **Saldo final (PicPay)**: R$ 80,00 ⚠️ **CRÍTICO**
+- **Dias de crédito restantes**: ~1 dia de emergências
+- **Status**: EMERGÊNCIA AGUDA - esgotamento de recursos, suspeita de apendicite, sem margem de segurança
 
 ### Situação de Dívidas
 

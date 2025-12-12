@@ -469,9 +469,9 @@ Reconheci que **não consigo cuidar do quintal sozinho** - está grande demais, 
 
 #### 📊 Posição Financeira Atualizada
 
-- **Crédito PicPay:** R$ 650 → **R$ 230** (depois de bupropiona, peneira, Warley)
+- **Crédito PicPay:** R$ 650 → **R$ 80** (depois de bupropiona, peneira, Warley, água de coco e Uber)
 - **Gastos totais dezembro:** R$ 1.509 → **R$ 1.929**
-- **Ainda temos:** Alimentação garantida + medicação + crédito pra surpresas
+- **Ainda temos:** Alimentação garantida + medicação; crédito mínimo (R$ 80)
 
 ---
 

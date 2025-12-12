@@ -36,7 +36,7 @@
 ║      POSIÇÃO FINANCEIRA (ATUALIZADO 10/12 - Noite)║
 ╠═══════════════════════════════════════════════════╣
 ║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
-║  💵 Crédito PicPay:................. R$ 230      ║
+║  💵 Crédito PicPay:................. R$ 80       ║
 ║  💵 TIO REEMBOLSO DENTISTA:......... R$ 470 ✅   ║
 ║  💧 Água mineral + limonada:....... 4 litros     ║
 ║  🥚 Ovos:.......................... 18 unidades  ║
@@ -48,7 +48,7 @@
 ║  📉 Despesas até 11/12:............ -R$ 80      ║
 ║  📉 Despesas 15-25/12:............ -R$ 1.695    ║
 ║  💳 Dívidas (Will+Nu+MEI):......... -R$ 1.710    ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 4.135   ║
+║  ⚠️  DÉFICIT total (restante):...... -R$ 4.285   ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
@@ -178,72 +178,73 @@
 
 ---
 
-## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA
+## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA (ATUALIZADO 12/12)
 
-> **Amanhã (9/12) - Crédito PicPay libera:**
->
-> - Compro bupropiona URGENTE (R$ 45)
-> - Pago Will Bank (R$ 700)
-> - Pago NuBank (R$ 110)
-> - Restante: ~R$ 145 em crédito disponível
+⚠️ **SITUAÇÃO CRÍTICA:** Crédito PicPay caiu de R$ 230 para R$ 80 por gastos de emergência (água de coco para hidratação, Uber para transporte médico urgente). **Sem margem de segurança.**
 
-> **Dia 11/12:** Usar Will para pagar dentista (R$ 470)
->
-> **Semana que vem (14-15/12):** Promessa de +R$ 1.000 (família)
->
-> - Nessa terceira semana: pagar contas da casa (água + luz + internet = R$ 589)
-> - Alimentação + Farmácia + Oxigênio
-> - Devolver Criss (R$ 100)
+**O que foi feito até 12/12:**
 
-**Fluxo planejado:**
+- ✅ **9/12:** Paguei Will Bank (R$ 700) e NuBank (R$ 110) com crédito PicPay
+- ✅ **10/12:** Paguei luz (R$ 300) e internet (R$ 209) com crédito PicPay
+- ✅ **11/12:** Comprei bupropiona (R$ 50), peneira (R$ 40), paguei Warley (R$ 330)
+- ⚠️ **12/12:** Emergência de saúde → água de coco (hidratação) + Uber (transporte urgente) consumiu R$ 150 de crédito
 
-1. **Dia 9/12:** Crédito PicPay (bupropiona + dívidas = R$ 855)
-2. **Dia 14-15/12:** +R$ 1.000 (família) → contas essenciais + supermercado
-3. **Dia 20-25/12:** Último ajuste para MEI + emergências
+**Fluxo real até agora:**
 
-**Total necessário até 25/12: R$ 3.204**
+- Crédito inicial: R$ 1.300
+- Menos pagamentos (Will + Nu + luz + internet): R$ 1.219
+- Menos compras (bupropiona + peneira + Warley): R$ 420
+- Menos emergência (água de coco + Uber): R$ 150
+- **Restante: R$ 80** (sem margem)
 
-- Contas: R$ 589
-- Dívidas (Will + Nu + Dentista + Criss + MEI): R$ 2.380 (inclui dentista via Will dia 11)
-- Comida: R$ 700
+**NECESSÁRIO IMEDIATAMENTE:**
+
+- 🚨 **Doações urgentes:** R$ 1.000+ para sustentar até fim de mês
+- 🚨 **Prioridade 1:** Alimentação (estoque baixo)
+- 🚨 **Prioridade 2:** Medicação (farmácia no dia 25)
+- 🚨 **Prioridade 3:** Contas (água vence dia 20, MEI vence 25)
+
+**Total necessário até 25/12: R$ 3.204** (sem mudança nos gastos essenciais)
+
+- Contas (água + luz + internet): R$ 589
+- Alimentação: R$ 700
 - Farmácia: R$ 200
-- Devolver Criss: R$ 100
 - Oxigênio: R$ 100
-- Geladeira: R$ 150-500
-- MEI: R$ 900
+- Devolver Criss: R$ 100
+- Dívidas cartões/MEI: R$ 815
+- Geladeira (se possível): R$ 150-500
 
-**Prioridades (nessa ordem):**
+**Cronograma restante:**
 
-1. ✅ Bupropiona (amanhã)
-2. ✅ Will Bank + NuBank (amanhã)
-3. Contas da casa (próxima semana, após +R$1.000)
-4. Comida + Farmácia
-5. Devolver Criss antes de 25/12
-6. MEI (se sobrar após essenciais)
+1. 🔴 **Agora (12/12):** R$ 80 em crédito = ~1 dia de emergência
+2. 🔴 **Próx. 48h (até 14/12):** Risco crítico sem apoio
+3. 📅 **Dia 15/12:** Promessa de +R$ 1.000 (família) — essencial para não colapsar
+4. 📅 **Dia 20-25/12:** Último ajuste para contas + MEI
 
-**Sem isso:**
+**Prioridades AGORA:**
 
-- ❌ Criss não recupera seu dinheiro
-- ❌ Contas vencem dia 11 → multa + juros
-- ❌ Sem bupropiona (já tá crítico)
-- ❌ Impossível trabalhar nos projetos
+1. 🚨 Qualquer apoio imediato (alimentação, hidratação, transporte médico)
+2. 🔥 Buscar +R$ 1.000 da família para dia 15 (já prometido)
+3. 📞 Manter comunicação com pastora (segurança emocional)
 
 ---
 
-## 💝 IMPACTO DO SEU APOIO
+## 💝 IMPACTO DO SEU APOIO (ATUALIZADO 12/12 - CRÍTICO)
 
-| Valor        | O Que Acontece          | Prazo             | Impacto                                 |
-| ------------ | ----------------------- | ----------------- | --------------------------------------- |
-| **R$ 50**    | 💧 Parte da água do mês | Imediato          | +5 dias de água                         |
-| **R$ 80**    | 💧 Água completa        | Até 11/12         | Evita corte por 1 mês                   |
-| **R$ 100**   | ⚡ Parte da luz         | Até 11/12         | +10 dias de umidificador                |
-| **R$ 300**   | ⚡ Luz completa         | Até 11/12         | Umidificador rodando tudo mês           |
-| **R$ 1.104** | 💧 + ⚡ + 🌐 + 💊 + 🦷  | **CRÍTICO 11/12** | **Serviços + bupropiona + dentista** ✨ |
-| **R$ 1.000** | 💳 Cartão + crédito     | Até 15/12         | Respira uma semana                      |
-| **R$ 1.679** | Essenciais completo     | Até 15/12         | Passa com segurança                     |
-| **R$ 2.534** | Mês inteiro             | Até 25/12         | Autonomia janeiro                       |
-| **R$ 3.434** | + MEI atrasado          | Até 25/12         | Fica em dia com governo                 |
-| **R$ 4.534** | TUDO (dívidas + mês)    | Até 25/12         | Zera tudo dezembro                      |
+⚠️ **Cenário agora é mais crítico:** Crédito esgotado por emergência de saúde (2 litros de água de coco para hidratação + Uber para hospital).
+
+| Valor        | O Que Acontece              | Prazo                   | Impacto                               |
+| ------------ | --------------------------- | ----------------------- | ------------------------------------- |
+| **R$ 50**    | 💧 Água / 🍽️ Comida rápida  | Hoje/Amanhã (12-13)     | +1-2 dias de sobrevivência            |
+| **R$ 100**   | 💧 Parte da água/comida     | Até 14/12               | +3-4 dias                             |
+| **R$ 200**   | 🍽️ Marmitex (10 dias)       | Até 14/12               | Alimentação até meio da semana        |
+| **R$ 500**   | 🍽️ Comida + 💊 Farmácia     | Até 15/12               | Passa essa semana                     |
+| **R$ 1.000** | 💧 + 🍽️ + ⚡ (até 20/12)    | Até 15/12 (**CRÍTICO**) | **Evita colapso; respira uma semana** |
+| **R$ 1.500** | Essenciais + dívidas        | Até 20/12               | Passa até Natal com segurança         |
+| **R$ 2.000** | Mês inteiro (sem geladeira) | Até 25/12               | Autonomia janeiro                     |
+| **R$ 2.500** | + Geladeira (parcial)       | Até 25/12               | Mês + reparo emergencial              |
+| **R$ 3.204** | **Dezembro completo**       | Até 25/12 (**IDEAL**)   | **Zera tudo, novo ano limpo**         |
+| **R$ 4.534** | + MEI + folga extra         | Até 25/12               | Tranquilidade total                   |
 
 ---
 
