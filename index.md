@@ -15,6 +15,7 @@
 > 🏥 **O que aconteceu:** A suspeita de apendicite confirmou-se. Fui operado na noite de 13/12 no Hospital Unimed em Betim. Estou em pós-operatório imediato e preciso de apoio financeiro urgente para me recuperar em casa — sem isso, preciso ficar internado na clínica por mais tempo.
 
 > 💊 **Para recuperar em casa preciso de:**
+>
 > - Medicações pós-operatórias (analgésicos, antibióticos): R$ 200-300
 > - Alimentação leve/adequada para recuperação: R$ 300-400
 > - Transporte para retornos médicos: R$ 100-150
