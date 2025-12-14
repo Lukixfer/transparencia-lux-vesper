@@ -151,11 +151,54 @@ Se você quer **apoiar**:
 
 Saí do hospital (evasão) por **desconforto emocional** decorrente de situação de **gaslighting** envolvendo terceiros (Criss) e minha mãe, aproveitando minha vulnerabilidade no momento. Vou buscar atendimento em ambiente seguro e retornar à avaliação médica assim que possível.
 
-- Compartilhe com comunidades médicas
+---
+
+## 🏥 ATUALIZAÇÃO CRÍTICA — 13 de Dezembro de 2025 — CIRURGIA DE APENDICITE REALIZADA
+
+**Data:** 13/12/2025 (noite)  
+**Local:** Hospital Unimed - Betim, MG  
+**Procedimento:** Cirurgia de apendicite (apendicectomia)  
+**Status:** ✅ OPERADO — Pós-operatório imediato
+
+### Evolução do caso
+
+Após a piora dos sintomas em 12/12 (dor abdominal pungente, febre, fraqueza extrema), fui ao Hospital Unimed em Betim na tarde de 13/12. A suspeita de apendicite foi confirmada e a cirurgia foi realizada durante a noite de 13/12.
+
+### Situação pós-operatória URGENTE
+
+⚠️ **NECESSIDADE CRÍTICA DE APOIO AGORA:**
+
+Estou em recuperação pós-cirúrgica e preciso de **apoio financeiro imediato** para conseguir me recuperar em casa. Sem apoio, vou precisar ficar internado na clínica por mais tempo, o que aumenta custos e riscos.
+
+**Para recuperação em casa, preciso de:**
+
+- 💊 Medicações pós-operatórias (analgésicos, antibióticos prescritos)
+- 🍽️ Alimentação leve e adequada para recuperação cirúrgica
+- 🚕 Transporte para retornos médicos e acompanhamento
+- 💧 Hidratação e cuidados básicos
+- 🏠 Ambiente seguro para repouso (sem esforço físico)
+
+**Custo estimado para recuperação em casa (próximos 7-10 dias):**
+
+- Medicações: R$ 200-300
+- Alimentação especial: R$ 300-400
+- Transporte/retornos: R$ 100-150
+- **Total necessário: R$ 600-850**
+
+### Próximos passos
+
+- Alta médica nos próximos dias (dependendo de avaliação)
+- Repouso absoluto por 7-14 dias (sem esforço físico)
+- Retornos para acompanhamento e retirada de pontos
+- Pausar 100% projetos/trabalho até recuperação
+
+**APELO URGENTE:** Se você pode ajudar agora, qualquer valor permite que eu me recupere em casa com dignidade e segurança, em vez de depender de internação prolongada.
+
+**PIX:** 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
 
 ---
 
-_Última atualização: 11 de dezembro de 2025_  
-_Próxima documentação: quando houver nova crise importante_
+_Última atualização: 14 de dezembro de 2025_  
+_Próxima documentação: evolução pós-operatória e retornos médicos_
 
 💜 Transparência radical inclui mostrar a realidade, mesmo quando é desconfortável.

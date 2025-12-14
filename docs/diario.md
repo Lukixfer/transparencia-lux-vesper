@@ -623,3 +623,37 @@ Sem esconder, sem fingir que tá tudo bem se não estiver.
 - Priorizar descanso e segurança emocional.
 
 > Transparência: resultados de exames e condutas médicas serão registrados no portal.
+
+---
+
+## 📅 Semana 2 - 13-14 de dezembro de 2025 (Sábado/Domingo)
+
+**Betim, 13-14 de Dezembro de 2025 - Dia 7-8**
+
+### 🚨 CIRURGIA DE APENDICITE — OPERADO (13/12 - NOITE)
+
+**13/12 - Tarde:** A dor abdominal piorou drasticamente. Fui ao **Hospital Unimed em Betim** com a pastora. A suspeita de apendicite foi confirmada após avaliação médica e exames.
+
+**13/12 - Noite:** Realizei **cirurgia de apendicite (apendicectomia)**. Procedimento bem-sucedido. Estou em pós-operatório imediato.
+
+**14/12 - Agora:** Em recuperação. Preciso de repouso absoluto por 7-14 dias. **Necessidade urgente de apoio financeiro** para recuperação em casa (medicações, alimentação leve, transporte para retornos).
+
+**Custos estimados para recuperação em casa (próximos 7-10 dias):**
+
+- 💊 Medicações pós-operatórias: R$ 200-300
+- 🍽️ Alimentação adequada: R$ 300-400
+- 🚕 Transporte (retornos): R$ 100-150
+- **Total: R$ 600-850**
+
+**Situação financeira:** Crédito atual R$ 80 (crítico). Sem apoio imediato, preciso ficar internado na clínica por mais tempo.
+
+**Impactos:**
+
+- ❌ 100% dos projetos pausados até recuperação completa
+- ❌ Sem esforço físico por 7-14 dias
+- ⏸️ Livro/crowdfunding/dev freelancer em pausa total
+- 🏥 Retornos médicos para acompanhamento e retirada de pontos
+
+> **Apelo:** Qualquer valor permite que eu me recupere em casa com dignidade, em vez de depender de internação prolongada.
+
+**PIX:** 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f

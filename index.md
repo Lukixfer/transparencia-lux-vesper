@@ -6,22 +6,28 @@
 
 <div align="center" style="background: #2196F3; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### ✅ ATUALIZAÇÃO - 12 DE DEZEMBRO
+### 🚨 ATUALIZAÇÃO CRÍTICA - 14 DE DEZEMBRO - PÓS-OPERATÓRIO
 
-🎉 **TIO CONFIRMOU: CUSTEIA GASTOS ODONTOLÓGICOS INDEFINIDAMENTE** 🎉  
-**Contribuição: R$ 470 (reembolso dentista já pago com cartão)**  
-**Impacto:** Dentista indefinidamente sem preocupação + R$ 400-500/mês liberados
+⚠️ **CIRURGIA DE APENDICITE REALIZADA (13/12 - UNIMED BETIM)** ⚠️  
+**Status:** ✅ OPERADO — Recuperação pós-cirúrgica imediata  
+**Necessidade URGENTE:** R$ 600-850 para recuperação em casa
 
-> 🦷 **Seu tio é incrível:** Assim que soube que paguei dentista de emergência com cartão, enviou R$ 470 e confirmou que vai cobrir meus gastos odontológicos indefinidamente. Isso libera ~R$ 400-500/mês do orçamento para outras despesas críticas.
+> 🏥 **O que aconteceu:** A suspeita de apendicite confirmou-se. Fui operado na noite de 13/12 no Hospital Unimed em Betim. Estou em pós-operatório imediato e preciso de apoio financeiro urgente para me recuperar em casa — sem isso, preciso ficar internado na clínica por mais tempo.
 
-> ⚠️ **Saúde:**
->
-> Passei a madrugada no hospital com suspeita de apendicite. Estou em observação e seguindo orientação médica. Detalhes em **Crises de Saúde**.
+> 💊 **Para recuperar em casa preciso de:**
+> - Medicações pós-operatórias (analgésicos, antibióticos): R$ 200-300
+> - Alimentação leve/adequada para recuperação: R$ 300-400
+> - Transporte para retornos médicos: R$ 100-150
+> - **Total necessário: R$ 600-850** (próximos 7-10 dias)
 
-### 🤝 Gratidão pela ajuda — se quiser apoiar mais
+> 🎉 **TIO CONFIRMOU: CUSTEIA GASTOS ODONTOLÓGICOS INDEFINIDAMENTE**  
+> **Contribuição anterior: R$ 470** (reembolso dentista já pago com cartão)  
+> **Impacto:** Dentista indefinidamente sem preocupação + R$ 400-500/mês liberados
+
+### 🚨 APELO URGENTE — QUALQUER VALOR AJUDA AGORA
 
 **PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Nota:** Estamos bem abastecidos graças a vocês. Toda ajuda extra acelera o livro e fecha pendências.
+**Situação:** Crédito esgotado (R$ 80 restantes), pós-cirúrgico, sem margem para medicação/alimentação adequada.
 
 </div>
 
