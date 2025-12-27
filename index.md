@@ -25,7 +25,7 @@
 
 | Data  | Origem  | Valor  | Observação                             |
 | ----- | ------- | ------ | -------------------------------------- |
-| 02/01 | Família | R$2000 | Parcial do prometido (faltam R$ 2.000) |
+| 02/01 | Família | R$2000 | Prometido R$ 4.000 para 02/01, só metade recebida até agora |
 
 ## 🚨 Situação Atual
 
@@ -74,9 +74,6 @@ Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital p
 
 ## 💳 ESTRATÉGIA DE SOBREVIVÊNCIA (ATUALIZADO 12/12)
 
-⚠️ **SITUAÇÃO CRÍTICA:** Crédito PicPay caiu de R$ 230 para R$ 80 por gastos de emergência (água de coco para hidratação, Uber para transporte médico urgente). **Sem margem de segurança.**
-
-**O que foi feito até 12/12:**
 
 - ✅ **9/12:** Paguei Will Bank (R$ 700) e NuBank (R$ 110) com crédito PicPay
 - ✅ **10/12:** Paguei luz (R$ 300) e internet (R$ 209) com crédito PicPay
