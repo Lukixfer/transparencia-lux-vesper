@@ -22,13 +22,17 @@ Seu apoio me ajuda a superar este momento difícil e você ainda recebe um site 
 
 Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pós-operatório difícil, sozinho e sem condições físicas ou emocionais para trabalhar. Todos os projetos criativos e profissionais estão parados por falta de verba e saúde.
 
+**ATUALIZAÇÃO URGENTE (27/12):**
+
+- A água mineral acabou completamente. Não há mais estoque para hidratação.
+- Estou com dores intensas e sem condições físicas de sair para comprar água ou suprimentos.
+- O quadro de saúde se agravou devido ao estresse extremo causado por perseguição e abandono, sendo necessário buscar atendimento médico (Unimed) para investigar novos sintomas.
+
 A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
 
 ## 💸 Saldo disponível
 
-### Saldo disponível
-
-R$ 88 em conta
+Saldo atual em conta: **R$ 88**
 
 ## 💳 Dívidas Atuais
 
@@ -47,7 +51,7 @@ R$ 88 em conta
 
 ## 🏥 Estoques Vitais
 
-- **Água mineral:** apenas 1L (preciso comprar urgente)
+- **Água mineral:** acabou (sem estoque)
 - **Alimentação:** 1kg de pão de queijo (meu cardápio de hoje)
 - **Medicação:** estoque completo de remédios essenciais
 
