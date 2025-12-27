@@ -130,24 +130,6 @@ Contato: (removido para privacidade)
 
 ---
 
-## 📈 Distribuição das Despesas
-
-**Hoje faltam:**
-
-- 🔴 **R$ 1.104 (CRÍTICO até dia 11):** Água + Luz + Internet + Bupropiona + Dentista
-- 🟠 **R$ 1.000 (até dia 15):** Farmácia + Comida + Oxigênio
-- 🟡 **R$ 900 (até dia 25):** Faxina + Dermatologia (podem esperar)
-
-**Cenários de autonomia**
-
-| Horizonte | O que destrava                | Pré-requisitos                                                    |
-| --------- | ----------------------------- | ----------------------------------------------------------------- |
-| 24 meses  | Receita própria cobre básicos | Livro publicado + canal monetizado + beta do Arena com comunidade |
-| 30 meses  | Margem de segurança           | Livro rodando + músicas regulares + alpha/beta do Arena estável   |
-| 36 meses  | Autonomia com folga           | Diversificação plena (livro + jogo + canal) e reservas            |
-
----
-
 ## 👤 Quem Sou
 
 **Lucas Lopes Dornas** (Lux Vesper)
