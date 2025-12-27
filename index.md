@@ -4,31 +4,6 @@
 
 ## 🚨 Situação Atual
 
-- Pós-operatório de apendicite (13/12), recuperação difícil, sozinho, sem condições de trabalho físico ou renda.
-- Saúde física e emocional abalada. Todos os projetos criativos e profissionais estão parados por falta de verba e condições.
-- Faxina paga (R$ 300) não foi feita corretamente, casa segue suja, roupas e utensílios em mau estado.
-
-## 💸 Saldo disponível
-
-- R$ 88 em conta
-
-## 💳 Dívidas Atuais
-
-| Item        | Valor    | Vencimento    |
-| ----------- | -------- | ------------- |
-| PicPay      | R$ 1.471 | 08/01/2026    |
-| 99app       | R$ 230   | vencida 17/12 |
-| Nubank      | R$ 1.080 | 26/01/2026    |
-| MEI + Multa | R$ 900   | pendente      |
-
-## 💰 Recebimentos Recentes
-
-| Data  | Origem  | Valor  | Observação                                                  |
-| ----- | ------- | ------ | ----------------------------------------------------------- |
-| 02/01 | Família | R$2000 | Prometido R$ 4.000 para 02/01, só metade recebida até agora |
-
-## 🚨 Situação Atual
-
 Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pós-operatório difícil, sozinho e sem condições físicas ou emocionais para trabalhar. Todos os projetos criativos e profissionais estão parados por falta de verba e saúde.
 
 A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
@@ -48,15 +23,17 @@ A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e 
 
 ## 💰 Recebimentos Recentes
 
-| Data  | Origem  | Valor  | Observação                             |
-| ----- | ------- | ------ | -------------------------------------- |
-| 02/01 | Família | R$2000 | Parcial do prometido (faltam R$ 2.000) |
+| Data  | Origem  | Valor  | Observação                                                  |
+| ----- | ------- | ------ | ----------------------------------------------------------- |
+| 02/01 | Família | R$2000 | Prometido R$ 4.000 para 02/01, só metade recebida até agora |
 
 ## 🏥 Estoques Vitais
 
 - **Água mineral:** apenas 1L (preciso comprar urgente)
 - **Alimentação:** 1kg de pão de queijo (meu cardápio de hoje)
 - **Medicação:** estoque completo de remédios essenciais
+
+> Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo é o cardápio — um pequeno alívio em meio ao caos.
 
 > Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo é o cardápio — um pequeno alívio em meio ao caos.
 
@@ -116,25 +93,6 @@ Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital p
 1. 🚨 Qualquer apoio imediato (alimentação, hidratação, transporte médico)
 2. 🔥 Buscar +R$ 1.000 da família para dia 15 (já prometido)
 3. 📞 Manter comunicação com pastora (segurança emocional)
-
----
-
-## 💝 IMPACTO DO SEU APOIO (ATUALIZADO 12/12 - CRÍTICO)
-
-⚠️ **Cenário agora é mais crítico:** Crédito esgotado por emergência de saúde (2 litros de água de coco para hidratação + Uber para hospital).
-
-| Valor        | O Que Acontece              | Prazo                   | Impacto                               |
-| ------------ | --------------------------- | ----------------------- | ------------------------------------- |
-| **R$ 50**    | 💧 Água / 🍽️ Comida rápida  | Hoje/Amanhã (12-13)     | +1-2 dias de sobrevivência            |
-| **R$ 100**   | 💧 Parte da água/comida     | Até 14/12               | +3-4 dias                             |
-| **R$ 200**   | 🍽️ Marmitex (10 dias)       | Até 14/12               | Alimentação até meio da semana        |
-| **R$ 500**   | 🍽️ Comida + 💊 Farmácia     | Até 15/12               | Passa essa semana                     |
-| **R$ 1.000** | 💧 + 🍽️ + ⚡ (até 20/12)    | Até 15/12 (**CRÍTICO**) | **Evita colapso; respira uma semana** |
-| **R$ 1.500** | Essenciais + dívidas        | Até 20/12               | Passa até Natal com segurança         |
-| **R$ 2.000** | Mês inteiro (sem geladeira) | Até 25/12               | Autonomia janeiro                     |
-| **R$ 2.500** | + Geladeira (parcial)       | Até 25/12               | Mês + reparo emergencial              |
-| **R$ 3.204** | **Dezembro completo**       | Até 25/12 (**IDEAL**)   | **Zera tudo, novo ano limpo**         |
-| **R$ 4.534** | + MEI + folga extra         | Até 25/12               | Tranquilidade total                   |
 
 ---
 
