@@ -13,6 +13,7 @@ Faço sites modernos, responsivos, fáceis de atualizar e com excelente desempen
 
 Se quiser um orçamento ou tirar dúvidas, entre em contato pelo e-mail: **lux@krawz.net**
 Seu apoio me ajuda a superar este momento difícil e você ainda recebe um site de alta qualidade.
+
 # 🌟 Portal da Transparência - Lux Vesper
 
 > **Atualização: 27 de dezembro de 2025**
