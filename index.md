@@ -1,3 +1,18 @@
+## 💻 Precisa de um site profissional?
+
+Se você gostou do visual e da organização do site [ctvidanova.org](https://ctvidanova.org), saiba que posso criar algo do mesmo nível para você, sua empresa, igreja ou projeto!
+
+Faço sites modernos, responsivos, fáceis de atualizar e com excelente desempenho. O serviço inclui:
+
+- Design personalizado
+- Integração com redes sociais
+- Área de notícias/blog
+- Galeria de fotos e vídeos
+- Formulários de contato
+- Otimização para Google
+
+Se quiser um orçamento ou tirar dúvidas, entre em contato pelo e-mail: **lux@krawz.net**
+Seu apoio me ajuda a superar este momento difícil e você ainda recebe um site de alta qualidade.
 # 🌟 Portal da Transparência - Lux Vesper
 
 > **Atualização: 27 de dezembro de 2025**
