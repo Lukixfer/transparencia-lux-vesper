@@ -23,9 +23,9 @@ A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e 
 
 ## 💰 Recebimentos Recentes
 
-| Data  | Origem  | Valor  | Observação                                                  |
-| ----- | ------- | ------ | ----------------------------------------------------------- |
-| 02/01 | Família | R$0    | Prometido R$ 4.000 para 02/01, mas nada recebido até agora |
+| Data  | Origem  | Valor | Observação                                                 |
+| ----- | ------- | ----- | ---------------------------------------------------------- |
+| 02/01 | Família | R$0   | Prometido R$ 4.000 para 02/01, mas nada recebido até agora |
 
 ## 🏥 Estoques Vitais
 
@@ -294,27 +294,6 @@ Quer ver os números brutos? Fazer sua própria análise?
 ---
 
 <div align="center">
-
-## 🆘 SITUAÇÃO CRÍTICA (ATUALIZADO 9/12)
-
-**Tenho R$ 0,00 em caixa (usei o físico para pagar Criss)**  
-**2 dias de água (4L + 1L limonada caseira)**  
-**2-3 dias de comida (bolo + ovos)**  
-**Crédito PicPay liberado: R$ 1.300 (vou pagar Will dia 10 e usar limite para dentista dia 11)**  
-**Preciso de R$ 1.104 até dia 11 (água + luz + internet + bupropiona + dentista)**
-
-**PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Contato:** (removido para privacidade)
-
----
-
-**Mantido com 💜 por Lux Vesper**
-
-_Última atualização: 8 de dezembro de 2025, tarde_  
-_Próxima atualização semanal: 14 de dezembro de 2025, ~14h_
-
-📔 **[Ler Diário de Bordo](./docs/diario.md)** - Registro semanal da jornada  
-📸 **[Ver Galeria](./docs/galeria.md)** - Fotos reais da situação atual
 
 📧 **Contato:** (removido para privacidade) | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
 
