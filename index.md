@@ -4,31 +4,37 @@
 
 ---
 
-<div align="center" style="background: #2196F3; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
+<div align="center" style="background: #E53935; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
 
-### 🚨 ATUALIZAÇÃO CRÍTICA - 14 DE DEZEMBRO - PÓS-OPERATÓRIO
+### 🚨 ATUALIZAÇÃO URGENTE — 27 DE DEZEMBRO DE 2025
 
-⚠️ **CIRURGIA DE APENDICITE REALIZADA (13/12 - UNIMED BETIM)** ⚠️  
-**Status:** ✅ OPERADO — Recuperação pós-cirúrgica imediata  
-**Necessidade URGENTE:** R$ 600-850 para recuperação em casa
+⚠️ **PÓS-OPERATÓRIO DE APENDICITE — RECUPERAÇÃO CRÍTICA** ⚠️  
+**Status:** Operado de apendicite (13/12), em casa, com limitações físicas severas e sem apoio presencial.  
+**Necessidade URGENTE:** Ajuda financeira para sobreviver ao pós-operatório — alimentação, medicação, contas básicas e dívidas.
 
-> 🏥 **O que aconteceu:** A suspeita de apendicite confirmou-se. Fui operado na noite de 13/12 no Hospital Unimed em Betim. Estou em pós-operatório imediato e preciso de apoio financeiro urgente para me recuperar em casa — sem isso, preciso ficar internado na clínica por mais tempo.
-
-> 💊 **Para recuperar em casa preciso de:**
+> 🏥 **Situação real:**
 >
-> - Medicações pós-operatórias (analgésicos, antibióticos): R$ 200-300
-> - Alimentação leve/adequada para recuperação: R$ 300-400
-> - Transporte para retornos médicos: R$ 100-150
-> - **Total necessário: R$ 600-850** (próximos 7-10 dias)
+> - Recuperação difícil, sozinho, sem condições de trabalho físico ou renda imediata.
+> - Faxina paga (R$ 300) não foi realizada adequadamente, gerando mais prejuízo: casa segue suja, roupas e utensílios em mau estado.
+> - Sinto-me sabotado e sem rede de apoio efetiva.
 
-> 🎉 **TIO CONFIRMOU: CUSTEIA GASTOS ODONTOLÓGICOS INDEFINIDAMENTE**  
-> **Contribuição anterior: R$ 470** (reembolso dentista já pago com cartão)  
-> **Impacto:** Dentista indefinidamente sem preocupação + R$ 400-500/mês liberados
+### 💸 **Saldo disponível:** R$ 88
 
-### 🚨 APELO URGENTE — QUALQUER VALOR AJUDA AGORA
+### 💳 **Dívidas e pendências:**
+
+> - **PicPay:** R$ 1.471 (vence 08/01/2026)
+> - **99app:** R$ 230 (vencida desde 17/12)
+> - **Nubank:** R$ 1.080 (vence 26/01/2026)
+> - **Imposto de renda MEI:** pendente
+
+### 💬 **Promessa familiar:**
+
+> - Família prometeu enviar R$ 4.000 em 02/01/2026 (aguardando confirmação)
+
+### 🚨 **APELO URGENTE — QUALQUER VALOR AJUDA AGORA**
 
 **PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Situação:** Crédito esgotado (R$ 80 restantes), pós-cirúrgico, sem margem para medicação/alimentação adequada.
+**Situação:** Pós-operatório, saldo insuficiente, dívidas acumuladas, sem condições de trabalho. Toda ajuda é vital para garantir alimentação, medicação e sobrevivência digna neste momento.
 
 </div>
 
