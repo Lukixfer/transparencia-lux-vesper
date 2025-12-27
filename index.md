@@ -80,35 +80,28 @@ Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital p
 - Menos emergência (água de coco + Uber): R$ 150
 - **Restante: R$ 80** (sem margem)
 
-**NECESSÁRIO IMEDIATAMENTE:**
+**NECESSÁRIO AGORA (27/12):**
 
-- 🚨 **Doações urgentes:** R$ 1.000+ para sustentar até fim de mês
-- 🚨 **Prioridade 1:** Alimentação (estoque baixo)
-- 🚨 **Prioridade 2:** Medicação (farmácia no dia 25)
-- 🚨 **Prioridade 3:** Contas (água vence dia 20, MEI vence 25)
+- 🚨 **Doações urgentes:** R$ 1.000+ para garantir alimentação, água, medicação e quitar dívidas atrasadas.
+- 🚨 **Prioridade 1:** Alimentação (estoque baixo e sem previsão de reposição)
+- 🚨 **Prioridade 2:** Água mineral (estoque crítico)
+- 🚨 **Prioridade 3:** Medicação (estoque atual, mas sem margem para reposição)
+- 🚨 **Prioridade 4:** Quitar dívidas vencidas (PicPay, 99app, Nubank, MEI)
 
-**Total necessário até 25/12: R$ 3.204** (sem mudança nos gastos essenciais)
+**Total necessário imediato: R$ 3.204** (gastos essenciais e dívidas acumuladas)
 
 - Contas (água + luz + internet): R$ 589
 - Alimentação: R$ 700
 - Farmácia: R$ 200
 - Oxigênio: R$ 100
-- Devolver Criss: R$ 100
 - Dívidas cartões/MEI: R$ 815
 - Geladeira (se possível): R$ 150-500
 
-**Cronograma restante:**
+**Situação atual:**
 
-1. 🔴 **Agora (12/12):** R$ 80 em crédito = ~1 dia de emergência
-2. 🔴 **Próx. 48h (até 14/12):** Risco crítico sem apoio
-3. 📅 **Dia 15/12:** Promessa de +R$ 1.000 (família) — essencial para não colapsar
-4. 📅 **Dia 20-25/12:** Último ajuste para contas + MEI
-
-**Prioridades AGORA:**
-
-1. 🚨 Qualquer apoio imediato (alimentação, hidratação, transporte médico)
-2. 🔥 Buscar +R$ 1.000 da família para dia 15 (já prometido)
-3. 📞 Manter comunicação com pastora (segurança emocional)
+- Sem renda, saúde abalada, dívidas acumuladas e estoques vitais no limite.
+- Promessa de apoio familiar não cumprida até o momento.
+- Toda ajuda é vital e documentada em tempo real.
 
 ---
 
@@ -133,16 +126,19 @@ R$ 0 em caixa        💧 SEM ÁGUA         ⚠️ VENCIMENTO       +Farmácia
 ```
 Chave Pix (Aleatória): 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
 Nome: Lucas Lopes Dornas
-Contato: (removido para privacidade)
+Contato: lux@krawz.net
 ```
 
 **Escolha seu impacto:**
 
-- **Mínimo (R$ 50-100):** Ajuda com água/luz por alguns dias
-- **Crítico (R$ 1.104):** Água + Luz + Internet + Bupropiona + Dentista até dia 11 ✨
-- **Essencial (R$ 1.334):** Contas + Comida + Farmácia até dia 25 (inclui devolver Criss)
-- **Completo (R$ 2.734):** Fecha dezembro todo + quitação Criss + dívidas
-- **Qualquer valor:** Ajuda, é registrado no histórico e faz diferença real
+**Como sua ajuda faz diferença:**
+
+**Como sua ajuda faz diferença (Dez/2025):**
+
+> **Situação atual:** Sem renda, saúde abalada, dívidas acumuladas e estoques vitais no limite. Cada apoio é vital e documentado em tempo real.
+
+**Sobre a Criss:**
+Já quitei toda dívida com a Criss. Infelizmente, ela traiu minha confiança: conspirou contra mim, roubou meus cartões de crédito, levou suplementos caros e importantes da minha casa e não deixou nada limpo como combinado. Ela me apunhalou pelas costas enquanto eu estava no hospital, agravando ainda mais minha situação física e emocional.
 
 ---
 
@@ -311,6 +307,6 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 <div align="center">
 
-📧 **Contato:** (removido para privacidade) | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
+📧 **Contato:** lux@krawz.net | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
 
 </div>
