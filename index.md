@@ -25,8 +25,9 @@ Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pó
 **ATUALIZAÇÃO URGENTE (27/12):**
 
 - A água mineral acabou completamente. Não há mais estoque para hidratação.
-- Estou com dores intensas e sem condições físicas de sair para comprar água ou suprimentos.
-- O quadro de saúde se agravou devido ao estresse extremo causado por perseguição e abandono, sendo necessário buscar atendimento médico (Unimed) para investigar novos sintomas.
+- Estou com dores intensas, passando muito mal e sem condições físicas de sair para comprar água ou suprimentos.
+- Precisei voltar para a Unimed devido ao agravamento do quadro físico e emocional.
+- Recebido R$ 300 da minha mãe (genitora), que mantém postura hostil e insensível diante da situação. Se ela tivesse uma alma e vendesse, não me importaria.
 
 A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
 
