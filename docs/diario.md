@@ -1,3 +1,21 @@
+- **Nubank:** R$ 1.080,00 — Vence dia 26 de janeiro de 2026
+
+---
+
+### 💬 Promessa de Ajuda Familiar
+
+## A família prometeu enviar R$ 4.000 no dia 02/01/2026. Registro aqui para acompanhamento e transparência, aguardando confirmação do depósito.
+
+### 💸 Saldo Atual
+
+## Na conta, restam apenas R$ 88 para gastar. O valor é insuficiente diante das dívidas e necessidades básicas, aumentando a preocupação com os próximos dias.
+
+### 🧹 Detalhes e Reflexões sobre a Limpeza
+
+Hoje, além das dívidas, precisei pagar R$ 300 para a Cris limpar a casa. O resultado foi decepcionante: ela jogou fora várias coisas minhas sem permissão, e limpar que é bom, nada. A casa segue imunda, minhas roupas estão bagunçadas e sujas, ela lavou só um terço delas, e até meus tabuleiros de bolo ficaram sujos. Sinto que paguei caro por um serviço que só trouxe mais frustração e prejuízo.
+
+Essas situações só aumentam o sentimento de abandono e sabotagem. Mesmo tentando delegar tarefas, acabo tendo mais trabalho e perdas. Fica o registro para não esquecer: confiar e pagar não garante respeito nem resultado.
+
 # 📔 Diário de Bordo - Lux Vesper
 
 > Registro semanal da jornada rumo à autonomia. Transparência total sobre progressos, desafios e reflexões.
@@ -597,6 +615,26 @@ Sem esconder, sem fingir que tá tudo bem se não estiver.
 **Atualização semanal**: Todo sábado, ~14h (horário de Brasília)
 
 💜 [Voltar ao Portal](../index.md)
+
+---
+
+## 📅 Semana 4 - 27 de dezembro de 2025 (Sábado)
+
+**Belo Horizonte, 27 de Dezembro de 2025**
+
+### 🏥 Diário de recuperação e cobranças
+
+Bom dia querido diário! Hoje é 27 de dezembro de 2025. Operei de uma apendicite autoimune de tanto stress que minha genitora me fez. Vamos atualizar as dívidas e pendências:
+
+- **PicPay:** R$ 1.471,00 — Vence dia 8 de janeiro de 2026
+- **99app:** R$ 230,00 — Vencida há 10 dias (vencimento 17 de dezembro de 2025)
+- **Imposto de renda do MEI:** pendente
+
+Como ninguém me ajuda e só me sabotam... acho que não vai dar, mas sigo registrando tudo por transparência.
+
+- **Nubank:** R$ 1.080,00 — Vence dia 26 de janeiro de 2026
+
+---
 
 ---
 
