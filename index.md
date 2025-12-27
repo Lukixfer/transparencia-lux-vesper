@@ -25,7 +25,7 @@ A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e 
 
 | Data  | Origem  | Valor  | Observação                                                  |
 | ----- | ------- | ------ | ----------------------------------------------------------- |
-| 02/01 | Família | R$2000 | Prometido R$ 4.000 para 02/01, só metade recebida até agora |
+| 02/01 | Família | R$0    | Prometido R$ 4.000 para 02/01, mas nada recebido até agora |
 
 ## 🏥 Estoques Vitais
 
