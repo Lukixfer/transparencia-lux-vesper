@@ -26,7 +26,9 @@ A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e 
 
 ## 💸 Saldo disponível
 
-**R$ 88 em conta**
+### Saldo disponível
+
+R$ 88 em conta
 
 ## 💳 Dívidas Atuais
 
@@ -159,23 +161,11 @@ Já quitei toda dívida com a Criss. Infelizmente, ela traiu minha confiança: c
 
 ## 🎮 Projetos em Desenvolvimento
 
-### 🃏 Krawz Arena
+**Todos os projetos criativos e profissionais estão parados por falta de verba e saúde.**
 
-- **O quê:** Jogo de cartas/RPG com sistema RMT inovador
-- **Status:** ⚙️ Desenvolvimento ativo
-- **Link:** [Documentação](https://github.com/Lukixfer/Krawz-Arena-Docs)
-
-### 📖 Krawz - Volume 1 - O Coração da Colmeia
-
-- **O quê:** Romance literário em português
-- **Status:** ✨ 95% pronto para publicação
-- **Link:** [Sinopse completa](https://abstrato.krawz.net) | [Preview no GitHub](https://github.com/Lukixfer/o-coracao-da-colmeia-preview)
-
-### 🎵 Música Gospel (Lukix Música)
-
-- **O quê:** Canal de YouTube com músicas gospel autorais
-- **Status:** 🎤 Ativo
-- **Link:** [YouTube @lukixmusica](https://www.youtube.com/@lukixmusica)
+- 🃏 Krawz Arena: Jogo de cartas/RPG com sistema RMT inovador. Status: Parado.
+- 📖 Krawz - Volume 1 - O Coração da Colmeia: Romance literário em português. Status: Parado.
+- 🎵 Música Gospel (Lukix Música): Canal de YouTube com músicas gospel autorais. Status: Parado.
 
 **📚 [Ver detalhes completos dos projetos](./docs/projetos.md)**
 
@@ -289,24 +279,22 @@ Quer ver os números brutos? Fazer sua própria análise?
 
 ## 📊 HISTÓRICO DE CONTRIBUIÇÕES
 
-| Data      | Quem                 | Valor        | O Que Foi                                 | Situação           |
-| --------- | -------------------- | ------------ | ----------------------------------------- | ------------------ |
-| 7/12      | Família              | R$ 100       | Reserva para emergência                   | ✅ Usado no PicPay |
-| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                           | ✅ Consumido       |
-| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay           | ✅ Gasto           |
-| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)            | ✅ PAGO (R$ 1.100) |
-| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm.         | ✅ Pago em 9/12    |
-| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss              | ✅ Usado (9/12)    |
-| 9/12      | YouTube (Live)       | R$ 100       | Live "macho tóxico" - leite + bike        | ✅ Recebido        |
-| 10/12     | Tio                  | R$ 470       | Reembolso dentista + cobertura indefinida | ✅ Recebido        |
-| **TOTAL** |                      | **R$ 2.887** |                                           |                    |
+| Data      | Quem                 | Valor        | O Que Foi                                 | Situação                                                                                    |
+| --------- | -------------------- | ------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 7/12      | Família              | R$ 100       | Reserva para emergência                   | ✅ Usado no PicPay                                                                          |
+| 7/12      | Mason (ex-padrastro) | R$ 10        | Quibe + 3L água                           | ✅ Consumido                                                                                |
+| 7/12      | Família              | R$ 1.000     | Natação + comida + parte PicPay           | ✅ Gasto                                                                                    |
+| 8/12      | Família              | R$ 1.000     | Pagamento PicPay (complemento)            | ✅ PAGO (R$ 1.100)                                                                          |
+| 8/12      | Criss                | R$ 107       | R$7 seguro + R$100 compra superm.         | ✅ Pago em 9/12 (Obs: posteriormente, Criss traiu minha confiança e agravou minha situação) |
+| 8/12      | Lincon (vizinho)     | R$ 100       | Papel moeda - devolver Criss              | ✅ Usado (9/12)                                                                             |
+| 9/12      | YouTube (Live)       | R$ 100       | Live "macho tóxico" - leite + bike        | ✅ Recebido                                                                                 |
+| 10/12     | Tio                  | R$ 470       | Reembolso dentista + cobertura indefinida | ✅ Recebido                                                                                 |
+| **TOTAL** |                      | **R$ 2.887** |                                           |                                                                                             |
 
-> **Nota:** Transparência total. Live no YouTube com "macho tóxico" arrecadou R$ 100! Vai para leite na padaria + câmara de ar para bike (muitos remendos). Lincon (vizinho) doou R$ 100 em papel moeda para devolver Criss. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós.
+> **Nota:** Transparência total. Live no YouTube com "macho tóxico" arrecadou R$ 100! Vai para leite na padaria + câmara de ar para bike (muitos remendos). Lincon (vizinho) doou R$ 100 em papel moeda para devolver Criss. Criss salvou com R$7 + fez compra no supermercado (R$100) para nós. (Obs: posteriormente, Criss traiu minha confiança e agravou minha situação)
 
 ---
 
-<div align="center">
+---
 
 📧 **Contato:** lux@krawz.net | 🐱 **GitHub:** [@Lukixfer](https://github.com/Lukixfer)
-
-</div>

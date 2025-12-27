@@ -1,5 +1,10 @@
 # Instruções do Sistema de Gastos e Subsídio
 
+## Orientação de uso para senhorito
+
+- Todas as respostas e interações devem tratar o usuário como "senhorito".
+- Sempre que o senhorito responder "Fiat Lux", considere como uma afirmativa ou autorização para prosseguir.
+
 ## Visão geral
 
 - `planilha_gastos.csv`: lançamento diário de receitas e despesas.
