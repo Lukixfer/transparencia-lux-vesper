@@ -1,193 +1,74 @@
 # 🌟 Portal da Transparência - Lux Vesper
 
-> 💜 **Transparência financeira total | Projetos criativos reais | Humanidade acima de tudo**
+> **Atualização: 27 de dezembro de 2025**
+
+## 🚨 Situação Atual
+
+- Pós-operatório de apendicite (13/12), recuperação difícil, sozinho, sem condições de trabalho físico ou renda.
+- Saúde física e emocional abalada. Todos os projetos criativos e profissionais estão parados por falta de verba e condições.
+- Faxina paga (R$ 300) não foi feita corretamente, casa segue suja, roupas e utensílios em mau estado.
+
+## 💸 Saldo disponível
+
+- R$ 88 em conta
+
+## 💳 Dívidas Atuais
+
+| Item        | Valor    | Vencimento    |
+| ----------- | -------- | ------------- |
+| PicPay      | R$ 1.471 | 08/01/2026    |
+| 99app       | R$ 230   | vencida 17/12 |
+| Nubank      | R$ 1.080 | 26/01/2026    |
+| MEI + Multa | R$ 900   | pendente      |
+
+## 💰 Recebimentos Recentes
+
+| Data  | Origem  | Valor  | Observação                             |
+| ----- | ------- | ------ | -------------------------------------- |
+| 02/01 | Família | R$2000 | Parcial do prometido (faltam R$ 2.000) |
+
+## 🚨 Situação Atual
+
+Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pós-operatório difícil, sozinho e sem condições físicas ou emocionais para trabalhar. Todos os projetos criativos e profissionais estão parados por falta de verba e saúde.
+
+A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
+
+## 💸 Saldo disponível
+
+**R$ 88 em conta**
+
+## 💳 Dívidas Atuais
+
+| Conta  | Valor    | Vencimento    |
+| ------ | -------- | ------------- |
+| PicPay | R$ 1.471 | 08/01/2026    |
+| 99app  | R$ 230   | vencida 17/12 |
+| Nubank | R$ 1.080 | 26/01/2026    |
+| MEI    | R$ 900   | pendente      |
+
+## 💰 Recebimentos Recentes
+
+| Data  | Origem  | Valor  | Observação                             |
+| ----- | ------- | ------ | -------------------------------------- |
+| 02/01 | Família | R$2000 | Parcial do prometido (faltam R$ 2.000) |
+
+## 🏥 Estoques Vitais
+
+- **Água mineral:** apenas 1L (preciso comprar urgente)
+- **Alimentação:** 1kg de pão de queijo (meu cardápio de hoje)
+- **Medicação:** estoque completo de remédios essenciais
+
+> Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo é o cardápio — um pequeno alívio em meio ao caos.
+
+## 🚨 Apelo Urgente
+
+**PIX para qualquer valor:** 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
+
+Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital para garantir alimentação, água, medicação e uma recuperação digna neste momento crítico.
 
 ---
 
-<div align="center" style="background: #E53935; color: white; padding: 15px; border-radius: 8px; margin: 20px 0; font-weight: bold;">
-
-### 🚨 ATUALIZAÇÃO URGENTE — 27 DE DEZEMBRO DE 2025
-
-⚠️ **PÓS-OPERATÓRIO DE APENDICITE — RECUPERAÇÃO CRÍTICA** ⚠️  
-**Status:** Operado de apendicite (13/12), em casa, com limitações físicas severas e sem apoio presencial.  
-**Necessidade URGENTE:** Ajuda financeira para sobreviver ao pós-operatório — alimentação, medicação, contas básicas e dívidas.
-
-> 🏥 **Situação real:**
->
-> - Recuperação difícil, sozinho, sem condições de trabalho físico ou renda imediata.
-> - Faxina paga (R$ 300) não foi realizada adequadamente, gerando mais prejuízo: casa segue suja, roupas e utensílios em mau estado.
-> - Sinto-me sabotado e sem rede de apoio efetiva.
-
-### 💸 **Saldo disponível:** R$ 88
-
-### 💳 **Dívidas e pendências:**
-
-> - **PicPay:** R$ 1.471 (vence 08/01/2026)
-> - **99app:** R$ 230 (vencida desde 17/12)
-> - **Nubank:** R$ 1.080 (vence 26/01/2026)
-> - **Imposto de renda MEI:** pendente
-
-### 💬 **Promessa familiar:**
-
-> - Família prometeu enviar R$ 4.000 em 02/01/2026 (aguardando confirmação)
-
-### 🚨 **APELO URGENTE — QUALQUER VALOR AJUDA AGORA**
-
-**PIX: 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f**  
-**Situação:** Pós-operatório, saldo insuficiente, dívidas acumuladas, sem condições de trabalho. Toda ajuda é vital para garantir alimentação, medicação e sobrevivência digna neste momento.
-
-</div>
-
----
-
-## 🚨 SITUAÇÃO CRÍTICA - 7 DE DEZEMBRO DE 2025 (ATUALIZADO)
-
-### 💰 Realidade Financeira AGORA
-
-```
-╔═══════════════════════════════════════════════════╗
-║      POSIÇÃO FINANCEIRA (ATUALIZADO 10/12 - Noite)║
-╠═══════════════════════════════════════════════════╣
-║  💵 Dinheiro em caixa (hoje):....... R$ 0,00     ║
-║  💵 Crédito PicPay:................. R$ 80       ║
-║  💵 TIO REEMBOLSO DENTISTA:......... R$ 470 ✅   ║
-║  💧 Água mineral + limonada:....... 4 litros     ║
-║  🥚 Ovos:.......................... 18 unidades  ║
-║  💊 BUPROPIONA (sem receita):...... R$ 45 ⏳    ║
-║  🦷 Dentista COBERTO (tio):........ R$ 0 ✅     ║
-║  ❄️  GELADEIRA QUEBRADA:............ R$ 150-500  ║
-║  ⚡ LUZ PAGA (10/12):............... R$ 0 ✅     ║
-║  🌐 INTERNET PAGA (10/12):......... R$ 0 ✅     ║
-║  📉 Despesas até 11/12:............ -R$ 80      ║
-║  📉 Despesas 15-25/12:............ -R$ 1.695    ║
-║  💳 Dívidas (Will+Nu+MEI):......... -R$ 1.710    ║
-║  ⚠️  DÉFICIT total (restante):...... -R$ 4.285   ║
-╚═══════════════════════════════════════════════════╝
-```
-
-### 🏥 Estoques Vitais
-
-> Compramos: remédios ✅ (bupropiona R$50), serrote para podar pé de limão/buganvília, resistência nova do chuveiro, peneira de terra (R$40) para arrumar quintal, alimentação (marmitex, pão, presunto). Investimento em trabalho: R$330 para Warley ajudar com capina e poda ao longo de dezembro (3 dias).
-
-- **💧 Água mineral + limonada caseira:** 3L água + 1L limonada (⏰ **~2 dias**)
-- **🍽️ Alimentação:** Garantida via crédito (marmitex, pão, presunto). Estoque de comida não é gargalo agora.
-- **💊 Medicação:** Lítio + ansiolíticos (✅ 30 dias OK)
-- **❄️ Geladeira:** Frost free com drenagem entupida (congelador cheio de gelo)
-
----
-
-## 📊 Gastos Já Realizados (Dezembro)
-
-| Item                              |    Valor     | Status  |
-| --------------------------------- | :----------: | :-----: |
-| 🏊 Natação (terapia asma)         |    R$ 400    | ✅ Pago |
-| 💊 Farmácia (lítio, ansiolíticos) |    R$ 300    | ✅ Pago |
-| 🍽️ Alimentação                    |    R$ 300    | ✅ Pago |
-| ⚡ Luz (10/12)                    |    R$ 300    | ✅ Pago |
-| 🌐 Internet (10/12)               |    R$ 209    | ✅ Pago |
-| 💊 Bupropiona 150mg (11/12)       |    R$ 50     | ✅ Pago |
-| 🌱 Peneira de terra (quintal)     |    R$ 40     | ✅ Pago |
-| 👨‍🌾 Warley (capina + poda 3 dias)  |    R$ 330    | ✅ Pago |
-| **Total gasto**                   | **R$ 1.929** |         |
-| **Saldo restante**                |   **R$ 0**   | 🔴 ZERO |
-
----
-
-### 🔴 ATÉ 11/DEZEMBRO (PRÓXIMOS DIAS)
-
-| Item                |    Valor     | Por quê                                                                       | Status       |
-| ------------------- | :----------: | ----------------------------------------------------------------------------- | ------------ |
-| 💊 Bupropiona 150mg |    R$ 50     | Antidepressivo - ADQUIRIDO (11/12) ✅                                         | ✅ Pago      |
-| ⚡ Luz              |    R$ 300    | Umidificador 24/7 + computador (estudo/trabalho/entretenimento)               | ✅ Pago      |
-| 🌐 Internet         |    R$ 209    | Trabalho remoto, projetos, comunicação                                        | ✅ Pago      |
-| 💊 Bupropiona 150mg |    R$ 45     | Antidepressivo - aguardando receita (amiga farmacêutica ou psiquiatra dia 19) | ⏳ Bloqueado |
-| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                         | ✅ Coberto   |
-| **SUBTOTAL**        |  **R$ 80**   | **Água urgente (bupropiona depende de receita)**                              |              |
-| 🦷 Dentista (11/12) |    R$ 470    | Procedimento necessário, será pago com limite do Will                         |
-| **SUBTOTAL**        | **R$ 1.104** | **Serviços + saúde crítica até 11/12**                                        |
-
-### 🟠 ATÉ 11-15/DEZEMBRO (PRIORIDADE ALTA)
-
-| Item           |    Valor     | Por quê                                                    |
-| -------------- | :----------: | ---------------------------------------------------------- |
-| ❄️ Geladeira   |  R$ 150-500  | Frost free quebrada (congelador entupido) - Chamar técnico |
-| 💊 Farmácia    |    R$ 200    | Lítio, ansiolíticos, outros essenciais                     |
-| 🫁 Oxigênio    |    R$ 100    | Suporte crises asmáticas                                   |
-| 🍽️ Alimentação |    R$ 700    | Sobrevivência até fim do mês                               |
-| **SUBTOTAL**   | **R$ 1.650** | **(Geladeira depende de orçamento do técnico no dia 11)**  |
-
-### 🟢 ATÉ 25/DEZEMBRO (Pode Esperar)
-
-| Item            |   Valor    | Por quê                           |
-| --------------- | :--------: | --------------------------------- |
-| 🧹 Faxina       |   R$ 300   | Ambiente limpo = menos alergênios |
-| 🩺 Dermatologia |   R$ 600   | Acompanhamento saúde              |
-| **SUBTOTAL**    | **R$ 900** |                                   |
-
-### 💳 DÍVIDAS ACUMULADAS
-
-| Item               |    Valor     | Por quê                                     | Pagar até    |
-| ------------------ | :----------: | ------------------------------------------- | ------------ |
-| 💳 Will Bank       |    R$ 700    | Cartão (pagar amanhã)                       | 10/12        |
-| 💳 NuBank          |    R$ 110    | Cartão (pagar amanhã)                       | 10/12        |
-| 🦷 Dentista (Will) |    R$ 470    | Procedimento dia 11/12 (usando limite Will) | 11/12        |
-| 💳 PicPay          |   R$ 1.100   | ✅ PAGO (8/12)                              | ✅           |
-| 📊 MEI + Multa     |    R$ 900    | Atraso de contribuições + juros             | 25/12        |
-| 💝 Dívida Criss    |    R$ 100    | Compra no supermercado para nós             | ✅ Pago 9/12 |
-| **SUBTOTAL**       | **R$ 2.180** | **Débitos ativos (sem PicPay já quitado)**  |              |
-
----
-
-## 🚀 INVESTIMENTO NOS PROJETOS (Além da Sobrevivência)
-
-**Manter-me vivo não é o bastante.** Para alcançar autonomia financeira em 24-36 meses, os projetos criativos precisam de investimento:
-
-### 📖 Krawz - Volume 1 - O Coração da Colmeia (95% pronto)
-
-**[Ver sinopse completa em abstrato.krawz.net](https://abstrato.krawz.net)**
-
-| Item                  |    Valor     | Impacto                                    |
-| --------------------- | :----------: | ------------------------------------------ |
-| Revisão profissional  |    R$ 800    | Qualidade editorial                        |
-| Capa profissional     |    R$ 500    | Primeira impressão, vendas                 |
-| ISBN + registro       |    R$ 200    | Publicação oficial                         |
-| Publicação Amazon KDP |     R$ 0     | Distribuição global                        |
-| Divulgação inicial    |    R$ 500    | Alcance primeiros leitores                 |
-| **TOTAL LIVRO**       | **R$ 2.000** | **Livro publicado = renda passiva mensal** |
-
-### 🎵 Lukix Música (Canal ativo)
-
-| Item                       |    Valor     | Impacto                                    |
-| -------------------------- | :----------: | ------------------------------------------ |
-| Microfone condensador      |   R$ 1.200   | Qualidade de áudio profissional            |
-| Interface de áudio         |    R$ 800    | Gravações limpas                           |
-| Tratamento acústico básico |    R$ 600    | Sem ruídos/reverb indesejado               |
-| DAW + plugins              |    R$ 800    | Produção e edição                          |
-| Divulgação YouTube Ads     |    R$ 600    | Acelera monetização (1.000 subs)           |
-| **TOTAL MÚSICA**           | **R$ 4.000** | **Monetização + trilhas para Krawz Arena** |
-
-### 🎮 Krawz Arena (Prototipagem)
-
-| Item                   |    Valor     | Impacto                                   |
-| ---------------------- | :----------: | ----------------------------------------- |
-| GitHub Pro + Copilot   |  R$ 300/ano  | Desenvolvimento acelerado                 |
-| Hospedagem cloud       |  R$ 200/mês  | Servidor de teste                         |
-| Assets/arte conceitual |   R$ 2.000   | Primeiras cartas visuais                  |
-| Domínio + landing page |    R$ 300    | Presença online                           |
-| **TOTAL PROTÓTIPO**    | **R$ 5.000** | **Demo jogável = validação + comunidade** |
-
-### 💡 Por que isso importa?
-
-**Sem os projetos = dependência eterna de doações**  
-**Com os projetos = autonomia em 24-36 meses**
-
-- 📖 **Livro publicado**: R$ 300-800/mês passivo (royalties)
-- 🎵 **Canal monetizado**: R$ 200-600/mês (anúncios + membros + Spotify)
-- 🎮 **Arena em beta**: R$ 500-2.000/mês (early access + testes pagos)
-
-**Total potencial em 18 meses: R$ 1.000-3.400/mês** → cobre 25-85% das despesas básicas
-
-📚 **[Ver detalhes completos dos projetos](./docs/projetos.md)**
+<!-- Para histórico completo de dívidas e recebimentos, consulte docs/historico.md -->
 
 ---
 
