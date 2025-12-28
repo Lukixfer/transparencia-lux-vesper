@@ -1,3 +1,11 @@
+### O que é o “Neofascismo Comunista”?
+
+O termo “Neofascismo Comunista” é uma expressão crítica e irônica para descrever um fenômeno social observado em certos grupos ou indivíduos: pessoas de origem humilde, que defendem ideias autoritárias, intolerantes e repressivas (associadas ao fascismo), mas que, ao mesmo tempo, rejeitam qualquer ascensão social de outros membros da mesma classe, mesmo quando conquistada por mérito, estudo ou esforço próprio.
+
+Essas pessoas misturam discursos de ódio, exclusão e controle (típicos do autoritarismo) com uma postura de igualitarismo forçado, onde todos devem permanecer no mesmo patamar, nivelando por baixo. O resultado é um ambiente de inveja, ressentimento e sabotagem, onde o sucesso alheio é visto como ameaça, e não como inspiração.
+
+O “Neofascismo Comunista” não é uma ideologia formal, mas um comportamento contraditório: defende-se a ordem rígida e a repressão, mas também se combate qualquer tentativa de mobilidade social, criando um ciclo de pobreza, estagnação e hostilidade dentro das próprias classes populares.
+
 ## 💻 Precisa de um site profissional?
 
 Se você gostou do visual e da organização do site [ctvidanova.org](https://ctvidanova.org), saiba que posso criar algo do mesmo nível para você, sua empresa, igreja ou projeto!
@@ -28,7 +36,10 @@ Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pó
 - Recebido R$ 300 da minha mãe (genitora), que mantém postura hostil e insensível diante da situação. Com esse valor, consegui ao menos pagar o 99app após sair da Unimed.
 
 **Nota sobre minha genitora:**
+
 Minha genitora é o que chamo de "neofascista comunista": uma pessoa pobre de direita, que defende ideias autoritárias, intolerantes e repressivas, mas ao mesmo tempo não aceita que outros ascendam socialmente por mérito e estudo. Ou seja, além de apoiar discursos de ódio e exclusão, faz de tudo para impedir que outro pobre melhore de vida, mesmo por esforço próprio. Essa postura é marcada por inveja, ressentimento e desejo de nivelar todos por baixo, misturando o pior do autoritarismo com o pior do igualitarismo forçado.
+
+**Exemplo pessoal:** minha própria genitora, além de já ter matado meu cachorro, agora busca me comprometer financeiramente, dificultando ainda mais minha recuperação e estabilidade. Esse tipo de comportamento ilustra como o "neofascismo comunista" pode se manifestar de forma cruel e destrutiva dentro da própria família.
 
 A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
 
