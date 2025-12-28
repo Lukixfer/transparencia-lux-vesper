@@ -22,12 +22,10 @@ Seu apoio me ajuda a superar este momento difícil e você ainda recebe um site 
 
 Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pós-operatório difícil, sozinho e sem condições físicas ou emocionais para trabalhar. Todos os projetos criativos e profissionais estão parados por falta de verba e saúde.
 
-**ATUALIZAÇÃO URGENTE (27/12):**
-
-- A água mineral acabou completamente. Não há mais estoque para hidratação.
+- Estoque de água mineral crítico: restam apenas 2L disponíveis para hidratação.
 - Estou com dores intensas, passando muito mal e sem condições físicas de sair para comprar água ou suprimentos.
-- Precisei voltar para a Unimed devido ao agravamento do quadro físico e emocional.
-- Recebido R$ 300 da minha mãe (genitora), que mantém postura hostil e insensível diante da situação. Se ela tivesse uma alma e vendesse, não me importaria.
+- Precisei voltar para a Unimed devido ao agravamento do quadro físico e emocional. O pós-operatório segue difícil.
+- Recebido R$ 300 da minha mãe (genitora), que mantém postura hostil e insensível diante da situação. Com esse valor, consegui ao menos pagar o 99app após sair da Unimed.
 
 **Nota sobre minha genitora:**
 Minha genitora é o que chamo de "neofascista comunista": uma pessoa pobre de direita, que defende ideias autoritárias, intolerantes e repressivas, mas ao mesmo tempo não aceita que outros ascendam socialmente por mérito e estudo. Ou seja, além de apoiar discursos de ódio e exclusão, faz de tudo para impedir que outro pobre melhore de vida, mesmo por esforço próprio. Essa postura é marcada por inveja, ressentimento e desejo de nivelar todos por baixo, misturando o pior do autoritarismo com o pior do igualitarismo forçado.
@@ -36,7 +34,7 @@ A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e 
 
 ## 💸 Saldo disponível
 
-Saldo atual em conta: **R$ 88**
+Saldo atual em conta: **R$ 77**
 
 ## 💳 Dívidas Atuais
 
@@ -55,11 +53,16 @@ Saldo atual em conta: **R$ 88**
 
 ## 🏥 Estoques Vitais
 
-- **Água mineral:** acabou (sem estoque)
+- **Água mineral:** 2L disponíveis
 - **Alimentação:** 1kg de pão de queijo (meu cardápio de hoje)
 - **Medicação:** estoque completo de remédios essenciais
+- **Novas compras (28/12):** remédios para o estômago, Epocler e fibras para digestão
 
-> Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo é o cardápio — um pequeno alívio em meio ao caos.
+---
+
+## 🚨 Atualização de Saúde (28/12)
+
+Hoje (domingo, 28/12), estou passando mal, com sintomas digestivos intensos. Precisei comprar remédios para o estômago, Epocler e fibras para tentar aliviar o quadro. O saldo em conta caiu para R$ 77. Sigo em situação crítica, com apenas 2L de água mineral e alimentação restrita. Toda ajuda é vital neste momento.
 
 > Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo é o cardápio — um pequeno alívio em meio ao caos.
 
@@ -149,6 +152,9 @@ Contato: lux@krawz.net
 
 **Sobre a Criss:**
 Já quitei toda dívida com a Criss. Sob influência direta da minha mãe (genitora), Criss arrombou a porta da minha casa, jogou fora coisas importantes, não limpou nada como combinado e ainda levou suplementos caros e cartões de crédito. Ela me apunhalou pelas costas enquanto eu estava no hospital, agravando ainda mais minha situação física e emocional. Minha genitora tem o poder de transformar aliados em pessoas inúteis ou até prejudiciais.
+
+**Consequências desse padrão:**
+Devido a esse comportamento tóxico e manipulador da minha genitora, tenho extrema dificuldade em formar uma rede de apoio saudável. Todas as pessoas que tentam me ajudar acabam sendo corrompidas, afastadas ou manipuladas contra mim, o que me isola socialmente e dificulta qualquer tentativa de recuperação, crescimento ou estabilidade emocional. Isso perpetua o ciclo de vulnerabilidade e impede que eu construa relações de confiança e suporte duradouro.
 
 ---
 
