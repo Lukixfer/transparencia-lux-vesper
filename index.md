@@ -29,6 +29,9 @@ Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pó
 - Precisei voltar para a Unimed devido ao agravamento do quadro físico e emocional.
 - Recebido R$ 300 da minha mãe (genitora), que mantém postura hostil e insensível diante da situação. Se ela tivesse uma alma e vendesse, não me importaria.
 
+**Nota sobre minha genitora:**
+Minha genitora é o que chamo de "neofascista comunista": uma pessoa pobre de direita, que defende ideias autoritárias, intolerantes e repressivas, mas ao mesmo tempo não aceita que outros ascendam socialmente por mérito e estudo. Ou seja, além de apoiar discursos de ódio e exclusão, faz de tudo para impedir que outro pobre melhore de vida, mesmo por esforço próprio. Essa postura é marcada por inveja, ressentimento e desejo de nivelar todos por baixo, misturando o pior do autoritarismo com o pior do igualitarismo forçado.
+
 A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
 
 ## 💸 Saldo disponível
@@ -145,7 +148,7 @@ Contato: lux@krawz.net
 > **Situação atual:** Sem renda, saúde abalada, dívidas acumuladas e estoques vitais no limite. Cada apoio é vital e documentado em tempo real.
 
 **Sobre a Criss:**
-Já quitei toda dívida com a Criss. Infelizmente, ela traiu minha confiança: conspirou contra mim, roubou meus cartões de crédito, levou suplementos caros e importantes da minha casa e não deixou nada limpo como combinado. Ela me apunhalou pelas costas enquanto eu estava no hospital, agravando ainda mais minha situação física e emocional.
+Já quitei toda dívida com a Criss. Sob influência direta da minha mãe (genitora), Criss arrombou a porta da minha casa, jogou fora coisas importantes, não limpou nada como combinado e ainda levou suplementos caros e cartões de crédito. Ela me apunhalou pelas costas enquanto eu estava no hospital, agravando ainda mais minha situação física e emocional. Minha genitora tem o poder de transformar aliados em pessoas inúteis ou até prejudiciais.
 
 ---
 
