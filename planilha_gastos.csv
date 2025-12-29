@@ -24,7 +24,7 @@ Data,Categoria,Descricao,Valor,Tipo,CentroDeCusto,Status,Observacoes
 ,,,,,,,
 ,SITUACAO FINANCEIRA ATUAL,,,,,,,
 ,Conta,Descricao,Saldo,Tipo,Categoria,Status,Observacoes
-,PicPay,Saldo disponivel,506.00,Ativo,Financeiro,Atual,Saldo atual informado pelo usuario
+,PicPay,Saldo disponivel,506.00,Ativo,Financeiro,Atual,"R$ 350 já comprometidos (Faxina+Sauna); Sobra real R$ 156"
 ,PicPay,Cartao de credito,-1100.00,Passivo,Financeiro,Pendente,Divida cartao
 ,PicPay,Emprestimo Aviva,-355.00,Passivo,Financeiro,Pendente,Emprestimo para ir na Aviva
 ,Will Bank,Saldo disponivel,0.00,Ativo,Financeiro,Atual,Conta corrente
