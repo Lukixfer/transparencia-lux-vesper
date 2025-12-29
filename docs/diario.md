@@ -695,3 +695,41 @@ Como ninguém me ajuda e só me sabotam... acho que não vai dar, mas sigo regis
 > **Apelo:** Qualquer valor permite que eu me recupere em casa com dignidade, em vez de depender de internação prolongada.
 
 **PIX:** 5ec9a597-d65c-4499-8e38-0a7ed1b6c00f
+
+---
+
+## 📅 Semana 4 - 29 de dezembro de 2025 (Segunda-feira)
+
+**Belo Horizonte, 29 de Dezembro de 2025**
+
+### 🛒 Abastecimento e Conquista
+
+Hoje realizei compras no valor de **R$ 280,00**.
+
+- **Itens:** Materiais de limpeza, ingredientes para bolo, leite, ovos, fermento, temperos, óleo de milho e óleo de coco.
+- **Conquista:** Com esses itens, **já posso fazer arroz em casa** e ter o mínimo de dignidade na alimentação e limpeza.
+
+### ✉️ Carta para o Rafa
+
+Escrevi uma carta para meu primo Rafa, explicando a situação real e alertando sobre as mentiras que contam a ele. Também expliquei sobre os perigos dos anabolizantes, reforçando que são drogas proibidas que fazem mal à saúde e ao comportamento. É uma tentativa de quebrar a barreira invisível criada pelas mentiras.
+
+### 🍬 Pequenos Confortos
+
+Hoje também almocei um marmitex (R$ 22,00) e me permiti comprar algumas guloseimas, quase um quilo de casadinhos. Claro que não vou comer tudo de uma vez, mas só de ver o pote cheio já sinto um conforto enorme. É uma pequena alegria visual e gustativa no meio de tudo isso.
+
+![Pote de Casadinhos Cheio](imagens/pote_casadinhos.jpg)
+
+### 🧴 Autocuidado e Recuperação
+
+Também investi na minha recuperação e bem-estar pessoal. Comprei itens como hidratante, esfoliante e creme para os pés. Cuidar do corpo é parte fundamental de me manter firme e digno durante esse processo.
+
+### 💰 Planejamento Financeiro (Fim de Ano)
+
+**Saldo Atual:** R$ 506,00
+
+**Planejamento para amanhã (30/12):**
+
+- **Faxina:** R$ 250,00 (Prioridade para começar o ano com a casa limpa)
+- **Sauna:** R$ 100,00 (Investimento em saúde e relaxamento)
+
+**Previsão de Sobra:** R$ 156,00 para passar a virada de ano.

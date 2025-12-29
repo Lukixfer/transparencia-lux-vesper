@@ -17,10 +17,14 @@ Data,Categoria,Descricao,Valor,Tipo,CentroDeCusto,Status,Observacoes
 01,Alimentacao,Agua 3L diaria,8.00,Despesa,Casa,Pendente,Valor diário; multiplicar pelos dias do mes
 01,Alimentacao,Frutas; Leite e Ingredientes diários,20.00,Despesa,Casa,Pendente,Valor diário; multiplicar pelos dias do mes
 01,Receita,Subsidio Familiar,-1000.00,Receita,Familia,Pago,Contribuição familiar mensal
+2025-12-29,Alimentacao,"Materiais de limpeza; ingredientes bolo; leite; ovos; fermento; temperos; oleo",280.00,Despesa,Casa,Pago,"ja posso fazer arroz em casa"
+2025-12-29,Alimentacao,Marmitex almoco,22.00,Despesa,Casa,Pago,
+2025-12-30,Despesas Fixas - Casa,Faxina,250.00,Despesa,Casa,Pendente,Agendado para amanha
+2025-12-30,Lazer,Sauna,100.00,Despesa,Pessoal,Pendente,Agendado para amanha (recuperacao)
 ,,,,,,,
 ,SITUACAO FINANCEIRA ATUAL,,,,,,,
 ,Conta,Descricao,Saldo,Tipo,Categoria,Status,Observacoes
-,PicPay,Saldo disponivel,10.00,Ativo,Financeiro,Atual,Saldo atual em dinheiro (Entrada R$1000 subsídio - R$400 natação - R$300 farmácia - R$290 alimentação)
+,PicPay,Saldo disponivel,506.00,Ativo,Financeiro,Atual,Saldo atual informado pelo usuario
 ,PicPay,Cartao de credito,-1100.00,Passivo,Financeiro,Pendente,Divida cartao
 ,PicPay,Emprestimo Aviva,-355.00,Passivo,Financeiro,Pendente,Emprestimo para ir na Aviva
 ,Will Bank,Saldo disponivel,0.00,Ativo,Financeiro,Atual,Conta corrente
