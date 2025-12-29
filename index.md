@@ -31,9 +31,32 @@ Estou em recuperação de uma cirurgia de apendicite (13/12), enfrentando um pó
 
 Minha genitora é o que chamo de "neofascista comunista": uma pessoa pobre de direita, que defende ideias autoritárias, intolerantes e repressivas, mas ao mesmo tempo não aceita que outros ascendam socialmente por mérito e estudo. Ou seja, além de apoiar discursos de ódio e exclusão, faz de tudo para impedir que outro pobre melhore de vida, mesmo por esforço próprio. Essa postura é marcada por inveja, ressentimento e desejo de nivelar todos por baixo, misturando o pior do autoritarismo com o pior do igualitarismo forçado.
 
-**Exemplo pessoal:** minha própria genitora, além de já ter matado meu cachorro, agora busca me comprometer financeiramente, dificultando ainda mais minha recuperação e estabilidade. Esse tipo de comportamento ilustra como o "neofascismo comunista" pode se manifestar de forma cruel e destrutiva dentro da própria família.
+**Exemplo pessoal e extremo:**
+Minha própria genitora ilustra esse comportamento de forma cruel.
+
+1.  **Sabotagem à vida:** Ela já matou meu cachorro envenenado. Agora, ao retornar da cirurgia, descobri que meu gato sumiu e havia iscas de veneno (chumbinho) na rua, que não pude limpar por estar hospitalizado.
+2.  **Tentativa de anulação:** Ela firmou um contrato para me internar em uma clínica por **6 meses**. Consegui ser liberado em apenas **7 dias** após criar o site da própria clínica e provar, por A+B, minha sanidade e capacidade profissional.
+3.  **Sabotagem financeira:** Agora, busca me comprometer financeiramente, dificultando minha recuperação pós-cirúrgica.
+
+Esse padrão visa anular minha existência e impedir qualquer autonomia, misturando autoritarismo doméstico com sabotagem social.
 
 A faxina paga (R$ 300) não foi feita corretamente: a casa segue suja, roupas e utensílios em mau estado, o que só aumenta o desgaste.
+
+## 🏥 A Tentativa de Internação Forçada (6 Meses vs 7 Dias)
+
+Um dos episódios mais graves de sabotagem ocorreu recentemente. Enquanto eu lidava com problemas de saúde física (apendicite), minha genitora articulou minha internação em uma clínica, assinando um contrato de **6 meses** de reclusão.
+
+**O Objetivo:**
+Anular minha autonomia, impedir meu trabalho e me isolar socialmente sob o pretexto de "cuidado", aproveitando-se de um momento de fragilidade física.
+
+**Minha Resposta (A Prova de Sanidade):**
+Mesmo internado e sob pressão, transformei a situação em uma demonstração de capacidade profissional e lucidez:
+
+- Em apenas **7 dias**, projetei e desenvolvi o site oficial da própria clínica.
+- Provei "por A + B" à equipe técnica que estava plenamente são e produtivo.
+- A clínica reconheceu o erro da internação solicitada pela família e me liberou.
+
+Essa vitória reforça que, apesar das tentativas de me invalidar, minha mente e minhas habilidades continuam afiadas e são minha principal ferramenta de sobrevivência.
 
 ## 💸 Saldo disponível
 
