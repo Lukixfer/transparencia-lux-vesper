@@ -16,7 +16,7 @@ Este arquivo registra todas as contribuições recebidas e pagamentos realizados
 
 ### Resumo do Mês (ATUALIZADO 12/12 - SITUAÇÃO CRÍTICA)
 
-- **Contribuições recebidas**: R$ 0,00
+- **Contribuições recebidas**: R$ 1.000,00
 - **Pagamentos realizados**: R$ 2.348,00 (contas, dívidas, compras emergenciais)
 - **Gastos emergência (12/12)**: R$ 150,00 (água de coco para hidratação + Uber para hospital)
 - **Saldo inicial (PicPay)**: R$ 1.300,00 (crédito liberado 9/12)
@@ -28,26 +28,27 @@ Este arquivo registra todas as contribuições recebidas e pagamentos realizados
 
 | Credor                    | Saldo Inicial    | Pagamentos  | Juros | Saldo Final      | Status   |
 | ------------------------- | ---------------- | ----------- | ----- | ---------------- | -------- |
-| PicPay - Cartão           | -R$ 1.100,00     | R$ 0,00     | -     | -R$ 1.100,00     | Pendente |
+| PicPay - Cartão           | -R$ 1.600,00     | R$ 0,00     | -     | -R$ 1.600,00     | Pendente |
 | PicPay - Empréstimo Aviva | -R$ 355,00       | R$ 0,00     | -     | -R$ 355,00       | Pendente |
 | Will Bank - Cartão        | -R$ 700,00       | R$ 0,00     | -     | -R$ 700,00       | Pendente |
 | Nu Bank - Cartão          | -R$ 103,00       | R$ 0,00     | -     | -R$ 103,00       | Pendente |
 | Receita Federal           | -R$ 900,00       | R$ 0,00     | -     | -R$ 900,00       | Pendente |
-| **Total Dívidas**         | **-R$ 3.158,00** | **R$ 0,00** | **-** | **-R$ 3.158,00** |          |
+| **Total Dívidas**         | **-R$ 3.658,00** | **R$ 0,00** | **-** | **-R$ 3.658,00** |          |
 
 ### Despesas Recorrentes Pagas
 
-| Data | Categoria             | Descrição |   Valor | Status                 |
-| ---- | --------------------- | --------- | ------: | ---------------------- |
-| -    | Despesas Fixas - Casa | -         | R$ 0,00 | Nenhum pagamento ainda |
-| -    | Despesas Médicas      | -         | R$ 0,00 | Nenhum pagamento ainda |
-| -    | Alimentação           | -         | R$ 0,00 | Nenhum pagamento ainda |
+| Data  | Categoria             | Descrição            |      Valor | Status                 |
+| ----- | --------------------- | -------------------- | ---------: | ---------------------- |
+| 28/12 | Ferramentas           | GitHub Pro+ ($39)    | ~R$ 235,00 | Pago                   |
+| 28/12 | Alimentação           | Pastel de Carne Seca |  ~R$ 20,00 | Pago                   |
+| -     | Despesas Fixas - Casa | -                    |    R$ 0,00 | Nenhum pagamento ainda |
+| -     | Despesas Médicas      | -                    |    R$ 0,00 | Nenhum pagamento ainda |
 
 ### Contribuições Recebidas
 
-| Data | Origem | Valor | Alocação | Comprovante                |
-| ---- | ------ | ----: | -------- | -------------------------- |
-| -    | -      |     - | -        | Nenhuma contribuição ainda |
+| Data  | Origem  |       Valor | Alocação              | Comprovante |
+| ----- | ------- | ----------: | --------------------- | ----------- |
+| 28/12 | Família | R$ 1.000,00 | Final de Ano + GitHub | -           |
 
 > **Primeira atualização**: Início do portal - 07/12/2025  
 > **Status**: Aguardando primeiras contribuições

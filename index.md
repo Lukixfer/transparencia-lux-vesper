@@ -60,7 +60,7 @@ Essa vitória reforça que, apesar das tentativas de me invalidar, minha mente e
 
 ## 💸 Saldo disponível
 
-Saldo atual em conta: **R$ 77**
+Saldo atual em conta: **R$ 1.077** (menos gastos recentes: GitHub $39 + Pastel)
 
 ## 💳 Dívidas Atuais
 
@@ -73,9 +73,9 @@ Saldo atual em conta: **R$ 77**
 
 ## 💰 Recebimentos Recentes
 
-| Data  | Origem  | Valor | Observação                                                 |
-| ----- | ------- | ----- | ---------------------------------------------------------- |
-| 02/01 | Família | R$0   | Prometido R$ 4.000 para 02/01, mas nada recebido até agora |
+| Data  | Origem  | Valor    | Observação                       |
+| ----- | ------- | -------- | -------------------------------- |
+| 28/12 | Família | R$ 1.000 | Ajuda para passar o final de ano |
 
 ## 🏥 Estoques Vitais
 
@@ -88,9 +88,12 @@ Saldo atual em conta: **R$ 77**
 
 ## 🚨 Atualização de Saúde (28/12)
 
-Hoje (domingo, 28/12), estou passando mal, com sintomas digestivos intensos. Precisei comprar remédios para o estômago, Epocler e fibras para tentar aliviar o quadro. O saldo em conta caiu para R$ 77. Sigo em situação crítica, com apenas 2L de água mineral e alimentação restrita. Toda ajuda é vital neste momento.
+Hoje (domingo, 28/12), comecei o dia passando mal, com sintomas digestivos intensos. Precisei comprar remédios para o estômago, Epocler e fibras.
 
-> Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo é o cardápio — um pequeno alívio em meio ao caos.
+**Reviravolta:** A família enviou **R$ 1.000** para passar o final de ano!
+Com esse valor, garantimos a ferramenta de trabalho (GitHub Pro+ $39) e jantamos um pastel de carne seca para celebrar. A situação crítica de água e comida foi mitigada momentaneamente.
+
+> Ontem comi demais, fazia tempo que não podia comer o que quisesse. Hoje, pão de queijo foi o almoço e pastel de carne seca o jantar — um alívio em meio ao caos.
 
 ## 🚨 Apelo Urgente
 
@@ -110,6 +113,7 @@ Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital p
 - ✅ **10/12:** Paguei luz (R$ 300) e internet (R$ 209) com crédito PicPay
 - ✅ **11/12:** Comprei bupropiona (R$ 50), peneira (R$ 40), paguei Warley (R$ 330)
 - ⚠️ **12/12:** Emergência de saúde → água de coco (hidratação) + Uber (transporte urgente) consumiu R$ 150 de crédito
+- ✅ **28/12:** GitHub Pro+ ($39) + Jantar (Pastel de carne seca)
 
 **Fluxo real até agora:**
 
