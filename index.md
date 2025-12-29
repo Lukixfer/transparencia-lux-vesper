@@ -1,11 +1,3 @@
-### O que é o “Neofascismo Comunista”?
-
-O termo “Neofascismo Comunista” é uma expressão crítica e irônica para descrever um fenômeno social observado em certos grupos ou indivíduos: pessoas de origem humilde, que defendem ideias autoritárias, intolerantes e repressivas (associadas ao fascismo), mas que, ao mesmo tempo, rejeitam qualquer ascensão social de outros membros da mesma classe, mesmo quando conquistada por mérito, estudo ou esforço próprio.
-
-Essas pessoas misturam discursos de ódio, exclusão e controle (típicos do autoritarismo) com uma postura de igualitarismo forçado, onde todos devem permanecer no mesmo patamar, nivelando por baixo. O resultado é um ambiente de inveja, ressentimento e sabotagem, onde o sucesso alheio é visto como ameaça, e não como inspiração.
-
-O “Neofascismo Comunista” não é uma ideologia formal, mas um comportamento contraditório: defende-se a ordem rígida e a repressão, mas também se combate qualquer tentativa de mobilidade social, criando um ciclo de pobreza, estagnação e hostilidade dentro das próprias classes populares.
-
 ## 💻 Precisa de um site profissional?
 
 Se você gostou do visual e da organização do site [ctvidanova.org](https://ctvidanova.org), saiba que posso criar algo do mesmo nível para você, sua empresa, igreja ou projeto!
@@ -181,6 +173,16 @@ Devido a esse comportamento tóxico e manipulador da minha genitora, tenho extre
 > 💬 _Não procuro pena. Procuro compreensão. E a chance de existir enquanto crio._
 
 **📄 [Leia minha história completa](./docs/analise.md)** - Entenda por que preciso dessa ajuda e qual é meu plano.
+
+---
+
+## 🧠 Entenda o Contexto: "Neofascismo Comunista"
+
+O termo “Neofascismo Comunista” é uma expressão crítica e irônica para descrever um fenômeno social observado em certos grupos ou indivíduos: pessoas de origem humilde, que defendem ideias autoritárias, intolerantes e repressivas (associadas ao fascismo), mas que, ao mesmo tempo, rejeitam qualquer ascensão social de outros membros da mesma classe, mesmo quando conquistada por mérito, estudo ou esforço próprio.
+
+Essas pessoas misturam discursos de ódio, exclusão e controle (típicos do autoritarismo) com uma postura de igualitarismo forçado, onde todos devem permanecer no mesmo patamar, nivelando por baixo. O resultado é um ambiente de inveja, ressentimento e sabotagem, onde o sucesso alheio é visto como ameaça, e não como inspiração.
+
+O “Neofascismo Comunista” não é uma ideologia formal, mas um comportamento contraditório: defende-se a ordem rígida e a repressão, mas também se combate qualquer tentativa de mobilidade social, criando um ciclo de pobreza, estagnação e hostilidade dentro das próprias classes populares.
 
 ---
 
