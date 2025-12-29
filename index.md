@@ -114,6 +114,7 @@ Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital p
 - ✅ **11/12:** Comprei bupropiona (R$ 50), peneira (R$ 40), paguei Warley (R$ 330)
 - ⚠️ **12/12:** Emergência de saúde → água de coco (hidratação) + Uber (transporte urgente) consumiu R$ 150 de crédito
 - ✅ **28/12:** GitHub Pro+ ($39) + Jantar (Pastel de carne seca)
+- 📅 **29/12 (Planejado):** Ração e remédios para os gatos + Faxina na casa
 
 **Fluxo real até agora:**
 
@@ -123,13 +124,17 @@ Estou sem renda, com saúde abalada e dívidas acumuladas. Toda ajuda é vital p
 - Menos emergência (água de coco + Uber): R$ 150
 - **Restante: R$ 80** (sem margem)
 
-**NECESSÁRIO AGORA (27/12):**
+**PLANEJAMENTO IMEDIATO (29/12):**
 
-- 🚨 **Doações urgentes:** R$ 1.000+ para garantir alimentação, água, medicação e quitar dívidas atrasadas.
-- 🚨 **Prioridade 1:** Alimentação (estoque baixo e sem previsão de reposição)
-- 🚨 **Prioridade 2:** Água mineral (estoque crítico)
-- 🚨 **Prioridade 3:** Medicação (estoque atual, mas sem margem para reposição)
-- 🚨 **Prioridade 4:** Quitar dívidas vencidas (PicPay, 99app, Nubank, MEI)
+Com os recursos recebidos, as prioridades para amanhã são:
+
+- 🐾 **Gatos:** Ração e remédios (urgente).
+- 🧹 **Casa:** Faxina completa (essencial para higiene no pós-operatório).
+- 💧 **Manutenção:** Reposição de água e alimentos.
+
+**AINDA NECESSÁRIO:**
+
+- 🚨 **Dívidas:** Quitar pendências vencidas (PicPay, 99app, Nubank, MEI)
 
 **Total necessário imediato: R$ 3.204** (gastos essenciais e dívidas acumuladas)
 
