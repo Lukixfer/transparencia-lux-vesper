@@ -26,14 +26,15 @@ Este arquivo registra todas as contribuições recebidas e pagamentos realizados
 
 ### Situação de Dívidas
 
-| Credor                    | Saldo Inicial    | Pagamentos  | Juros | Saldo Final      | Status   |
-| ------------------------- | ---------------- | ----------- | ----- | ---------------- | -------- |
-| PicPay - Cartão           | -R$ 1.600,00     | R$ 0,00     | -     | -R$ 1.600,00     | Pendente |
-| PicPay - Empréstimo Aviva | -R$ 355,00       | R$ 0,00     | -     | -R$ 355,00       | Pendente |
-| Will Bank - Cartão        | -R$ 700,00       | R$ 0,00     | -     | -R$ 700,00       | Pendente |
-| Nu Bank - Cartão          | -R$ 103,00       | R$ 0,00     | -     | -R$ 103,00       | Pendente |
-| Receita Federal           | -R$ 900,00       | R$ 0,00     | -     | -R$ 900,00       | Pendente |
-| **Total Dívidas**         | **-R$ 3.658,00** | **R$ 0,00** | **-** | **-R$ 3.658,00** |          |
+| Credor               | Saldo Inicial    | Pagamentos  | Juros | Saldo Final      | Status   |
+| -------------------- | ---------------- | ----------- | ----- | ---------------- | -------- |
+| PicPay - Cartão      | -R$ 1.600,00     | R$ 0,00     | -     | -R$ 1.600,00     | Pendente |
+| PicPay - Empréstimo  | -R$ 355,00       | R$ 0,00     | -     | -R$ 355,00       | Pendente |
+| Will Bank - Cartão   | -R$ 20,00        | R$ 0,00     | -     | -R$ 20,00        | Pendente |
+| Nu Bank - Cartão     | -R$ 1.080,00     | R$ 0,00     | -     | -R$ 1.080,00     | Pendente |
+| Receita Federal      | -R$ 900,00       | R$ 0,00     | -     | -R$ 900,00       | Pendente |
+| Dermatologista (Dez) | -R$ 600,00       | R$ 0,00     | -     | -R$ 600,00       | Pendente |
+| **Total Dívidas**    | **-R$ 4.555,00** | **R$ 0,00** | **-** | **-R$ 4.555,00** |          |
 
 ### Despesas Recorrentes Pagas
 

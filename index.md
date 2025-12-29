@@ -9,7 +9,7 @@
 
 | 💰 Saldo Disponível | 📉 Dívidas Imediatas |  🎯 Meta Emergencial   |
 | :-----------------: | :------------------: | :--------------------: |
-|    **R$ 1.077**     |     **R$ 3.681**     |      **R$ 3.204**      |
+|    **R$ 1.077**     |     **R$ 4.301**     |      **R$ 3.204**      |
 |   _(Caixa Atual)_   |  _(Vencidas + Jan)_  | _(Para Sobrevivência)_ |
 
 ---
@@ -22,6 +22,7 @@
 - **Estoque:** Água (2L), Comida (Baixo), Remédios (Ok).
 - **Ação de Hoje:** Compra de GitHub Pro+ (Ferramenta de trabalho) + Jantar.
 - **Planejamento (29/12):** Ração/Remédio Gatos + Faxina.
+- **Suspensão Médica:** Natação suspensa em Janeiro (Pós-operatório difícil). Retorno previsto: Fev/2026 (com sorte).
 
 ---
 
@@ -58,8 +59,11 @@
 2.  🔴 **Gatos:** Ração e areia (estoque zerado).
 3.  🟠 **Dívidas:**
     - PicPay (08/01): R$ 1.471
-    - Nubank (26/01): R$ 1.080
+    - Nubank (02/01): R$ 1.080
     - MEI: R$ 900
+    - Dermatologista (Dez): R$ 600
+    - 99app (Vencida): R$ 230
+    - Will Bank (12/01): R$ 20
 
 ---
 

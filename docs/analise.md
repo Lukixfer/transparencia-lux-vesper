@@ -197,7 +197,7 @@ Vamos desmontar:
 
 **Saúde: R$ 1.600/mês**
 
-- Natação: R$ 400 (prescrição médica, não hobby)
+- Natação: R$ 400 (prescrição médica, não hobby) _[Suspensa Jan/2026 - Pós-operatório]_
 - Dermato: R$ 600 (problema de pele crônico)
 - Farmácia: R$ 500 (lítio, ansiolíticos, antinflamatórios, protetor solar = mantém funcional)
 - Oxigênio: R$ 100 (para asma, quando tem crise)
